@@ -2,7 +2,7 @@
 
 Juklak FTIS UNPAR, based on project made by https://github.com/herfanheryandi/eJuklak
 
-# Modification
+## Modification
 
 The main source is under `markdown/` directory. Please update the files inside for modification.
 
