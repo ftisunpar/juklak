@@ -2,15 +2,21 @@
 
 Juklak FTIS UNPAR, based on project made by https://github.com/herfanheryandi/eJuklak
 
+Download app under [releases](https://github.com/ftisunpar/juklak/releases) section (Google Play pending).
+
+Browse through source code to see how it works.
+
 ## Modification
+
+### Content
 
 The main source is under `markdown/` directory. Please update the files inside for modification.
 
-## Publish to Website
+### Publish to Website
 
 TODO.
 
-## Export to Android App
+### Export to Android App
 
 Requirements:
 
@@ -24,3 +30,16 @@ Steps:
 3. Edit `ejuklak_FTIS.html` and add this line inside `<head>` tag: `<link rel="stylesheet" type="text/css" href="css/style.css">`.
 4. Open the android project under `app/android/` using Android Studio. 
 5. Build by selecting "Build > Generate Signed APK..." and use `app/signature.jks` keystore (for passwords, contact pascal@unpar.ac.id)
+
+## Background
+
+This app is the _winner_ (by @pascalalfadian standard) amongst 8 groups participating in "Proyek Informatika" course in 2015. The complete list of their product can be found in the following links:
+
+* https://github.com/herfanheryandi/eJuklak
+* https://github.com/TommyAdhityaThe/eJuklak
+* https://github.com/abrahamrendy/eJuklak
+* https://github.com/cliffordsugijanto/eJuklak
+* https://github.com/RaynaldioLimarga/eJuklak
+* https://github.com/KevinJonathan7312053/eJuklak
+* https://github.com/astridsoraya/eJuklak
+* https://github.com/frashidayat/eJuklak
