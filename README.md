@@ -2,7 +2,7 @@
 
 Juklak FTIS UNPAR, based on project made by https://github.com/herfanheryandi/eJuklak
 
-Download app under [releases](https://github.com/ftisunpar/juklak/releases) section (Google Play pending).
+Download app under [releases](https://github.com/ftisunpar/juklak/releases) section or at Google [Play Store](https://play.google.com/store/apps/details?id=ftis.unpar.ejuklakapp).
 
 Browse through source code to see how it works.
 
