@@ -14,7 +14,15 @@ The main source is under `markdown/` directory. Please update the files inside f
 
 ### Publish to Website
 
-TODO.
+Requirements:
+
+* pandoc (http://pandoc.org/)
+
+Steps:
+
+1. Generate HTML by running this command `pandoc eJuklak_FTIS.md -s -c css/style.css --toc -o index.html`.
+2. Copy `index.html`, `css/`, and `images/` into `gh-pages` branch of the repository.
+3. Commit and push.
 
 ### Export to Android App
 
@@ -25,11 +33,10 @@ Requirements:
 
 Steps:
 
-1. Generate HTML by running this command `pandoc ejuklak_FTIS.md -s -o ejuklak_FTIS.html` in the directory `markdown/`.
-2. Copy `ejuklak_FTIS.html` and `images/` folder into `app/android/app/src/main/assets` (replacing old ones, but don't delete `css/` folder).
-3. Edit `ejuklak_FTIS.html` and add this line inside `<head>` tag: `<link rel="stylesheet" type="text/css" href="css/style.css">`.
-4. Open the android project under `app/android/` using Android Studio. 
-5. Build by selecting "Build > Generate Signed APK..." and use `app/signature.jks` keystore (for passwords, contact pascal@unpar.ac.id)
+1. Generate HTML by running this command `pandoc ejuklak_FTIS.md -s -c css/style.css -o ejuklak_FTIS.html` in the directory `markdown/`.
+2. Copy `ejuklak_FTIS.html`, `css/`, and `images/` into `app/android/app/src/main/assets`.
+3. Open the android project under `app/android/` using Android Studio. 
+4. Build by selecting "Build > Generate Signed APK..." and use `app/signature.jks` keystore (for passwords, contact pascal@unpar.ac.id)
 
 ## Background
 
