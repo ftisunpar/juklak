@@ -20,8 +20,8 @@ Requirements:
 
 Steps:
 
-1. Generate HTML by running this command `pandoc eJuklak_FTIS.md -s -c css/style.css --toc -o index.html`.
-2. Copy `index.html`, `css/`, and `images/` into `gh-pages` branch of the repository.
+1. In `markdown/` folder, execute `build-web.bat`.
+2. Copy the files and folder as instructed in the output `build-web.bat` into gh-pages branch.
 3. Commit and push.
 
 ### Export to Android App
