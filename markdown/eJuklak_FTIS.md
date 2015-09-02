@@ -1,3 +1,5 @@
+> **Catatan**: Perubahan-perubahan yang terjadi di FTIS (pimpinan, peraturan) terjadi cukup cepat, sedangkan juklak hanya diperbaharui paling cepat setahun sekali. Dokumen ini adalah versi _unofficial_ dari Juklak, dengan perubahan-perubahan terkini. -Pascal-
+
 **PETUNJUK PELAKSANAAN KEGIATAN AKADEMIK TAHUN 2014/2015**
 
 
@@ -129,7 +131,7 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
     - Ketua : Agus Sukmana, SSi, MSc
     - Sekretaris : Philips Nicolas Gunawidjaja, BSc, PhD
 2. Dekanat
-    - Dekan : Paulus Cahyono Tjiang, SSi, PhD.
+    - Dekan : Dr. Ferry Jaya Permana, ASAI
     - WD 1 (Akademik) : Dr. Thomas Anung Basuki
     - WD II (Keuangan dan Sumberdaya) : Maria Anestasia, SSi, MSi
     - WD III (Kemahasiswaan dan Alumni) : Dr.rer.nat. Cecilia E.Nugraheni, ST, MT
