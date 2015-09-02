@@ -33,8 +33,8 @@ Requirements:
 
 Steps:
 
-1. Generate HTML by running this command `pandoc ejuklak_FTIS.md -s -c css/style.css -o ejuklak_FTIS.html` in the directory `markdown/`.
-2. Copy `ejuklak_FTIS.html`, `css/`, and `images/` into `app/android/app/src/main/assets`.
+1. In `markdown/` folder, execute `build-android.bat`.
+2. Copy the files and folder as instructed in the output `build-web.bat` into gh-pages branch.
 3. Open the android project under `app/android/` using Android Studio. 
 4. Build by selecting "Build > Generate Signed APK..." and use `app/signature.jks` keystore (for passwords, contact pascal@unpar.ac.id)
 
