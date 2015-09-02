@@ -143,8 +143,8 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
     - KaLab. Fisika Dasar : Risti Suryantari, S.Si., M.Si.
     - KaLab. Elektronika &amp; Fisika Lanjut : Janto V. Sulungbudi, Drs.
 5. Program Studi Teknik Informatika
-    - Ketua : Dr. Thomas Anung Basuki
-    - Sekretaris : Lionov, S.Kom, MSc
+    - Ketua : Mariskha Tri Adithia, SSi, MSc
+    - Sekretaris : Husnul Hakim, S.Kom, MT
     - KaLab. Komputasi : Chandra Wijaya, ST, MT
 6. Tata Usaha
     - Kepala : Pranyoto Teguh Imanto
