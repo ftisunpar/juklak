@@ -205,11 +205,8 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
     * Liem Chin, SSi.(UNPAR), MSi.(ITB):  
     Matematika Diskret, Aljabar Linear, Komputasi Statistika.  
     Email: chin@unpar.ac.id
-    * Oerip S. Santoso, dr (UI), MSc. (Univ. Wisconsin Madison.USA), Dr.(Univ. Paris VI):  
-    Struktur Diskret, Grafika Komputer, Komputer dan Masyarakat, Projek Perangkat Lunak.  
-    Email: oerip_ss@yahoo.com
     * Philips Nicolas Gunawidjaja, BSc. (University of Warwick,UK), PhD. (University of Warwick, UK):  
-    Keterampilan Fisika, Elektronika 1 &amp; 2, Struktur Materi.  
+    Keterampilan Fisika, Elektronika 1 &amp; 2, Lab. Fisika Modern.  
     Email: philips@unpar.ac.id
     * Rosa de Lima E.P., SSi (ITB), MT (ITB), Studi S-3 di UPI:  
     Sistem Informarsi, Sistem Pendukung Keputusan.  
@@ -226,18 +223,18 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
     Email: ivonne@unpar.ac.id
     * Janto Vincent Sulungbudi, SSi (ITB):  
     Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, Pengantar Kontrol Otomatis.  
-    Email: janto@unpar.ac.id, janto.sulungbudi@gmail.com
+    Email: janto@unpar.ac.id
     * Lionov, S.Kom (UNPAR), MSc. (Utrecht Univ. - Belanda):  
-    Pemrograman Berorientasi Objek, Algoritma dan Struktur Data, Koordinator Skripsi.  
+    Pemrograman Berorientasi Objek, Algoritma dan Struktur Data.  
     Email: lionov@unpar.ac.id
     * Livia Owen, SSi (UNPAR), MSi (ITB):  
-    Kalkulus Vektor, Komputasi Matematika, Fisika Matematik II.  
+    Kalkulus Vektor, Komputasi Matematika, Persamaan Diferensial Parsial.  
     Email: livia.owen@unpar.ac.id
     * Luciana Abednego, S.Kom (UNPAR), MT (ITB):  
     Logika Informatika, Algoritma dan Struktur Data, Grafika Komputer.  
     Email: luciana@unpar.ac.id
     * Taufik Limansyah, SSi (UNPAR), Studi S-2 Teknik Industri di UNPAR:  
-    Kalkulus 1, Kalkulus II, Fisika Matematik 1.  
+    Kalkulus 1, Teori Keandalan, Pemodelan Stokastik.  
     Email: taufik.limansyah@unpar.ac.id
     * Thomas Anung Basuki, ST (ITB), MKom (UI), Dr. (University of Pisa - Italia):  
     Pengantar Sistem Cerdas, Rekayasa Perangkat Lunak, Penulisan Ilmiah.  
@@ -246,6 +243,9 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
     Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor.  
     Email: maria.anestasia@unpar.ac.id
 5. Golongan III
+    * Aditya Bagoes Saputra., S.T. & M.T. (Univ. Telkom):  
+    Pengantar Sistem Cerdas, Arsitektur dan Organisasi Komputer.  
+    Email: aditya.bagoes@unpar.ac.id
     * Chandra Wijaya, S.Kom (UNPAR), MT (ITB):  
     Jaringan Komputer, Sistem Digital.  
     Email: chandraw@unpar.ac.id
@@ -256,22 +256,29 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
     Fisika Dasar, Pengantar Fisika Nuklir, Fisika Kedokteran, Fisika Instrumentasi Medis.  
     Email: flaviana@unpar.ac.id
     * Haryanto Mangaratua Siahaan, SSi (ITB), MSi (ITB), Studi S-3 di University of Saskatchewan.  
+    Fisika Modern , Teori Relativitas  
     Email: haryanto.siahaan@gmail.com
+    *Husnul Hakim, SKom (ITS), MT (ITB):   
+    Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data, Desaian Antarmuka Grafis.  
+    Email: husnulhakim@unpar.ac.id.
+    * Joanna Helga, S.Kom. (UNPAR), M.Sc. (Univ. of York – Kanada):  
+    Desain dan Analisis Algoritma, Komputasi Paralel  
+    Email: joanna@unpar.ac.id.
     * Kian Ming, SSi (UNPAR), S-2 (ITB):  
     Fisika Dasar, Teori Relativitas, Kosmologi Relativistik  
     Email: kian.ming@unpar.ac.id.
     * Mariskha Tri Adithia, SSi (ITB), MSc (Universiteit Eindhoven - Belanda), PDEng (Universiteit Eindhoven - Belanda):  
-    Struktur Diskret, Kriptografi, Logika Informatika.  
+    Struktur Diskret, Kriptografi, Logika Informatika, Koordinator Skripsi.  
     Email: mariskha@unpar.ac.id
     * Pascal Alfadian, S.Kom (UNPAR), MCom (NUS - Singapore):  
     Analisis dan Desain Berorientasi Objek, Pemrograman Beorientasi Objek.  
     Email: pascal@unpar.ac.id
+    * Reinard Primulando, S.Si. (ITB), M.Sc. & Ph.D. (William and Mary College – USA):   
+    Fisika Dasar, Kosmologi Relativistik.  
+    Email: rprimulando@unpar.ac.id
     * Risti Suryantari, SSi (UGM), MSc (UGM):  
     Fisika Dasar, Fisika Modern, Gelombang, Fisika Kristal Cair.  
     Email: ristisuryantari@unpar.ac.id.
-    * Husnul Hakim, S.Kom (ITS), MT (ITB):  
-    Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data.  
-    Email: husnulhakim@unpar.ac.id
     * Vania Natali, S.Kom (UNPAR), studi S2 - ITB.  
     Email: vania.natali@unpar.ac.id
 
@@ -1337,13 +1344,13 @@ Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa **menyelesa
 
 Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut :  
 
-| BENTUK KEGIATAN       | KOMPONEN KEGIATAN                                          | KOMPONEN EVALUASI (ANGKA)               | KOMPONEN EVALUASI (&#37;)               |
-|-----------------------|------------------------------------------------------------|-----------------------------------------|-----------------------------------------|
-| Perkuliahan           | Pelaksanaan Tugas                                          | Angka Rata-rata Tugas (ART)             | 20&#37; - 40&#37;                       |
-| Perkuliahan           | Tatap Muka                                                 | Angka Ujian Tengah Semester (AUTS)      | 30&#37; - 50&#37;                       |
-| Perkuliahan           | Tatap Muka                                                 | Angka Ujian Akhir Semester (AUAS)       | 30&#37; - 50&#37;                       |
-| Seminar/Studi Mandiri | Penyajian, Diskusi/Partisipasi, Penyusunan Makalah/Laporan | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
-| Skripsi               | Penyusunan dan Penyajian                                   | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |  
+| BENTUK KEGIATAN       | KOMPONEN KEGIATAN                       | KOMPONEN EVALUASI (ANGKA)               | KOMPONEN EVALUASI (&#37;)                   |
+|-----------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
+| Perkuliahan           | Pelaksanaan Tugas                       | Angka Rata-rata Tugas (ART)             | 20&#37; - 40&#37;                               |
+| Perkuliahan           | Tatap Muka                              | Angka Ujian Tengah Semester (AUTS)      | 30&#37; - 50&#37;                               |
+| Perkuliahan           | Tatap Muka                              | Angka Ujian Akhir Semester (AUAS)       | 30&#37; - 50&#37;                               |
+| Seminar/Studi Mandiri | Partisipasi,Penyusunan Makalah /Laporan | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
+| Skripsi               | Penyusunan dan Penyajian                | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |  
 
 Berdasarkan pertimbangan akademik, Dekan dapat mengubah Komponen Evaluasi bagi suatu Bentuk Kegiatan seperti tersebut di atas, sejauh tidak bertentangan dengan peraturan perundang-undangan yang berlaku.
 
@@ -1367,7 +1374,7 @@ Berdasarkan pertimbangan akademik, Dekan FTIS dapat memutuskan untuk melakukan k
 
 ## 4.2 Evaluasi Keberhasilan Belajar Dalam Suatu Tahap Belajar
 
-Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa mulai masuk ke program studinya. Evaluasi ini terdiri atas :  
+Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa mulai masuk ke program studinya. Evaluasi ini terdiri atas:  
 
 1. Evaluasi Keberhasilan Belajar Tiap Semester
 2. Evaluasi Keberhasilan Belajar Tahap Pertama
@@ -1416,11 +1423,11 @@ Jika persyaratan di atas tidak terpenuhi, maka mahasiswa yang bersangkutan **tid
 
 IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh mahasiswa, dan digunakan untuk menetapkan yudisium (sebutan) kelulusan, dengan ketentuan sbb.:
 
-| IPK         | YUDISIUM                                               |
-|-------------|--------------------------------------------------------|
-| 2,00 - 2,75 | Memuaskan                                              |
-| 2,76 - 3,50 | Sangat Memuaskan                                       |
-| 3,51 - 4,00 | Dengan Pujian (masa studi terpakai &lt;= 9 semester)   |
+| IPK         | YUDISIUM                                            |
+|-------------|-----------------------------------------------------|
+| 2,00 - 2,75 | Memuaskan                                           |
+| 2,76 - 3,50 | Sangat Memuaskan                                    |
+| 3,51 - 4,00 | Dengan Pujian (masa studi terpakai &lt;= 9 semester)    |
 | 3,51 - 4,00 | Sangat Memuaskan (masa studi terpakai &gt; 9 semester) |
 
 ## 4.3 Kemampuan Bahasa Inggris Mahasiswa UNPAR  
@@ -1432,7 +1439,7 @@ Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08
 3. Skor 173 (seratus tujuh puluh tiga) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes menggunakan komputer (computer-based TOEFL), atau
 4. Skor 5,0 (lima koma nol) yang diperoleh melalui pelaksanaan IELTS.
 
-Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal tersebut harus telah dicapai oleh mahasiswa yang bersangkutan selambat-lambatnya pada saat Evaluasi Studi Tahap II. Jika pada batas waktu tersebut seorang mahasiswa belum dapat memenuhi skor minimal yang disyaratkan, maka mahasiswa tersebut dapat mengajukan permohonan dispensasi kepada Rektor asalkan memenuhi persyaratan tertentu. Tentang dispensasi ini lebih lanjut diatur pada pasal 5 dari SK Rektor (lihat lampiran).  
+Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal tersebut harus telah dicapai oleh mahasiswa yang bersangkutan selambat-lambatnyapada saat Evaluasi Studi Tahap II. Jika pada batas waktu tersebut seorang mahasiswa belum dapat memenuhi skor minimal yang disyaratkan, maka mahasiswa tersebut dapat mengajukan permohonan dispensasi kepada Rektor asalkan memenuhi persyaratan tertentu. Tentang dispensasi ini lebih lanjut diatur pada pasal 5 dari SK Rektor (lihat lampiran).  
 
 # LAMPIRAN 1  
 
