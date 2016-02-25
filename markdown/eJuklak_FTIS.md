@@ -40,7 +40,7 @@ Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilk
 **Bandung**,  
 **Dekan**, 
   
-**Paulus Cahyono Tjiang, Ph.D.**
+**Dr. drs. Ferry Jaya Permana, M.Si., ASAI**
 
 
 # BAB 1 PENDAHULUAN  
@@ -131,12 +131,12 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
     - Ketua : Agus Sukmana, SSi, MSc
     - Sekretaris : Philips Nicolas Gunawidjaja, BSc, PhD
 2. Dekanat
-    - Dekan : Dr. Ferry Jaya Permana, ASAI
+    - Dekan :Paulus Cahyono Tijang, SSi , PhD.
     - WD 1 (Akademik) : Dr. Thomas Anung Basuki
     - WD II (Keuangan dan Sumberdaya) : Maria Anestasia, SSi, MSi
     - WD III (Kemahasiswaan dan Alumni) : Dr.rer.nat. Cecilia E.Nugraheni, ST, MT
 3. Program Studi Matematika
-    - Ketua : Dr. Ferry Jaya Permana
+    - Ketua : Dr. drs. Ferry Jaya Permana
     - Sekretaris : Livia Owen, SSi, MSi
 4. Program Studi Fisika
     - Ketua : Philips Nicolas Gunawidjaja, BSc, PhD
