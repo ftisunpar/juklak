@@ -1,6 +1,6 @@
 > **Catatan**: Perubahan-perubahan yang terjadi di FTIS (pimpinan, peraturan) terjadi cukup cepat, sedangkan juklak hanya diperbaharui paling cepat setahun sekali. Dokumen ini adalah versi _unofficial_ dari Juklak, dengan perubahan-perubahan terkini. -Pascal-
 
-**PETUNJUK PELAKSANAAN KEGIATAN AKADEMIK TAHUN 2015/2016**
+**PETUNJUK PELAKSANAAN KEGIATAN AKADEMIK TAHUN 2014/2015**
 
 
 ![Logo UNPAR](images/unpar.png "Logo UNPAR")
@@ -1124,7 +1124,7 @@ Kegiatan Akademik di lingkungan FTIS, dan UNPAR pada umumnya, terdiri atas:
 
 ## 3.1 Penyusunan Rencana Studi
 
-### 3.1.1 Perwalian dan Penentuan Mata Kuliah  
+### 3.1.1 Perwalian dan Penentuan Mata Kuliah
 
 Sebelum mengikuti kegiatan akademik seperti mata kuliah, responsi dan praktikum, pada setiap semester seorang mahasiswa perlu menyusun **rencana studi** bagi dirinya. Rencana studi ini memuat daftar mata kuliah yang akan diikuti pada semester yang bersangkutan.
 
@@ -1162,15 +1162,15 @@ Mahasiswa akan menerima email yang berisi informasi tentang hasil registrasi mat
 > **Catatan:**
 > Jika karena sesuatu hal mahasiswa tidak dapat mengikuti tahap perwalian dan perencanaan studi, maka mahasiswa tersebut **dapat diwakilkan oleh mahasiswa FTIS UNPAR**, dengan mengisi formulir terkait di Tata Usaha FTIS. Jumlah beban maksimum untuk perwalian dan perencanaan studi yang diwakilkan adalah **10 sks**. Tata cara perwalian dan perencanaan studi yang diwakilkan tetap mengikuti prosedur di atas.
 
-### 3.1.3 Tahap Perkuliahan Awal  
+### 3.1.3 Tahap Perkuliahan Awal
 
 Kuliah, responsi, dan praktikum **perdana** adalah **penting**, karena pada umumnya dosen menjelaskan berbagai tata cara, bobot penilaian dan tata tertib pelaksanaan kegiatan perkuliahan terkait. **Karena itu hendaknya mahasiswa telah hadir sejak awal perkuliahan ini.** Jika terpaksa tidak hadir karena sesuatu hal, mahasiswa perlu segera menanyakan tata cara dan tata tertib tersebut kepada dosen atau rekan mahasiswa yang mempunyai catatan yang lengkap.
 
-### 3.1.4 Perubahan Rencana Studi  
+### 3.1.4 Perubahan Rencana Studi
 
 Jika selama satu minggu pertama kuliah, mahasiswa hendak mengubah rencana studi yang telah dilakukan, maka mahasiswa tersebut perlu mengikuti **tahap perubahan rencana studi.** Namun disarankan agar mahasiswa berusaha sedapat mungkin **menghindari** tahap perubahan rencana studi ini, karena cenderung merugikan diri sendiri dari segi waktu maupun efisiensi studi.
 
-## 3.2 Kegiatan Perkuliahan  
+## 3.2 Kegiatan Perkuliahan
 
 Setiap mahasiswa yang telah memiliki KTM dan telah menyelesaikan kewajiban pembayarannya, pada dasarnya berhak mengikuti seluruh kegiatan akademik sesuai dengan kesepakatan hasil perwalian (ditunjukkan melalui email konfirmasi hasil pengisian FRS dan/atau PRS). Hak ini tentunya masih dapat diubah oleh dosen terkait, jika dinilai bahwa kelakuan dan unjuk-kerja mahasiswa itu tidak memadai. 
 
@@ -1271,7 +1271,7 @@ Mahasiswa yang terbukti melakukan **pelanggaran norma kejujuran** pada saat meng
 2. Untuk kali kedua: seluruh nilai mata kuliah pada semester terkait mahasiswa yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
 3. Untuk kali selanjutnya: sanksi yang lebih berat, yang akan ditetapkan melalui rapat pimpinan fakultas.
 
-### 3.3.4 Lain-lain  
+### 3.3.4 Lain-lain
 
 1. **Tidak ada ujian khusus** untuk perbaikan nilai ujian.
 2. Tidak ada ujian khusus bagi mahasiswa yang tidak hadir dalam ujian. Apabila mahasiswa yang bersangkutan mengalami hal-hal di bawah ini saat ujian mata kuliah mahasiswa yang bersangkutan sedang berlangsung:
@@ -1287,13 +1287,13 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 
 (berdasarkan SK Rektor UNPAR No. III/PRT/2004-01/07)
 
-### 3.4.1 Persyaratan Cuti Studi  
+### 3.4.1 Persyaratan Cuti Studi
 
 1. Mahasiswa yang **cuti studi** adalah mahasiswa yang tidak dapat melanjutkan studi untuk kurun waktu tertentu karena alasan-alasan yang dapat dipertanggungjawabkan dan diijinkan oleh UNPAR.
 2. Seorang mahasiswa dapat mengambil cuti studi tidak lebih dari 2 (dua) semester berturut-turut dan sebanyak-banyaknya 4 (empat) semester selama masa studinya.
 3. Cuti studi dapat diberikan kepada mahasiswa yang telah mengikuti program pendidikan di jurusan terkait **sekurang-kurangnya 2 (dua) semester berturut-turut.**
 
-### 3.4.2 Prosedur Cuti Studi  
+### 3.4.2 Prosedur Cuti Studi
 
 1. Mahasiswa wajib mengisi **Surat Permohonan Cuti Studi Mahasiswa** yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi ***rekomendasi dosen wali*** mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS **selambat-lambatnya sebelum berakhirnya masa PRS** semester terkait dengan cuti tersebut.
 2. Kriteria untuk memberi ijin tersebut adalah :
@@ -1347,13 +1347,13 @@ Evaluasi keberhasilan belajar yang diuraikan berikut ini berdasarkan kepada :
 1. Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 tentang Evaluasi Keberhasilan Belajar Dalam Mata Kuliah Dan Evaluasi Tahap Keberhasilan Belajar Pada Program Sarjana Dan Program Diploma-III di Lingkungan Universitas Katolik Parahyangan.
 2. Keputusan Dekan No. III/FMIPA/2007-04/396-SK tentang Evaluasi Keberhasilan Belajar Tahap Pertama Dan Tahap Kedua Pada Program Stratum-1 Di Lingkungan Fakultas Matematika Dan Ilmu Pengetahuan Alam Universitas Katolik Parahyangan.
 
-## 4.1 Evaluasi Keberhasilan Belajar Tiap Mata Kuliah  
+## 4.1 Evaluasi Keberhasilan Belajar Tiap Mata Kuliah
 
 Evaluasi keberhasilan belajar mata kuliah adalah penilaian terhadap hasil belajar mahasiswa dalam suatu mata kuliah, yang dilakukan secara menyeluruh dan berkesinambungan dalam satu semester dengan cara yang sesuai dengan karakteristik mata kuliah yang bersangkutan.
 
 Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa **menyelesaikan seluruh Komponen Kegiatan** yang disyaratkan dalam suatu mata kuliah. Kriteria keberhasilan belajar mahasiswa dalam suatu mata kuliah ditetapkan oleh dosen pembina mata kuliah, dengan menaati rambu-rambu dalam SK Rektor dan SK Dekan tersebut di atas. 
 
-Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut :  
+Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut :
 
 | BENTUK KEGIATAN       | KOMPONEN KEGIATAN                       | KOMPONEN EVALUASI (ANGKA)               | KOMPONEN EVALUASI (&#37;)                   |
 |-----------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
@@ -1361,7 +1361,7 @@ Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahas
 | Perkuliahan           | Tatap Muka                              | Angka Ujian Tengah Semester (AUTS)      | 30&#37; - 50&#37;                               |
 | Perkuliahan           | Tatap Muka                              | Angka Ujian Akhir Semester (AUAS)       | 30&#37; - 50&#37;                               |
 | Seminar/Studi Mandiri | Partisipasi,Penyusunan Makalah /Laporan | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
-| Skripsi               | Penyusunan dan Penyajian                | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |  
+| Skripsi               | Penyusunan dan Penyajian                | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
 
 Berdasarkan pertimbangan akademik, Dekan dapat mengubah Komponen Evaluasi bagi suatu Bentuk Kegiatan seperti tersebut di atas, sejauh tidak bertentangan dengan peraturan perundang-undangan yang berlaku.
 
@@ -1371,7 +1371,7 @@ Apabila seorang mahasiswa tidak dapat memenuhi salah satu komponen evaluasi yang
 
 **Komponen Evaluasi** dinyatakan dalam bentuk angka dengan rentang **0 – 100** dengan pembulatan angka pecahan hingga **satuan terdekat**, dengan ketentuan bilangan pecahan &gt;= 0,5 dibulatkan menjadi 1 dan bilangan pecahan &lt; 0,5 dibulatkan menjadi 0.
 
-Konversi **Angka Akhir (AA)** menjadi **Nilai Akhir (NA)** dilakukan dengan **Penilaian Acuan Patokan (PAP)** sebagai berikut :  
+Konversi **Angka Akhir (AA)** menjadi **Nilai Akhir (NA)** dilakukan dengan **Penilaian Acuan Patokan (PAP)** sebagai berikut :
 
 | AA       | NA | BOBOT NA |
 |----------|----|----------|
@@ -1385,7 +1385,7 @@ Berdasarkan pertimbangan akademik, Dekan FTIS dapat memutuskan untuk melakukan k
 
 ## 4.2 Evaluasi Keberhasilan Belajar Dalam Suatu Tahap Belajar
 
-Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa mulai masuk ke program studinya. Evaluasi ini terdiri atas:  
+Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa mulai masuk ke program studinya. Evaluasi ini terdiri atas:
 
 1. Evaluasi Keberhasilan Belajar Tiap Semester
 2. Evaluasi Keberhasilan Belajar Tahap Pertama
@@ -1394,13 +1394,13 @@ Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa
 
 ### 4.2.1 Evaluasi Keberhasilan Belajar Tiap Semester  
 
-Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah mahasiswa menempuh UAS. Evaluasi Keberhasilan Belajar tiap semester ini dinyatakan dalam **Indeks Prestasi Semester (IPS)** yang mempunyai rentang **0,00 – 4,00** dan dihitung dengan rumus:  
+Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah mahasiswa menempuh UAS. Evaluasi Keberhasilan Belajar tiap semester ini dinyatakan dalam **Indeks Prestasi Semester (IPS)** yang mempunyai rentang **0,00 – 4,00** dan dihitung dengan rumus:
 
-![Rumus Indeks Prestasi Semester](images/formula_bab4_1.PNG "Rumus Indeks Prestasi Semester")  
+![Rumus Indeks Prestasi Semester](images/formula_bab4_1.PNG "Rumus Indeks Prestasi Semester")
 
 dengan (SKS[i] x bobot NA[i]) = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. IPS digunakan untuk menetapkan **beban kredit** yang dapat ditempuh mahasiswa pada **semester berikutnya**.
 
-### 4.2.2 Evaluasi Keberhasilan Belajar Tahap Pertama  
+### 4.2.2 Evaluasi Keberhasilan Belajar Tahap Pertama
 
 Evaluasi Keberhasilan Belajar Tahap Pertama dilakukan **pada akhir 2 (dua) tahun pertama**, atau **pada akhir masa studi terpakai selama 4 (empat) semester**, terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR. Evaluasi Keberhasilan Belajar Tahap Pertama dinyatakan dalam **Indeks Prestasi Tahap Pertama (IPT I)**, dengan rentang **0,00 – 4,00**.
 
@@ -1408,7 +1408,7 @@ Persyaratan yang **harus dipenuhi** pada Evaluasi Keberhasilan Belajar Tahap Per
 
 Semester di mana mahasiswa diijinkan mengambil **cuti studi tidak diperhitungkan** dalam Evaluasi Keberhasilan Belajar Tahap Pertama.
 
-### 4.2.3 Evaluasi Keberhasilan Belajar Tahap Kedua  
+### 4.2.3 Evaluasi Keberhasilan Belajar Tahap Kedua
 
 Evaluasi Keberhasilan Belajar Tahap Kedua dilakukan **pada akhir 4 (empat) tahun pertama**, atau **pada akhir masa studi terpakai selama 8 (delapan) semester** terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR. Evaluasi Keberhasilan Belajar Tahap Kedua dinyatakan dalam **Indeks Prestasi Tahap Kedua (IPT II)**, dengan rentang **0,00 – 4,00**.
 
@@ -1416,15 +1416,15 @@ Persyaratan yang **harus dipenuhi** pada Evaluasi Keberhasilan Belajar Tahap Ked
 
 Semester di mana mahasiswa diijinkan mengambil **cuti studi tidak diperhitungkan** dalam Evaluasi Keberhasilan Belajar Tahap Kedua.
 
-### 4.2.4 Evaluasi Keberhasilan Belajar Tahap Akhir  
+### 4.2.4 Evaluasi Keberhasilan Belajar Tahap Akhir
 
 Evaluasi Keberhasilan Belajar Tahap Akhir dilakukan pada akhir masa studi maksimal mahasiswa program Sarjana di UNPAR, yaitu 7 (tujuh) tahun, atau pada akhir masa studi terpakai selama 14 (empat belas) semester terhitung sejak yang bersangkutan terdaftar sebagai mahasiswa UNPAR.
 
-Evaluasi Keberhasilan Belajar Tahap Akhir dinyatakan dalam **Indeks Prestasi Kumulatif (IPK)**, dengan rentang **0,00 – 4,00** yang dihitung dengan rumus:  
+Evaluasi Keberhasilan Belajar Tahap Akhir dinyatakan dalam **Indeks Prestasi Kumulatif (IPK)**, dengan rentang **0,00 – 4,00** yang dihitung dengan rumus:
 
 ![Rumus Indeks Prestasi Komulatif](images/formula_bab4_2.PNG "Rumus Indeks Prestasi Komulatif") 
 
-dengan (SKS[i] x bobot NA[i]) = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. Mahasiswa dinyatakan **lulus** dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut:  
+dengan (SKS[i] x bobot NA[i]) = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. Mahasiswa dinyatakan **lulus** dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut:
 
 1. Telah lulus **seluruh beban SKS** yang dipersyaratkan dalam kurikulum prodi terkait.
 2. IPK &gt;= 2,00.
@@ -1441,16 +1441,16 @@ IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh ma
 | 3,51 - 4,00 | Dengan Pujian (masa studi terpakai &lt;= 9 semester)    |
 | 3,51 - 4,00 | Sangat Memuaskan (masa studi terpakai &gt; 9 semester) |
 
-## 4.3 Kemampuan Bahasa Inggris Mahasiswa UNPAR  
+## 4.3 Kemampuan Bahasa Inggris Mahasiswa UNPAR
 
-Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08/148 tentang Standar Kemampuan Bahasa Inggris Mahasiswa Universitas Katolik Parahyangan, mulai mahasiswa angkatan 2006 dan selanjutnya, setiap mahasiswa program Sarjana dan Pascasarjana wajib memiliki kemampuan bahasa Inggris yang dinyatakan berdasarkan hasil tes di PBB (Pusat Pendidikan Berkelanjutan) UNPAR, atau pada lembaga penyelenggara tes resmi di luar UNPAR, dengan skor minimal sebagai berikut:  
+Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08/148 tentang Standar Kemampuan Bahasa Inggris Mahasiswa Universitas Katolik Parahyangan, mulai mahasiswa angkatan 2006 dan selanjutnya, setiap mahasiswa program Sarjana dan Pascasarjana wajib memiliki kemampuan bahasa Inggris yang dinyatakan berdasarkan hasil tes di PBB (Pusat Pendidikan Berkelanjutan) UNPAR, atau pada lembaga penyelenggara tes resmi di luar UNPAR, dengan skor minimal sebagai berikut:
 
 1. Skor 500 (lima ratus) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes tertulis (*paper-based* TOEFL), atau
 2. Skor 59-60 (lima puluh sembilan sampai enam puluh) yang diperoleh melalui pelaksanaan test TOEFL dengan metode tes melalui internet (*internet-based* TOEFL), atau
 3. Skor 173 (seratus tujuh puluh tiga) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes menggunakan komputer (*computer-based* TOEFL), atau
 4. Skor 5,0 (lima koma nol) yang diperoleh melalui pelaksanaan IELTS.
 
-Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal tersebut harus telah dicapai oleh mahasiswa yang bersangkutan selambat-lambatnyapada saat Evaluasi Studi Tahap II. Jika pada batas waktu tersebut seorang mahasiswa belum dapat memenuhi skor minimal yang disyaratkan, maka mahasiswa tersebut dapat mengajukan permohonan dispensasi kepada Rektor asalkan memenuhi persyaratan tertentu. Tentang dispensasi ini lebih lanjut diatur pada pasal 5 dari SK Rektor (lihat lampiran).  
+Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal tersebut harus telah dicapai oleh mahasiswa yang bersangkutan selambat-lambatnyapada saat Evaluasi Studi Tahap II. Jika pada batas waktu tersebut seorang mahasiswa belum dapat memenuhi skor minimal yang disyaratkan, maka mahasiswa tersebut dapat mengajukan permohonan dispensasi kepada Rektor asalkan memenuhi persyaratan tertentu. Tentang dispensasi ini lebih lanjut diatur pada pasal 5 dari SK Rektor (lihat lampiran).
 
 # LAMPIRAN 1  
 
