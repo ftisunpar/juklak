@@ -40,7 +40,7 @@ Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilk
 **Bandung**,  
 **Dekan**, 
   
-**Paulus Cahyono Tjiang, Ph.D.**
+**Dr. drs. Ferry Jaya Permana, M.Si., ASAI**
 
 
 # BAB 1 PENDAHULUAN  
@@ -131,12 +131,12 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
     - Ketua : Agus Sukmana, SSi, MSc
     - Sekretaris : Philips Nicolas Gunawidjaja, BSc, PhD
 2. Dekanat
-    - Dekan : Dr. Ferry Jaya Permana, ASAI
+    - Dekan : Dr. drs Ferry Jaya Permana, M.Si., ASAI
     - WD 1 (Akademik) : Dr. Thomas Anung Basuki
     - WD II (Keuangan dan Sumberdaya) : Maria Anestasia, SSi, MSi
     - WD III (Kemahasiswaan dan Alumni) : Dr.rer.nat. Cecilia E.Nugraheni, ST, MT
 3. Program Studi Matematika
-    - Ketua : Dr. Ferry Jaya Permana
+    - Ketua : Dr. drs Ferry Jaya Permana, M.Si., ASAI
     - Sekretaris : Livia Owen, SSi, MSi
 4. Program Studi Fisika
     - Ketua : Philips Nicolas Gunawidjaja, BSc, PhD
@@ -162,10 +162,12 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 1. Guru Besar
     * Prof B. Suprapto Brotosiswojo, Dr. (Purdue University,USA):  
     Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.  
-    Email: bensupra@unpar.ac.id
+    * Prof Marcus Wono Setya Budhi,drs. &amp; M.Si. (ITB), Ph.D. (Univ. of Illinois – USA) :  
+    Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar, Pemecahan Masalah Matematika.  
+    Email: wono@math.itb.ac.id
 2. Lektor Kepala
     * Agus Sukmana, Drs. (ITB), MSc (Twente Univ. - Belanda), studi S-3 (UPI):  
-    Teori Peluang, Pengendalian Mutu, Statistika Elementer.  
+    Teori Peluang,Statistika Elementer,Inovasi Pembelajaran.  
     Email: asukmana@unpar.ac.id
     * Aloysius Rusli, Dr. (Leeds University, UK):  
     Fisika Polimer, Pengenalan Program Studi Fisika, Etika Profesi, Reologi.  
@@ -174,25 +176,22 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
     Pemecahan Masalah Matematika, Teori Bilangan, Pemodelan Matematika.  
     Email: benny_y@unpar.ac.id
     * Ferry Jaya Permana, SSi (ITB), MSi (ITB), PhD (TU Delft - Belanda):  
-    Teori Risiko, Teori Suku Bunga, Kalkulus Keuangan.  
+    Teori Risiko, Teori Suku Bunga, Matematika Keuangan.  
     Email: ferryjp@unpar.ac.id
     * Iwan Sugiarto, SSi (UNPAR), MSi (ITB):  
     Metoda Matematika, Fungsi Kompleks, Optimasi.  
     Email: iwans@unpar.ac.id
     * Julius Dharma Lesmono, SSi (ITB), SE (UNPAR), MT (ITB), MSc (Twente University - Belanda), Dr. (University of Queenslands - Australia):  
-    Proses Stokastik, Statistika Matematika, Kontrol Optimum.  
+    Proses Stokastik, Statistika Matematika, Teori Permainan.  
     Email: jdharma@unpar.ac.id
     * Nico Saputro, ST (ITB), MT (ITB), Studi S-3 (Univ. of Illinois - USA).  
     Email: nico@unpar.ac.id
     * Paulus Cahyono Tjiang, Drs. (ITB), PhD (Australian National University):  
-    Listrik Magnet, Elektrodinamika, Mekanika Kuantum Relativistik, Teori Medan Kuantum.  
+    Listrik Magnet, Elektrodinamika.  
     Email: pctjiang@unpar.ac.id
     * Sylvia Hastuti Sutanto, SSi (ITB), PhD (Australian National University):  
-    Fisika Matematika 3 &amp; 4, Mekanika Hamiltonian, Dinamika Fluida.  
+    Fisika Matematika 3 &amp; 4, Fisika Kuantum.  
     Email: sylvia@unpar.ac.id
-    * Marcus Wono Setya Budhi, PhD (Univ. of Illinois - USA):  
-    Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar.  
-    Email: wono@math.itb.ac.id
     * Veronica Sri Moertini, ST (ITB), MT (ITB), Dr. (ITB):  
     Basis Data, Penambangan Data, Projek Sistem Informasi.  
     Email: moertini@unpar.ac.id
@@ -206,11 +205,8 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
     * Liem Chin, SSi.(UNPAR), MSi.(ITB):  
     Matematika Diskret, Aljabar Linear, Komputasi Statistika.  
     Email: chin@unpar.ac.id
-    * Oerip S. Santoso, dr (UI), MSc. (Univ. Wisconsin Madison.USA), Dr.(Univ. Paris VI):  
-    Struktur Diskret, Grafika Komputer, Komputer dan Masyarakat, Projek Perangkat Lunak.  
-    Email: oerip_ss@yahoo.com
     * Philips Nicolas Gunawidjaja, BSc. (University of Warwick,UK), PhD. (University of Warwick, UK):  
-    Keterampilan Fisika, Elektronika 1 &amp; 2, Struktur Materi.  
+    Keterampilan Fisika, Elektronika 1 &amp; 2, Lab. Fisika Modern.  
     Email: philips@unpar.ac.id
     * Rosa de Lima E.P., SSi (ITB), MT (ITB), Studi S-3 di UPI:  
     Sistem Informarsi, Sistem Pendukung Keputusan.  
@@ -227,18 +223,18 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
     Email: ivonne@unpar.ac.id
     * Janto Vincent Sulungbudi, SSi (ITB):  
     Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, Pengantar Kontrol Otomatis.  
-    Email: janto@unpar.ac.id, janto.sulungbudi@gmail.com
+    Email: janto@unpar.ac.id
     * Lionov, S.Kom (UNPAR), MSc. (Utrecht Univ. - Belanda):  
-    Pemrograman Berorientasi Objek, Algoritma dan Struktur Data, Koordinator Skripsi.  
+    Pemrograman Berorientasi Objek, Algoritma dan Struktur Data.  
     Email: lionov@unpar.ac.id
     * Livia Owen, SSi (UNPAR), MSi (ITB):  
-    Kalkulus Vektor, Komputasi Matematika, Fisika Matematik II.  
+    Kalkulus Vektor, Komputasi Matematika, Persamaan Diferensial Parsial.  
     Email: livia.owen@unpar.ac.id
     * Luciana Abednego, S.Kom (UNPAR), MT (ITB):  
     Logika Informatika, Algoritma dan Struktur Data, Grafika Komputer.  
     Email: luciana@unpar.ac.id
     * Taufik Limansyah, SSi (UNPAR), Studi S-2 Teknik Industri di UNPAR:  
-    Kalkulus 1, Kalkulus II, Fisika Matematik 1.  
+    Kalkulus 1, Teori Keandalan, Pemodelan Stokastik.  
     Email: taufik.limansyah@unpar.ac.id
     * Thomas Anung Basuki, ST (ITB), MKom (UI), Dr. (University of Pisa - Italia):  
     Pengantar Sistem Cerdas, Rekayasa Perangkat Lunak, Penulisan Ilmiah.  
@@ -247,6 +243,9 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
     Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor.  
     Email: maria.anestasia@unpar.ac.id
 5. Golongan III
+    * Aditya Bagoes Saputra., S.T. & M.T. (Univ. Telkom):  
+    Pengantar Sistem Cerdas, Arsitektur dan Organisasi Komputer.  
+    Email: aditya.bagoes@unpar.ac.id
     * Chandra Wijaya, S.Kom (UNPAR), MT (ITB):  
     Jaringan Komputer, Sistem Digital.  
     Email: chandraw@unpar.ac.id
@@ -257,22 +256,29 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
     Fisika Dasar, Pengantar Fisika Nuklir, Fisika Kedokteran, Fisika Instrumentasi Medis.  
     Email: flaviana@unpar.ac.id
     * Haryanto Mangaratua Siahaan, SSi (ITB), MSi (ITB), Studi S-3 di University of Saskatchewan.  
+    Fisika Modern , Teori Relativitas  
     Email: haryanto.siahaan@gmail.com
+    * Husnul Hakim, SKom (ITS), MT (ITB):   
+    Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data, Desaian Antarmuka Grafis.  
+    Email: husnulhakim@unpar.ac.id.
+    * Joanna Helga, S.Kom. (UNPAR), M.Sc. (Univ. of York – Kanada):  
+    Desain dan Analisis Algoritma, Komputasi Paralel  
+    Email: joanna@unpar.ac.id.
     * Kian Ming, SSi (UNPAR), S-2 (ITB):  
     Fisika Dasar, Teori Relativitas, Kosmologi Relativistik  
     Email: kian.ming@unpar.ac.id.
     * Mariskha Tri Adithia, SSi (ITB), MSc (Universiteit Eindhoven - Belanda), PDEng (Universiteit Eindhoven - Belanda):  
-    Struktur Diskret, Kriptografi, Logika Informatika.  
+    Struktur Diskret, Kriptografi, Logika Informatika, Koordinator Skripsi.  
     Email: mariskha@unpar.ac.id
     * Pascal Alfadian, S.Kom (UNPAR), MCom (NUS - Singapore):  
     Analisis dan Desain Berorientasi Objek, Pemrograman Beorientasi Objek.  
     Email: pascal@unpar.ac.id
+    * Reinard Primulando, S.Si. (ITB), M.Sc. & Ph.D. (William and Mary College – USA):   
+    Fisika Dasar, Kosmologi Relativistik.  
+    Email: rprimulando@unpar.ac.id
     * Risti Suryantari, SSi (UGM), MSc (UGM):  
     Fisika Dasar, Fisika Modern, Gelombang, Fisika Kristal Cair.  
     Email: ristisuryantari@unpar.ac.id.
-    * Husnul Hakim, S.Kom (ITS), MT (ITB):  
-    Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data.  
-    Email: husnulhakim@unpar.ac.id
     * Vania Natali, S.Kom (UNPAR), studi S2 - ITB.  
     Email: vania.natali@unpar.ac.id
 
@@ -1124,11 +1130,11 @@ Sebelum mengikuti kegiatan akademik seperti mata kuliah, responsi dan praktikum,
 
 Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut:  
 
-1. Pada umumnya, mahasiswa mengambil **semua** mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya.
-2. Memprioritaskan mata kuliah semester lebih awal yang **belum lulus**. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi mata kuliah yang memprasyaratkannya.
-3. Memprioritaskan mata kuliah menjadi **prasyarat** (baik prasyarat tempuh atau pun prasyarat *lulus*) bagi mata kuliah lain.
-4. Memperhatikan **jadwal kuliah dan ujian** yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan mata kuliah-mata kuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
-5. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No.III/PRT/2011-11/211 sebagai berikut :
+a. Pada umumnya, mahasiswa mengambil **semua** mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya.
+b. Memprioritaskan mata kuliah semester lebih awal yang **belum lulus**. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi mata kuliah yang memprasyaratkannya.
+c. Memprioritaskan mata kuliah menjadi **prasyarat** (baik prasyarat tempuh atau pun prasyarat *lulus*) bagi mata kuliah lain.
+d. Memperhatikan **jadwal kuliah dan ujian** yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan mata kuliah-mata kuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
+e. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No.III/PRT/2011-11/211 sebagai berikut :
 
     | IPS         | HAK TEMPUH PADA SEMESTER BERIKUTNYA |
     |-------------|-------------------------------------|
@@ -1137,9 +1143,9 @@ Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut:
     | &lt;= 2,49  | Maksimum 18 SKS                     |
     
     Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian :
-    - 1 jam kuliah
-    - 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
-    - 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
+    * 1 jam kuliah
+    * 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
+    * 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
 
 Untuk menentukan mata kuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
 
@@ -1147,7 +1153,7 @@ Masa perwalian juga merupakan kesempatan bagi mahasiswa yang ingin mendiskusikan
 
 ### 3.1.2 Pendaftaran Mata Kuliah
 
-Setelah menentukan mata kuliah apa saja yang akan diambil, maka mahasiswa harus mendaftarkan mata kuliah-mata kuliah dengan cara mengisi Form Rencana Studi (FRS). Pengisian FRS ini dilakukan secara online dengan menggunakan portal mahasiswa (masuk ke url [https://studentportal.unpar.ac.id/](https://studentportal.unpar.ac.id/ "Title")), login menggunakan *username* dari *account student* masing-masing. Pengisian FRS ini dapat dilakukan oleh mahasiswa sendiri atau bersama-sama dengan dosen wali pada saat  perwalian (tergantung aturan dari masing-masing prodi).
+Setelah menentukan mata kuliah apa saja yang akan diambil, maka mahasiswa harus mendaftarkan mata kuliah-mata kuliah dengan cara mengisi Form Rencana Studi (FRS). Pengisian FRS ini dilakukan secara online dengan menggunakan portal mahasiswa (masuk ke url [https://studentportal.unpar.ac.id/](https://studentportal.unpar.ac.id/ "Title")), login menggunakan *username* dari *account* student masing-masing. Pengisian FRS ini dapat dilakukan oleh mahasiswa sendiri atau bersama-sama dengan dosen wali pada saat  perwalian (tergantung aturan dari masing-masing prodi).
 
 Dosen wali akan memeriksa FRS yang telah diisi oleh mahasiswa walinya. Jika dosen wali merasa tidak ada masalah dengan rencana studi mahasiswa walinya, maka dosen wali akan memberikan persetujuan.
 
@@ -1158,7 +1164,7 @@ Mahasiswa akan menerima email yang berisi informasi tentang hasil registrasi mat
 
 ### 3.1.3 Tahap Perkuliahan Awal  
 
-Kuliah, responsi, dan praktikum perdana adalah **penting**, karena pada umumnya dosen menjelaskan berbagai tata cara, bobot penilaian dan tata tertib pelaksanaan kegiatan perkuliahan terkait. **Karena itu hendaknya mahasiswa telah hadir sejak awal perkuliahan ini.** Jika terpaksa tidak hadir karena sesuatu hal, mahasiswa perlu segera menanyakan tata cara dan tata tertib tersebut kepada dosen atau rekan mahasiswa yang mempunyai catatan yang lengkap.  
+Kuliah, responsi, dan praktikum **perdana** adalah **penting**, karena pada umumnya dosen menjelaskan berbagai tata cara, bobot penilaian dan tata tertib pelaksanaan kegiatan perkuliahan terkait. **Karena itu hendaknya mahasiswa telah hadir sejak awal perkuliahan ini.** Jika terpaksa tidak hadir karena sesuatu hal, mahasiswa perlu segera menanyakan tata cara dan tata tertib tersebut kepada dosen atau rekan mahasiswa yang mempunyai catatan yang lengkap.  
 
 ### 3.1.4 Perubahan Rencana Studi  
 
@@ -1173,8 +1179,9 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
 
 1. **Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)**, yang sebaiknya dimanfaatkan secara maksimal dengan:
     - membaca bahan yang diperkirakan akan dibahas dosen,
-    - menanyakan segala hal yang belum jelas kepada dosen,
+    - menanyakan **segala** hal yang belum jelas kepada dosen,
     - meminta saran dosen tentang cara belajar dan berlatih yang baik.
+**Kehadiran** pada perkuliahan disyaratkan minimal **80%**, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah.
 2. **Kegiatan akademik terstruktur (&plusmn; 1 jam/SKS)**, yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran.
     - *Responsi* merupakan kegiatan dimana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan masalah teknis yang belum dikuasai.
     - *Praktikum* bertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan.
@@ -1197,8 +1204,8 @@ Pelaksanaan UTS dan UAS sesuai dengan jadwal kegiatan akademik UNPAR. Jadwal ked
 Syarat untuk mengikuti UTS dan UAS:  
 
 1. **Terdaftar** sebagai peserta pada semester terkait, telah cukup mengikuti kegiatan tatap muka mata kuliah terkait pada  semester tersebut, serta tidak menjalani sanksi pembatalan hak tempuh mengikuti suatu program pada semester tersebut berdasarkan SK Rektor UNPAR. 
-2. **Telah melunasi** seluruh biaya kuliah semester terkait. Perkecualian khusus pada masa UTS diberikan bagi         mahasiswa yang mendapat dispensasi penundaan pembayaran kuliah oleh WD-2.
-3. **Membawa KTM yang sah** untuk semester terkait, atau surat keterangan pengganti KTM dari Biro Administrasi        Akademik dan Kemahasiswaan (BAA) bagi yang kehilangan KTM.
+2. **Telah melunasi** seluruh biaya kuliah semester terkait. Perkecualian **khusus pada masa UTS** diberikan bagi mahasiswa yang mendapat dispensasi penundaan pembayaran kuliah oleh WD-2.
+3. **Membawa KTM yang sah** untuk semester terkait, atau surat keterangan pengganti KTM dari Biro Administrasi Akademik dan Kemahasiswaan (BAA) bagi yang kehilangan KTM.
 
 ### 3.3.2 Tata Tertib Ujian
 
@@ -1239,11 +1246,11 @@ Syarat untuk mengikuti UTS dan UAS:
 7. Peserta ujian menyerahkan lembar jawab kepada pengawas setelah menyelesaikan ujian atau tepat setelah waktu ujian  berakhir. **Kertas buram** terisi atau tidak harus **dikumpulkan kembali** bersama dengan lembar jawab.
 8. Peserta ujian yang telah menyelesaikan ujian diperkenankan untuk meninggalkan ruang ujian paling cepat **30 menit** setelah ujian dimulai.
 9. Dilarang keras **melakukan kecurangan** dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:
-    1. **Melihat** berkas ujian milik peserta ujian lain;
-    2. **Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain;
-    3. **Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun;
-    4. **Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
-    5. **Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
+    a. **Melihat** berkas ujian milik peserta ujian lain;
+    b. **Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain;
+    c. **Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun;
+    d. **Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
+    e. **Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
 10. Peserta ujian yang **melakukan kecurangan** pada saat ujian akan dikenakan **sanksi akademik** yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.
 11. Selama ujian berlangsung, peserta ujian **tidak diperkenankan meninggalkan ruangan ujian dengan alasan apapun** (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
 
@@ -1253,12 +1260,12 @@ Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi beru
 
 1. Untuk kali pertama: peringatan dari pengawas ujian, yang wajib dicatat dalam Berita Acara Ujian dan disimpan dalam map mahasiswa terkait.
 2. Untuk kali ke dua dengan kesalahan yang sama: peringatan tertulis dari pimpinan Fakultas, yang arsipnya juga disimpan dalam map mahasiswa terkait.
-3. Untuk kali ke tiga dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS mata kuliah dimana kesalahan ke tiga tersebut terjadi (sesuai SK Rektor Universitas Katolik Parahyangan No. III/PRT/93-01/03 tentang Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).
-4. Untuk kali ke empat dan seterusnya dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS **seluruh** mata kuliah pada masa ujian terkait (sesuai SK Rektor UNPAR No. III/PRT/93-01/03 tentang Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).
+3. Untuk kali ke tiga dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS mata kuliah dimana kesalahan ke tiga tersebut terjadi (sesuai SK Rektor Universitas Katolik Parahyangan No. III/PRT/93-01/03 tentang *Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa)*.
+4. Untuk kali ke empat dan seterusnya dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS **seluruh** mata kuliah pada masa ujian terkait (sesuai SK Rektor UNPAR No. III/PRT/93-01/03 tentang *Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa)*.
 
 Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.
 
-Mahasiswa yang terbukti melakukan **pelanggaran** norma kejujuran pada saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut :  
+Mahasiswa yang terbukti melakukan **pelanggaran norma kejujuran** pada saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut :  
 
 1. Untuk kali pertama: nilai mata kuliah yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
 2. Untuk kali kedua: seluruh nilai mata kuliah pada semester terkait mahasiswa yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
@@ -1268,9 +1275,9 @@ Mahasiswa yang terbukti melakukan **pelanggaran** norma kejujuran pada saat meng
 
 1. **Tidak ada ujian khusus** untuk perbaikan nilai ujian.
 2. Tidak ada ujian khusus bagi mahasiswa yang tidak hadir dalam ujian. Apabila mahasiswa yang bersangkutan mengalami hal-hal di bawah ini saat ujian mata kuliah mahasiswa yang bersangkutan sedang berlangsung:
-    - Sakit, yang diperkuat oleh *surat keterangan rawat inap* dari rumah sakit.
-    - Mewakili negara / UNPAR dalam suatu kegiatan tertentu.
-    - Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.
+    * Sakit, yang diperkuat oleh *surat keterangan rawat inap* dari rumah sakit.
+    * Mewakili negara / UNPAR dalam suatu kegiatan tertentu.
+    * Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.
 
     Maka mahasiswa tersebut dapat mengajukan permohonan ujian susulan bagi mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.
 
@@ -1288,19 +1295,19 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 
 ### 3.4.2 Prosedur Cuti Studi  
 
-1. Mahasiswa wajib mengisi **Surat Permohonan Cuti Studi Mahasiswa** yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi rekomendasi dosen wali mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS **selambat-lambatnya sebelum berakhirnya masa PRS** semester terkait dengan cuti tersebut.
+1. Mahasiswa wajib mengisi **Surat Permohonan Cuti Studi Mahasiswa** yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi **rekomendasi dosen wali** mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS **selambat-lambatnya sebelum berakhirnya masa PRS** semester terkait dengan cuti tersebut.
 2. Kriteria untuk memberi ijin tersebut adalah :
-    1. masalah kesehatan,
-    2. masalah *financial*, atau
-    3. masalah pribadi lainnya.
+    (a). masalah kesehatan,
+    (b). masalah financial, atau
+    (c). masalah pribadi lainnya.
 3. Ijin pengambilan cuti studi diberikan oleh Dekan FTIS dan dinyatakan dalam bentuk surat resmi, dan diberitahukan kepada WR-1, WR-2, Kepala Biro Administrasi Akademik dan Kemahasiswaan (BAA) dan Kepala Biro Administrasi Keuangan (BIKEU).
 4. Masa cuti studi **tidak diperhitungkan** sebagai masa studi terpakai dalam evaluasi tahap studi.
 5. Bagi mahasiswa yang mendapat ijin cuti dari Dekan FTIS, wajib
     - Mengisi Formulir Rencana Studi dengan beban **0 (nol)** sks, dan didaftarkan sesuai dengan **prosedur yang ada**.
     - Membayar **100&#37; (seratus persen)** Tarif Biaya Registrasi (sesuai dengan Peraturan Pengurus Yayasan UNPAR no. 06 th. 2008 tentang Pemisahan Tarif Biaya Registrasi dan Biaya Pengembangan).
 6. Dalam hal mahasiswa mengajukan permohonan cuti studi **setelah masa PRS berakhir**, ijin cuti hanya dapat diberikan oleh Dekan FTIS apabila
-    - Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.
-    - Mendapat ijin dari WR-1.
+    * Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.
+    * Mendapat ijin dari WR-1.
 
     Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut **tidak dapat dikembalikan** dan sisa kewajiban keuangan yang belum dilunasi **harus diselesaikan.**
 
@@ -1313,14 +1320,14 @@ Mahasiswa gencat studi adalah mahasiswa yang pada suatu semester tidak melakukan
 Adapun **prosedur pengaktifan kembali status mahasiswa setelah gencat studi** adalah sebagai berikut:  
 
 1. Mahasiswa tersebut harus mengajukan permohonan tertulis terlebih dahulu kepada Dekan FTIS, dilengkapi dengan
-    - alasan gencat studi pada semester sebelumnya
-    - rekomendasi dosen wali yang bersangkutan
+    * alasan gencat studi pada semester sebelumnya
+    * rekomendasi dosen wali yang bersangkutan
 2. Dekan FTIS dapat mengabulkan atau menolak permohonan mahasiswa tersebut di atas berdasarkan pertimbangan akademik.
 3. Keputusan Dekan FTIS tersebut diberitahukan pula kepada WR-1, WR-2, Kepala BAA, dan Kepala BIKEU.
 4. Dalam hal Dekan FTIS mengabulkan permohonan mahasiswa tersebut di atas, mahasiswa yang bersangkutan
-    1. Dikenakan **sanksi keuangan** berupa pelunasan **200&#37; (dua ratus persen)** Sumbangan Pengembangan sesuai dengan tarif yang  berlaku di lingkungan UNPAR untuk semester selama gencat studi.
-    2. Dikenakan **sanksi akademik** berupa hak tempuh sebanyak **12 SKS** pada semester dimana mahasiswa yang bersangkutan mulai aktif kembali, kecuali jika diijinkan oleh Dekan FTIS untuk menempuh **maksimal 18 SKS** berdasarkan pertimbangan yang sah.
-    3. Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi butir 4.1. di atas.
+    a. Dikenakan **sanksi keuangan** berupa pelunasan **200&#37; (dua ratus persen)** Sumbangan Pengembangan sesuai dengan tarif yang  berlaku di lingkungan UNPAR untuk semester selama gencat studi.
+    b. Dikenakan **sanksi akademik** berupa hak tempuh sebanyak **12 SKS** pada semester dimana mahasiswa yang bersangkutan mulai aktif kembali, kecuali jika diijinkan oleh Dekan FTIS untuk menempuh **maksimal 18 SKS** berdasarkan pertimbangan yang sah.
+    c. Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi butir 4.1. di atas.
 
 ## 3.5 Pengunduran Diri Sebagai Mahasiswa
 
@@ -1330,8 +1337,8 @@ Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai b
 2. Mahasiswa yang bersangkutan mengisi formulir pengunduran diri yang dapat diperoleh di Tata Usaha FTIS.
 3. Setelah mendapat persetujuan dari dosen wali, ketua jurusan / program studi, WD-2, WD-1 dan Dekan FTIS, proses permohonan pengunduran diri diteruskan ke Biro Administrasi Akademik dan Kemahasiswaan (BAA).
 4. Setelah permohonan diri mahasiswa disetujui di tingkat Universitas, mahasiswa yang bersangkutan akan menerima:
-    - SK Rektor UNPAR tentang pengunduran diri mahasiswa yang bersangkutan.
-    - Transkrip akademik yang berisi daftar nilai mata kuliah yang ditempuh selama yang bersangkutan berstatus aktif sebagai mahasiswa.
+    * SK Rektor UNPAR tentang pengunduran diri mahasiswa yang bersangkutan.
+    * Transkrip akademik yang berisi daftar nilai mata kuliah yang ditempuh selama yang bersangkutan berstatus aktif sebagai mahasiswa.
 
 # BAB 4 EVALUASI KEBERHASILAN BELAJAR
 
