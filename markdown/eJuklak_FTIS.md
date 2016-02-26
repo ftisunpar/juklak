@@ -48,9 +48,9 @@ Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilk
 
 Fakultas Teknologi Informasi dan Sains (FTIS) Universitas Katolik Parahyangan (UNPAR) berawal dari Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA). Pendirian FMIPA telah dikukuhkan dengan terbitnya Surat Keputusan Menteri Pendidikan dan Kebudayaan Republik Indonesia nomor 34/D/O/1993 tanggal 20 April 1993, yang langsung menetapkan status akreditasi &ldquo;terdaftar&rdquo; bagi dua Program Studi FMIPA, yaitu Program Studi Matematika dan Fisika. Dengan terbitnya Keputusan Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan Republik Indonesia nomor: 420/DIKTI/Kep/1996 tanggal 8 Agustus 1996, ditetapkan status &ldquo;terdaftar&rdquo; pula untuk Program Studi Ilmu Komputer.
 
-Perubahan nama FMIPA menjadi Fakultas Teknologi Informasi dan Sains (FTIS) terjadi karena adanya perubahan nama Program Studi Ilmu Komputer. Berdasarkan surat Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan Nasional Nomor 4382/D/T/2008 tertanggal 10 Desember 2008 perihal Ralat Perpanjangan Ijin Penyelenggaraan Program Studi pada Universitas Katolik Parahyangan, dari tertulis : Jurusan/Program Studi Ilmu Komputer diharuskan untuk berubah menjadi Jurusan/Program Studi Teknik Informatika. Adanya perubahan nama ini membuat nama FMIPA sebagai naungan bagi Program Studi Teknik Informatika menjadi tidak selaras lagi. Perubahan nama FMIPA menjadi FTIS ini berdasarkan Keputusan Pengurus Yayasan Universitas Katolik Parahyangan Nomor : II/2009-04/05-SK tanggal 1 April 2009.
+Perubahan nama FMIPA menjadi Fakultas Teknologi Informasi dan Sains (FTIS) terjadi karena adanya perubahan nama Program Studi Ilmu Komputer. Berdasarkan surat Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan Nasional Nomor 4382/D/T/2008 tertanggal 10 Desember 2008 perihal Ralat Perpanjangan Ijin Penyelenggaraan Program Studi pada Universitas Katolik Parahyangan, dari tertulis: Jurusan/Program Studi Ilmu Komputer diharuskan untuk berubah menjadi Jurusan/Program Studi Teknik Informatika. Adanya perubahan nama ini membuat nama FMIPA sebagai naungan bagi Program Studi Teknik Informatika menjadi tidak selaras lagi. Perubahan nama FMIPA menjadi FTIS ini berdasarkan Keputusan Pengurus Yayasan Universitas Katolik Parahyangan Nomor: II/2009-04/05-SK tanggal 1 April 2009.
     
-Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) dengan rincian sebagai berikut :
+Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) dengan rincian sebagai berikut:
 
 * Program Studi Matematika memperoleh status akreditasi dengan peringkat A (Amat baik) berdasarkan Keputusan BAN-PT Nomor 029/BAN-PT/AK-XIII/S1/XI/2010 tertanggal 3 Desember 2010 dengan masa berlaku hingga 3 Desember 2015. 
 * Program Studi Fisika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PT Nomor 036/BAN-PT/AK-XIII/S1/I/2011 tertanggal 7 Januari 2011 dengan masa berlaku hingga 7 Januari 2016.
@@ -128,32 +128,32 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 ## 1.4 Pengelolah Fakultas  
 
 1. Senat FTIS
-    - Ketua : Agus Sukmana, SSi, MSc
-    - Sekretaris : Philips Nicolas Gunawidjaja, BSc, PhD
+    - Ketua: Agus Sukmana, SSi, MSc
+    - Sekretaris: Philips Nicolas Gunawidjaja, BSc, PhD
 2. Dekanat
-    - Dekan : Dr. drs Ferry Jaya Permana, M.Si., ASAI
-    - WD 1 (Akademik) : Dr. Thomas Anung Basuki
-    - WD II (Keuangan dan Sumberdaya) : Maria Anestasia, SSi, MSi
-    - WD III (Kemahasiswaan dan Alumni) : Dr.rer.nat. Cecilia E.Nugraheni, ST, MT
+    - Dekan: Dr. drs Ferry Jaya Permana, M.Si., ASAI
+    - WD 1 (Akademik): Dr. Thomas Anung Basuki
+    - WD II (Keuangan dan Sumberdaya): Maria Anestasia, SSi, MSi
+    - WD III (Kemahasiswaan dan Alumni): Dr.rer.nat. Cecilia E.Nugraheni, ST, MT
 3. Program Studi Matematika
-    - Ketua : Dr. drs Ferry Jaya Permana, M.Si., ASAI
-    - Sekretaris : Livia Owen, SSi, MSi
+    - Ketua: Dr. drs Ferry Jaya Permana, M.Si., ASAI
+    - Sekretaris: Livia Owen, SSi, MSi
 4. Program Studi Fisika
-    - Ketua : Philips Nicolas Gunawidjaja, BSc, PhD
-    - KaLab. Fisika Dasar : Risti Suryantari, S.Si., M.Si.
-    - KaLab. Elektronika &amp; Fisika Lanjut : Janto V. Sulungbudi, Drs.
+    - Ketua: Philips Nicolas Gunawidjaja, BSc, PhD
+    - KaLab. Fisika Dasar: Risti Suryantari, S.Si., M.Si.
+    - KaLab. Elektronika &amp; Fisika Lanjut: Janto V. Sulungbudi, Drs.
 5. Program Studi Teknik Informatika
-    - Ketua : Mariskha Tri Adithia, SSi, MSc
-    - Sekretaris : Husnul Hakim, S.Kom, MT
-    - KaLab. Komputasi : Chandra Wijaya, ST, MT
+    - Ketua: Mariskha Tri Adithia, SSi, MSc
+    - Sekretaris: Husnul Hakim, S.Kom, MT
+    - KaLab. Komputasi: Chandra Wijaya, ST, MT
 6. Tata Usaha
-    - Kepala : Pranyoto Teguh Imanto
-    - Kasubag Akademik : Petrus Purnomo
-    - Kasubag Keuangan &amp; Kepegawaian : Budi Santoso
-    - Kasubag Kemahasiswaan &amp; Alumni : Fransiscus Sudarno
-    - Kasubag Umum &amp; Perlengkapan : Walip, A.Md
-    - Staf Akademik : Rikie Setiawan, S.AB.
-    - Staf Keuangan &amp; Kepegawaian : Filifo Zebua, Dwina Irlistriarti, Dra.
+    - Kepala: Pranyoto Teguh Imanto
+    - Kasubag Akademik: Petrus Purnomo
+    - Kasubag Keuangan &amp; Kepegawaian: Budi Santoso
+    - Kasubag Kemahasiswaan &amp; Alumni: Fransiscus Sudarno
+    - Kasubag Umum &amp; Perlengkapan: Walip, A.Md
+    - Staf Akademik: Rikie Setiawan, S.AB.
+    - Staf Keuangan &amp; Kepegawaian: Filifo Zebua, Dwina Irlistriarti, Dra.
 
 ## 1.5 Daftar Dosen FTIS  
 
@@ -162,7 +162,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 1. Guru Besar
     * Prof B. Suprapto Brotosiswojo, Dr. (Purdue University,USA):  
     Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.  
-    * Prof Marcus Wono Setya Budhi,drs. &amp; M.Si. (ITB), Ph.D. (Univ. of Illinois – USA) :  
+    * Prof Marcus Wono Setya Budhi,drs. &amp; M.Si. (ITB), Ph.D. (Univ. of Illinois – USA):  
     Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar, Pemecahan Masalah Matematika.  
     Email: wono@math.itb.ac.id
 2. Lektor Kepala
@@ -849,7 +849,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 |APS213		|	APS112, APS108		|**GELOMBANG (*WAVES*)** Pemahaman mengenai gelombang secara mendalam sangat penting untuk dapat menjelaskan fenomena-fenomena terkait yang dijumpai dalam kehidupan sehari-hari.  Selain itu pendekatan gerak partikel berupa gelombang juga dipelajari dalam perkuliahan lanjut seperti mekanika kuantum. Pada mata kuliah ini, mahasiswa akan mempelajari konsep dasar yang diperlukan untuk memahami fenomena gelombang beserta aplikasinya, seperti gerak harmonik, gelombang mekanik dan elektromagnetik, analisis Fourier paket gelombang; dan beberapa aplikasi dasar fenomena gelombang. Dalam Pembahasan digunakan pendekatan secara matematis untuk mendapatkan makna fisisnya. Melalui mata kuliah ini diharapkan mahasiswa mampu memahami dan menerapkan konsep, prinsip dan  sifat gelombang. Perkuliahan diawali dengan pendahuluan yaitu gerak harmonik sederhana yang telah diberikan pada mata kuliah Mekanika, kemudian membahas tentang gelombang mekanik yang terdiri dari gelombang transversal dan longitudinal dalam berbagai medium. Dalam perkuliahan ini juga diperluas dengan materi gelombang elektromagnetik (yang akan sejalan dengan mata kuliah listrik magnet) dengan memperkenalkan Persamaan Maxwell yang merupakan dasar untuk memahami sifat-sifat gelombang elektromagnetik. Pada perkuliahan juga diberikan materi analisa Forier untuk meyelesaikan berbagai persoalan dalam paket gelombang, serta fenomena-fenomena lain terkait, Interferensi dan Difraksi.|
 |APS215		|	APS106, APS108			|**FISIKA TERMAL(*THERMAL PHYSICS*)** Mata kuliah fisika termal bertujuan untuk memberikan wawasan mengenai konsep termodinamika klasik (hukum-hukum termodinamika) yang disajikan dalam parameter-parameter termal, beserta pengantar mengenai dasar-dasar fisika statistik, baik secara fisis maupun matematis, yang sangat bermanfaat dalam bidang Material, Atom-Inti, dan Astrofisika. Dalam mata kuliah ini akan diperdalam mengenai konsep termodinamika untuk sistem makroskopis dan mikroskopis dalam kesetimbangan termal, diawali dengan definisi parameter-parameter fisis dalam termodinamika seperti suhu, energi dalam dan entropi, kemudian memperkenalkan hukum-hukum termodinamika dan penerapannya untuk sistem makroskopis. Dalam mata kuliah ini juga diperkenalkan beberapa istilah dan teori terkait mikrosistem untuk menjelaskan keadaan sistem meliputi persamaan keadaan untuk mikrosistem, fungsi distribusi Boltzmann, Bose-Einstein dan Fermi-Dirac, untuk mengantarkan pada perkuliahan fisika statistik, serta memahami kaitan antara termodinamika klasik dan mekanika statistik.|
 |APS216		|	APS215, APS207		|**FISIKA STATISTIK (*STATISTICAL PHYSICS*)** Ketidakpastian memainkan peranan esensial di alam. Mekanika statistik merupakan sebuah deskripsi dari peranan yang dimainkan oleh ketidakpastian-ketidakpastian tersebut. Dalam mata kuliah ini akan dipelajari tentang pencarian &ldquo;most probable distribution&rdquo; dengan energi terrendah. Mekanika menurut ungkapan Hamilton, Gas Ideal, distribusi Maxwell-Boltzmann, getaran kisi pada zat padat, paham entropi dari pendekatan statistik. Statistik kuantum Fermi-Dirac dan Bose-Einstein, gas dan zat padat dalam unkapan kuantum. Melalui mata kuliah ini mahasiswa diharapkan bisa menggunakan pendekatan statistik untuk menerangkan perangai gejala fisika termal yang dibahas dalam termodinamika. Menyadarkan bahwa gejala &ldquo;non reversible&rdquo; pada aturan termodinamika gas dan zat padat dapat diterangkan dari statistik kumpulan atom/molekul pembangunnya yang dinamikanya &ldquo;reversible&rdquo;.	|
-|APS222		|	APS106, APS207, APS213		|**LISTRIK MAGNET (*ELECTRICITY AND MAGNETISM*)** Pada mata kuliah ini secara luas fokus dengan perkembangan besar pada listrik dan magnet dalam 2 abad terakhir, yakni menitikberatkan pada medan-medan yang tidak bergantung pada waktu. Sebelum pembahasan medan-medan tersebut di atas, diberikan dasar-dasar analisis vektor beserta arti fisis yang terkandung di dalamnya. Pembahasan pokok meliputi medan listrik statis (konsep medan listrik, potensial listrik, pemecahan persamaan yang berkaitan dengan potensial listrik statis : masalah syarat batas, sifat bahan dielektrik) dan medan magnetik statis (konsep mdan magnetik, potensial magnetik, pemecahan persamaan yang berkaitan dengan potensial magnetik : masalah syarat batas, sifat bahan magnetik). Melalui mata kuliah ini diharapkan mahasiswa mampu memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet statis.	|
+|APS222		|	APS106, APS207, APS213		|**LISTRIK MAGNET (*ELECTRICITY AND MAGNETISM*)** Pada mata kuliah ini secara luas fokus dengan perkembangan besar pada listrik dan magnet dalam 2 abad terakhir, yakni menitikberatkan pada medan-medan yang tidak bergantung pada waktu. Sebelum pembahasan medan-medan tersebut di atas, diberikan dasar-dasar analisis vektor beserta arti fisis yang terkandung di dalamnya. Pembahasan pokok meliputi medan listrik statis (konsep medan listrik, potensial listrik, pemecahan persamaan yang berkaitan dengan potensial listrik statis: masalah syarat batas, sifat bahan dielektrik) dan medan magnetik statis (konsep mdan magnetik, potensial magnetik, pemecahan persamaan yang berkaitan dengan potensial magnetik: masalah syarat batas, sifat bahan magnetik). Melalui mata kuliah ini diharapkan mahasiswa mampu memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet statis.	|
 |APS225		|	APS124			|**LABORATORIUM FISIKA MODERN (*MODERN PHYSICS LABORATORY*)** Kuliah ini berisi kegiatan ekperimen Fisika Modern yang bertujuan membuka wawasan serta memperkenalkan konsep baru tentang Fisika Modern kepada mahasiswa melalui kegiatan eksperimen. Kegiatan eksperimen ini berisikan berbagai percobaan Fisika Modern seperti percobaan Efek Fotolistrik, percobaan Difraksi Elektron, percobaan Frank-Hertz, percobaan Interferometri Michelson, percobaan tetes minyak Millikan. Selain untuk meningkatkan kemampuan serta keterampilan mahasiswa menggunakan peralatan untuk melakukan pengukuran secara ilmiah, melalui eksperimen ini diharapkan mahasiswa mulai terlatih untuk menulis laporan dengan format penulisan ilmiah.	|
 |APS233		|	APS108, APS132		|**ELEKTRONIKA 1 (*ELECTRONICS 1*)** Instrumentasi elektronik digunakan secara luas pada hampir semua area fisika eksperimen. Melalui mata kuliah ini diharapkan mahasiswa dapat menguasai konsep dasar untuk memecahkan permasalahan, analisa rangkaian dan desain rangkaian elektronika. Secara garis besar dalam kuliah ini akan dibahas tentang arus searah, arus bolak-balik, rangkaian filter, rangkaian filter, dioda, transistor dan operasional amplifier.	|
 |APS234		|	APS233, APS207		|**ELEKTRONIKA 2 (*ELECTRONICS 2*)** Mata kuliah ini merupakan kelanjutan dari mata kuliah Elektronika 1. Dalam mata kuliah ini dibahas tentang konversi bilangan, logika kombinasi (tabel kebenaran, aljabar boolean, karnaugh map, gerbang logika), Logika sekuensial (flip-flop, register, diagram keadaan, diagram perwaktuan), Aplikasi (pencacah, dekoder, enkoder, multiplekser, adc, dac, komponen opto-elektronika). Mata kuliah ini bertujuan untuk membekali mahasiswa dengan konsep dasar dan pengalaman dalam bidang elektronika digital.	|
@@ -974,7 +974,7 @@ TOTAL SKS = 18
 
 TOTAL SKS = 18
 
-Keterangan :
+Keterangan:
 
 1. Mata kuliah pilihan wajib.
   Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut
@@ -983,7 +983,7 @@ Keterangan :
     - Projek Informatika, atau
     - Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
 
-Aturan tambahan :  
+Aturan tambahan:  
 
 - Mata kuliah pilihan dari luar jurusan
 
@@ -1105,7 +1105,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 |AIF306		|	-		|**PROYEK INFORMATIKA (*INFORMATICS PROJECT*)** Mempelajari dan mempraktekkan tahap-tahap rekayasa perangkat lunak termasuk manajemen projek pada sebuah projek perangkat lunak nyata pada skala menengah.	|
 |AIF401		|	-		|**SKRIPSI 1 (*UNDERGRADUATE THESIS 1*)** Skripsi 1 merupakan bagian pertama skripsi dengan titik berat pada studi pustaka, pemahaman, pelaporan hasil kerja secara tertulis dan lisan. Topik ditentukan bersama dosen pembimbing.	|
 |AIF402		|	-		|**SKRIPSI 2 (*UNDERGRADUATE THESIS 2*)** Skripsi 2 merupakan bagian kedua skripsi, pendalaman topik dan hasil kerja lengkap bentuk tulisan yang baik dan standar, juga secara lisan. Topik ditentukan bersama dosen pembimbing.	|
-|AIF403		|	Lulus 72 SKS		|**KOMPUTER &amp; MASYARAKAT (*COMPUTER &amp; SOCIETY*)** Menganalisis dan mengkritisi peran, kedudukan dan peluang dalam bidang TIK. Memberi pemahaman mengenai pentingnya peran TIK sebagai &ldquo;process enabler&rdquo; dan &ldquo;process improvement driver&rdquo;, serta memperkenalkan isu-isu teknologi &amp; non-teknologi yang penting dalam bidang TIK. Prasyarat : sudah lulus 72 SKS.|
+|AIF403		|	Lulus 72 SKS		|**KOMPUTER &amp; MASYARAKAT (*COMPUTER &amp; SOCIETY*)** Menganalisis dan mengkritisi peran, kedudukan dan peluang dalam bidang TIK. Memberi pemahaman mengenai pentingnya peran TIK sebagai &ldquo;process enabler&rdquo; dan &ldquo;process improvement driver&rdquo;, serta memperkenalkan isu-isu teknologi &amp; non-teknologi yang penting dalam bidang TIK. Prasyarat: sudah lulus 72 SKS.|
 |AIF405		|	-		|**PROYEK SISTEM INFORMASI 2 (*INFORMATION SYSTEM PROJECT 2*)** Mempelajari perancangan sistem informasi untuk organisasi studi kasus, implementasi sistem secara gadual, pengujian modul, integrasi dan penerimaan *user* (UAT).|
 |AMS100		|	-		|**MATEMATIKA INFORMATIKA (*MATHEMATICS FOR INFORMATICS*)** Mempelajari pengetahuan dasar matematika yang diperlukan dalama menyelesaikan masalah informatika yang terdiri dari: Sistem Bilangan Real dan Nilai Mutlak, Fungsi dan Limit,  Turunan, Integral, Sistem Persamaan Linear dan Matriks, Determinan, Vektor 2 dan 3 Dimensi.	|
 |AMS200		|	-		|**PROBABILITAS &amp; STATISTIKA (*PROBABILITY &amp; STATISTICS*)** Mempelajari konsep-konsep dasar dalam teori peluang dan statistika.|
@@ -1128,13 +1128,13 @@ Kegiatan Akademik di lingkungan FTIS, dan UNPAR pada umumnya, terdiri atas:
 
 Sebelum mengikuti kegiatan akademik seperti mata kuliah, responsi dan praktikum, pada setiap semester seorang mahasiswa perlu menyusun **rencana studi** bagi dirinya. Rencana studi ini memuat daftar mata kuliah yang akan diikuti pada semester yang bersangkutan.
 
-Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut :
+Dalam menentukan mata kuliah yang akan diambil, dapat digunakan pedoman berikut:
 
 a. Pada umumnya, mahasiswa mengambil **semua** mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya.
 b. Memprioritaskan mata kuliah semester lebih awal yang **belum lulus**. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi mata kuliah yang memprasyaratkannya.
 c. Memprioritaskan mata kuliah menjadi **prasyarat** (baik prasyarat *tempuh* atau pun prasyarat *lulus*) bagi mata kuliah lain.
 d. Memperhatikan **jadwal kuliah dan ujian** yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan mata kuliah-mata kuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
-e. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No.III/PRT/2011-11/211 sebagai berikut :
+e. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No.III/PRT/2011-11/211 sebagai berikut:
 
     | IPS         | HAK TEMPUH PADA SEMESTER BERIKUTNYA |
     |-------------|-------------------------------------|
@@ -1142,7 +1142,7 @@ e. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parah
     | 2,50 - 2,99 | Maksimum 21 SKS                     |
     | &lt;= 2,49  | Maksimum 18 SKS                     |
     
-    Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian :
+    Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian:
     * 1 jam kuliah
     * 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
     * 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
@@ -1172,12 +1172,12 @@ Jika selama satu minggu pertama kuliah, mahasiswa hendak mengubah rencana studi 
 
 ## 3.2 Kegiatan Perkuliahan
 
-Setiap mahasiswa yang telah memiliki KTM dan telah menyelesaikan kewajiban pembayarannya, pada dasarnya berhak mengikuti seluruh kegiatan akademik sesuai dengan kesepakatan hasil perwalian (ditunjukkan melalui email konfirmasi hasil pengisian FRS dan/atau PRS). Hak ini tentunya masih dapat diubah oleh dosen terkait, jika dinilai bahwa kelakuan dan unjuk-kerja mahasiswa itu tidak memadai. 
+Setiap mahasiswa yang telah memiliki KTM dan telah menyelesaikan kewajiban pembayarannya, pada dasarnya berhak mengikuti seluruh kegiatan akademik sesuai dengan kesepakatan hasil perwalian (ditunjukkan melalui email konfirmasi hasil pengisian FRS dan/atau PRS). Hak ini tentunya masih dapat diubah oleh dosen terkait, jika dinilai bahwa kelakuan dan unjuk-kerja mahasiswa itu tidak memadai.
 
 Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis oleh mahasiswa maupun dosen kepada pihak yang berkepentingan, yaitu dosen wali, pimpinan jurusan/program studi, dan pimpinan FTIS.
-Perincian kegiatan perkuliahan adalah sebagai berikut :
+Perincian kegiatan perkuliahan adalah sebagai berikut:
 
-1. **Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)**, yang sebaiknya dimanfaatkan secara maksimal dengan :
+1. **Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)**, yang sebaiknya dimanfaatkan secara maksimal dengan:
     - membaca bahan yang diperkirakan akan dibahas dosen,
     - menanyakan **segala** hal yang belum jelas kepada dosen,
     - meminta saran dosen tentang cara belajar dan berlatih yang baik.
@@ -1190,18 +1190,18 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
 
 ## 3.3 Tata Cara Ujian
 
-Yang dimaksud dengan *ujian* adalah kegiatan evaluasi keberhasilan belajar hingga suatu tahap yang ditetapkan. Ujian terdiri atas :
+Yang dimaksud dengan *ujian* adalah kegiatan evaluasi keberhasilan belajar hingga suatu tahap yang ditetapkan. Ujian terdiri atas:
 
 1. Ujian Tengah Semester (UTS)
 2. Ujian Akhir Semester (UAS)
 3. Ujian Praktikum (jika ada)
 4. Ujian Seminar dan Skripsi
 
-Pelaksanaan UTS dan UAS sesuai dengan jadwal kegiatan akademik UNPAR. Jadwal kedua ujian tersebut diumumkan pada masa pendaftaran rencana studi. Ujian praktikum, Seminar dan Skripsi dapat dilaksanakan di luar masa ujian asalkan masih dalam semester tersebut. 
+Pelaksanaan UTS dan UAS sesuai dengan jadwal kegiatan akademik UNPAR. Jadwal kedua ujian tersebut diumumkan pada masa pendaftaran rencana studi. Ujian praktikum, Seminar dan Skripsi dapat dilaksanakan di luar masa ujian asalkan masih dalam semester tersebut.
 
 ### 3.3.1 Syarat Mengikuti Ujian
 
-Syarat untuk mengikuti UTS dan UAS :
+Syarat untuk mengikuti UTS dan UAS:
 
 1. **Terdaftar** sebagai peserta pada semester terkait, telah cukup mengikuti kegiatan tatap muka mata kuliah terkait pada semester tersebut, serta tidak menjalani sanksi pembatalan hak tempuh mengikuti suatu program pada semester tersebut berdasarkan SK Rektor UNPAR. 
 2. **Telah melunasi** seluruh biaya kuliah semester terkait. Perkecualian **khusus pada masa UTS** diberikan bagi mahasiswa yang mendapat dispensasi penundaan pembayaran kuliah oleh WD-2.
@@ -1256,7 +1256,7 @@ Syarat untuk mengikuti UTS dan UAS :
 
 ### 3.3.3 Sanksi
 
-Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi berupa :
+Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi berupa:
 
 1. Untuk kali pertama: peringatan dari pengawas ujian, yang wajib dicatat dalam Berita Acara Ujian dan disimpan dalam map mahasiswa terkait.
 2. Untuk kali ke dua dengan kesalahan yang sama: peringatan tertulis dari pimpinan Fakultas, yang arsipnya juga disimpan dalam map mahasiswa terkait.
@@ -1265,7 +1265,7 @@ Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi beru
 
 Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.
 
-Mahasiswa yang terbukti melakukan **pelanggaran norma kejujuran** pada saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut :
+Mahasiswa yang terbukti melakukan **pelanggaran norma kejujuran** pada saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut:
 
 1. Untuk kali pertama: nilai mata kuliah yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
 2. Untuk kali kedua: seluruh nilai mata kuliah pada semester terkait mahasiswa yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
@@ -1296,16 +1296,16 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 ### 3.4.2 Prosedur Cuti Studi
 
 1. Mahasiswa wajib mengisi **Surat Permohonan Cuti Studi Mahasiswa** yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi ***rekomendasi dosen wali*** mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS **selambat-lambatnya sebelum berakhirnya masa PRS** semester terkait dengan cuti tersebut.
-2. Kriteria untuk memberi ijin tersebut adalah :
+2. Kriteria untuk memberi ijin tersebut adalah:
     (a). masalah kesehatan,
     (b). masalah financial, atau
     (c). masalah pribadi lainnya.
 3. Ijin pengambilan cuti studi diberikan oleh Dekan FTIS dan dinyatakan dalam bentuk surat resmi, dan diberitahukan kepada WR-1, WR-2, Kepala Biro Administrasi Akademik dan Kemahasiswaan (BAA) dan Kepala Biro Administrasi Keuangan (BIKEU).
 4. Masa cuti studi **tidak diperhitungkan** sebagai masa studi terpakai dalam evaluasi tahap studi.
-5. Bagi mahasiswa yang mendapat ijin cuti dari Dekan FTIS, wajib
+5. Bagi mahasiswa yang mendapat ijin cuti dari Dekan FTIS, wajib:
     - Mengisi Formulir Rencana Studi dengan beban **0 (nol)** sks, dan didaftarkan sesuai dengan **prosedur yang ada**.
     - Membayar **100&#37; (seratus persen)** Tarif Biaya Registrasi (sesuai dengan Peraturan Pengurus Yayasan UNPAR no. 06 th. 2008 tentang Pemisahan Tarif Biaya Registrasi dan Biaya Pengembangan).
-6. Dalam hal mahasiswa mengajukan permohonan cuti studi **setelah masa PRS berakhir**, ijin cuti hanya dapat diberikan oleh Dekan FTIS apabila
+6. Dalam hal mahasiswa mengajukan permohonan cuti studi **setelah masa PRS berakhir**, ijin cuti hanya dapat diberikan oleh Dekan FTIS apabila:
     * Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.
     * Mendapat ijin dari WR-1.
 
@@ -1317,7 +1317,7 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 
 Mahasiswa gencat studi adalah mahasiswa yang pada suatu semester tidak melakukan pendaftaran rencana studi sesuai dengan prosedur yang berlaku. Masa gencat studi **diperhitungkan** sebagai masa studi terpakai dalam evaluasi tahap studi. Mahasiwa yang melakukan gencat studi selama **2 (dua) semester berturut-turut atau 3 (tiga) semester tidak berturut-turut** tidak diijinkan melanjutkan studi di lingkungan UNPAR.
 
-Adapun **prosedur pengaktifan kembali status mahasiswa setelah gencat studi** adalah sebagai berikut :
+Adapun **prosedur pengaktifan kembali status mahasiswa setelah gencat studi** adalah sebagai berikut:
 
 1. Mahasiswa tersebut harus mengajukan permohonan tertulis terlebih dahulu kepada Dekan FTIS, dilengkapi dengan
     * alasan gencat studi pada semester sebelumnya
@@ -1331,7 +1331,7 @@ Adapun **prosedur pengaktifan kembali status mahasiswa setelah gencat studi** ad
 
 ## 3.5 Pengunduran Diri Sebagai Mahasiswa
 
-Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai berikut :
+Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai berikut:
 
 1. Mahasiswa yang bersangkutan menulis surat pernyataan pengunduran diri yang ditujukan kepada Dekan FTIS, ditandatangani oleh mahasiswa dan orang tua mahasiswa yang bersangkutan.
 2. Mahasiswa yang bersangkutan mengisi formulir pengunduran diri yang dapat diperoleh di Tata Usaha FTIS.
@@ -1342,7 +1342,7 @@ Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai b
 
 # BAB 4 EVALUASI KEBERHASILAN BELAJAR
 
-Evaluasi keberhasilan belajar yang diuraikan berikut ini berdasarkan kepada : 
+Evaluasi keberhasilan belajar yang diuraikan berikut ini berdasarkan kepada:
 
 1. Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 tentang Evaluasi Keberhasilan Belajar Dalam Mata Kuliah Dan Evaluasi Tahap Keberhasilan Belajar Pada Program Sarjana Dan Program Diploma-III di Lingkungan Universitas Katolik Parahyangan.
 2. Keputusan Dekan No. III/FMIPA/2007-04/396-SK tentang Evaluasi Keberhasilan Belajar Tahap Pertama Dan Tahap Kedua Pada Program Stratum-1 Di Lingkungan Fakultas Matematika Dan Ilmu Pengetahuan Alam Universitas Katolik Parahyangan.
@@ -1351,15 +1351,15 @@ Evaluasi keberhasilan belajar yang diuraikan berikut ini berdasarkan kepada :
 
 Evaluasi keberhasilan belajar mata kuliah adalah penilaian terhadap hasil belajar mahasiswa dalam suatu mata kuliah, yang dilakukan secara menyeluruh dan berkesinambungan dalam satu semester dengan cara yang sesuai dengan karakteristik mata kuliah yang bersangkutan.
 
-Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa **menyelesaikan seluruh Komponen Kegiatan** yang disyaratkan dalam suatu mata kuliah. Kriteria keberhasilan belajar mahasiswa dalam suatu mata kuliah ditetapkan oleh dosen pembina mata kuliah, dengan menaati rambu-rambu dalam SK Rektor dan SK Dekan tersebut di atas. 
+Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa **menyelesaikan seluruh Komponen Kegiatan** yang disyaratkan dalam suatu mata kuliah. Kriteria keberhasilan belajar mahasiswa dalam suatu mata kuliah ditetapkan oleh dosen pembina mata kuliah, dengan menaati rambu-rambu dalam SK Rektor dan SK Dekan tersebut di atas.
 
-Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut :
+Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut:
 
-| BENTUK KEGIATAN       | KOMPONEN KEGIATAN                       | KOMPONEN EVALUASI (ANGKA)               | KOMPONEN EVALUASI (&#37;)                   |
+| BENTUK KEGIATAN       | KOMPONEN KEGIATAN                       | KOMPONEN EVALUASI (ANGKA)               | KOMPONEN EVALUASI (&#37;)               |
 |-----------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
-| Perkuliahan           | Pelaksanaan Tugas                       | Angka Rata-rata Tugas (ART)             | 20&#37; - 40&#37;                               |
-| Perkuliahan           | Tatap Muka                              | Angka Ujian Tengah Semester (AUTS)      | 30&#37; - 50&#37;                               |
-| Perkuliahan           | Tatap Muka                              | Angka Ujian Akhir Semester (AUAS)       | 30&#37; - 50&#37;                               |
+| Perkuliahan           | Pelaksanaan Tugas                       | Angka Rata-rata Tugas (ART)             | 20&#37; - 40&#37;                       |
+| Perkuliahan           | Tatap Muka                              | Angka Ujian Tengah Semester (AUTS)      | 30&#37; - 50&#37;                       |
+| Perkuliahan           | Tatap Muka                              | Angka Ujian Akhir Semester (AUAS)       | 30&#37; - 50&#37;                       |
 | Seminar/Studi Mandiri | Partisipasi,Penyusunan Makalah /Laporan | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
 | Skripsi               | Penyusunan dan Penyajian                | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
 
@@ -1371,7 +1371,7 @@ Apabila seorang mahasiswa tidak dapat memenuhi salah satu komponen evaluasi yang
 
 **Komponen Evaluasi** dinyatakan dalam bentuk angka dengan rentang **0 – 100** dengan pembulatan angka pecahan hingga **satuan terdekat**, dengan ketentuan bilangan pecahan &gt;= 0,5 dibulatkan menjadi 1 dan bilangan pecahan &lt; 0,5 dibulatkan menjadi 0.
 
-Konversi **Angka Akhir (AA)** menjadi **Nilai Akhir (NA)** dilakukan dengan **Penilaian Acuan Patokan (PAP)** sebagai berikut :
+Konversi **Angka Akhir (AA)** menjadi **Nilai Akhir (NA)** dilakukan dengan **Penilaian Acuan Patokan (PAP)** sebagai berikut:
 
 | AA       | NA | BOBOT NA |
 |----------|----|----------|
@@ -1392,7 +1392,7 @@ Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa
 3. Evaluasi Keberhasilan Belajar Tahap Kedua
 4. Evaluasi Keberhasilan Belajar Tahap Akhir
 
-### 4.2.1 Evaluasi Keberhasilan Belajar Tiap Semester  
+### 4.2.1 Evaluasi Keberhasilan Belajar Tiap Semester
 
 Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah mahasiswa menempuh UAS. Evaluasi Keberhasilan Belajar tiap semester ini dinyatakan dalam **Indeks Prestasi Semester (IPS)** yang mempunyai rentang **0,00 – 4,00** dan dihitung dengan rumus:
 
@@ -1422,7 +1422,7 @@ Evaluasi Keberhasilan Belajar Tahap Akhir dilakukan pada akhir masa studi maksim
 
 Evaluasi Keberhasilan Belajar Tahap Akhir dinyatakan dalam **Indeks Prestasi Kumulatif (IPK)**, dengan rentang **0,00 – 4,00** yang dihitung dengan rumus:
 
-![Rumus Indeks Prestasi Komulatif](images/formula_bab4_2.PNG "Rumus Indeks Prestasi Komulatif") 
+![Rumus Indeks Prestasi Komulatif](images/formula_bab4_2.PNG "Rumus Indeks Prestasi Komulatif")
 
 dengan (SKS[i] x bobot NA[i]) = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. Mahasiswa dinyatakan **lulus** dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut:
 
@@ -1434,11 +1434,11 @@ Jika persyaratan di atas tidak terpenuhi, maka mahasiswa yang bersangkutan **tid
 
 IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh mahasiswa, dan digunakan untuk menetapkan yudisium (sebutan) kelulusan, dengan ketentuan sbb.:
 
-| IPK         | YUDISIUM                                            |
-|-------------|-----------------------------------------------------|
-| 2,00 - 2,75 | Memuaskan                                           |
-| 2,76 - 3,50 | Sangat Memuaskan                                    |
-| 3,51 - 4,00 | Dengan Pujian (masa studi terpakai &lt;= 9 semester)    |
+| IPK         | YUDISIUM                                               |
+|-------------|--------------------------------------------------------|
+| 2,00 - 2,75 | Memuaskan                                              |
+| 2,76 - 3,50 | Sangat Memuaskan                                       |
+| 3,51 - 4,00 | Dengan Pujian (masa studi terpakai &lt;= 9 semester)   |
 | 3,51 - 4,00 | Sangat Memuaskan (masa studi terpakai &gt; 9 semester) |
 
 ## 4.3 Kemampuan Bahasa Inggris Mahasiswa UNPAR
