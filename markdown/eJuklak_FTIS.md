@@ -258,7 +258,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
     * Haryanto Mangaratua Siahaan, SSi (ITB), MSi (ITB), Studi S-3 di University of Saskatchewan.  
     Fisika Modern , Teori Relativitas  
     Email: haryanto.siahaan@gmail.com
-    *Husnul Hakim, SKom (ITS), MT (ITB):   
+    * Husnul Hakim, SKom (ITS), MT (ITB):   
     Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data, Desaian Antarmuka Grafis.  
     Email: husnulhakim@unpar.ac.id.
     * Joanna Helga, S.Kom. (UNPAR), M.Sc. (Univ. of York – Kanada):  
