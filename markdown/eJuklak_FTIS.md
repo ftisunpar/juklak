@@ -1,6 +1,6 @@
 > **Catatan**: Perubahan-perubahan yang terjadi di FTIS (pimpinan, peraturan) terjadi cukup cepat, sedangkan juklak hanya diperbaharui paling cepat setahun sekali. Dokumen ini adalah versi _unofficial_ dari Juklak, dengan perubahan-perubahan terkini. -Pascal-
 
-**PETUNJUK PELAKSANAAN KEGIATAN AKADEMIK TAHUN 2014/2015**
+**PETUNJUK PELAKSANAAN KEGIATAN AKADEMIK TAHUN 2015/2016**
 
 
 ![Logo UNPAR](images/unpar.png "Logo UNPAR")
