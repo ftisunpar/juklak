@@ -332,6 +332,12 @@ Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS u
 | AMS102 | Matematika 2                | 3   | Teknik Sipil         |
 | AMS201 | Matematika 3                | 3   | Teknik Sipil         |
 | AMS202 | Matematika 4                | 3   | Teknik Sipil         |
+| ESE 103| Matematika Untuk Ekonomi    | 6   | Ekonomi              |
+| ESE 104| Statistika Untuk Ekonomi    | 6   | Ekonomi              |
+| ESM 102| Matematika Bisnis           | 3   | Manajemen            |
+| ESM 103| Statistika Bisnis           | 3   | Manajemen            |
+| ESA 103| Statistika                  | 2   | Akuntansi            |
+| ESA 205| Matematika Keuangan         | 2   | Akuntansi            |
 
 ### 2.3.2 Kuliah Layanan Program Studi Fisika
 
@@ -343,9 +349,11 @@ Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS u
 | APS 184 | Fisika Dasar 2         | 2   | Teknik Industri     |
 | APS 185 | Fisika Dasar 1         | 2   | Teknik Kimia        |
 | APS 186 | Fisika Dasar 2         | 2   | Teknik Kimia        |
-| APS 187 | Praktikum Fisika Dasar | 1   | Matematika          |
-| APS 188 | Praktikum Fisika Dasar | 1   | Teknik Sipil        |
+| APS 178 | Praktikum Fisika Dasar | 1   | Teknik Sipil        |
 | APS 189 | Praktikum Fisika Dasar | 1   | Teknik Industri     |
+| APS 191 | Fisika Dasar 1         | 3   | Teknik Elektro      |
+| APS 192 | Fisika Dasar 2         | 3   | Teknik Elektro      |
+| APS 193 | Praktikum Fisika Dasar | 1   | Teknik Elektro      |
 | FFT 113 | Kosmologi              | 2   | Filsafat            |
 
 ### 2.3.3 Kuliah Layanan Program Studi Teknik Informatika
@@ -511,7 +519,7 @@ Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian 
         |AMS441	|Teori Manajemen Investasi		|3	|
         |AMS442	|Ekonometrika Keuangan			|3	|
         |AMS440	|Kapita Selekta Matematika Keuangan	|3	|
-2. Kelompok Bidang Kajian: Matematika Industri
+2. Kelompok Bidang Kajian: Rekayasa Keuangan
     - Optimasi dan Teori Kontrol
 
         |KODE	|NAMA					|SKS	|
@@ -561,6 +569,7 @@ Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian 
     |AMS381	|Inovasi Pembelajaran Matematika	|3	|
     |AMS382	|Pembelajaran Matematika Sekolah	|3	|
     |AMS481	|Kerja Praktek				|3	|
+    |AMS482     |Pendidikan Pengabdian Pada Masyarakat  |3      |
 
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh mata kuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara mata kuliah tersebut. Adapun persyaratan Mata Kuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh mata kuliah pilihan Bidang Kajian minimal 15 sks.
 
@@ -610,7 +619,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 |APS107	|Fisika Matematika 1		|R	|4	|
 |AIF111	|Pemrograman Komputer		|P	|3	|
 |ICE109	|Kimia Dasar			|	|2	|
-|MKU011	|Estetika			|	|2	|  
+|MKU011	|Estetika			|	|2	|
 
 TOTAL SKS = 19
 
@@ -621,9 +630,9 @@ TOTAL SKS = 19
 |APS106	|Fisika Dasar 2			|R,P	|3	|
 |APS108	|Fisika Matematika 2		|R	|4	|
 |APS112	|Mekanika			|R	|3	|
-|APS124	|Fisika Modern			|	|3	|		
+|APS124	|Fisika Modern			|	|3      |
 |APS132	|Fisika Komputasi		|P	|3	|
-|MKU012	|Logika				|	|2	|  
+|MKU012	|Logika				|	|2	| 
 
 TOTAL SKS = 18
 
@@ -840,6 +849,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 |APS234		|	APS233, APS207		|**ELEKTRONIKA 2 (*ELECTRONICS 2*)** Mata kuliah ini merupakan kelanjutan dari mata kuliah Elektronika 1. Dalam mata kuliah ini dibahas tentang konversi bilangan, logika kombinasi (tabel kebenaran, aljabar boolean, karnaugh map, gerbang logika), Logika sekuensial (flip-flop, register, diagram keadaan, diagram perwaktuan), Aplikasi (pencacah, dekoder, enkoder, multiplekser, adc, dac, komponen opto-elektronika). Mata kuliah ini bertujuan untuk membekali mahasiswa dengan konsep dasar dan pengalaman dalam bidang elektronika digital.	|
 |APS304		|	-		|**TEKNIK PRESENTASI (*PRESENTATION SKILLS*)** Salah satu kemampuan dasar yang wajib dimiliki oleh seorang mahasiswa adalah kemampuan untuk berkomunikasi baik secara lisan maupun tertulis. Di dalam mata kuliah ini mahasiswa akan dilatih untuk membuat laporan ilmiah yang profesional dan dibekali dengan kemampuan untuk dapat memberikan presentasi yang efektif.|
 |APS323		|	APS222, APS208		|**ELEKTRODINAMIKA (*ELECTRODYNAMICS*)** Mata kuliah ini mengembangkan gagasan-gagasan tentang listrik magnet yang telah dipelajari pada semester sebelumnya ke dalam teori Maxwell tentang elektromagnetik. Persamaan Maxwell menarik berbagai macam hukum tentang listrik magnet (Hukum Faraday, Hukum Ampere, Hukum Lenz, Hukum Gauss) ke dalam satu kesatuan teori yang elegan. Penetapan teori elektromagnetik yang komplit telah membuktikan salah satu pencapaian besar dalam fisika. Secara garis besar dalam mata kuliah ini akan dibahas beberapa konsep elektrodinamika yang mengaitkan hubungan antara medan listrik dan medan magnetik (hukum Ohm dan hukum Faraday) dan berujung pada persamaan Maxwell yang menggabungkan deskripsi medan listrik dan medan magnetik. Beberapa sifat gelombang elektromagnetik yang ditimbulkan sebagai solusi persamaan Maxwell dibahas dalam kuliah ini, seperti persamaan gelombang elektromagnetik dan perambatannya dalam medium serta dispersi gelombang elektromagnetik. Beberapa aplikasi sederhana gelombang elektromagnetik diberikan, seperti pandu gelombang dan radiasi elektromagnetik. Masalah invariansi teori elektromagnetik terhadap kerangka inersial dimunculkan, yang pada akhirnya berujung pada ide teori relativitas khusus yang dikembangkan oleh Einstein. Melalui mata kuliah ini diharapkan mahasiswa dapat memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet dinamis.|
+|APS327         |       APS208                  |**FISIKA KUANTUM (*QUANTUM PHYSICS*)** Kuliah ini membahas fenomena-fenomena yang ditemukan pada awal lahirnya teori kuantum, seperti fenomena kuantisasi dan dualisme partikel gelombang, dan teori-teori yang dibangun untuk menjelaskan fenomena-fenomena tersebut (prinsip gelombang dalam pemahaman teori kuantum, persamaan Schrodinger). Aplikasi teori kuantum diarahkan pada masalah-masalah yang sederhana dalam aplikasi persamaan Schrodinger, teori perturbasi serta pembahasan tentang momentum sudut dan spin partikel. Pada akhirnya, akan dibahas pula sebuah pandangan alternatif terhadap teori kuantum melalui path integral yang dikembangkan oleh Feynman. Melalui mata kuliah ini mahasiswa diharapkan dapat memahami secara kualitatif dan kuantitatif fenomena kuantum yang sangat berbeda dengan fenomena fisika klasik. |
 |APS328		|	APS327, APS208		|**MEKANIKA KUANTUM (*QUANTUM MECHANICS*)** Melalui mata kuliah ini mahasiswa akan diperkenalkan struktur matematika mekanika kuantum dan menjelaskan bagaimana untuk menghitung nilai harapan untuk jumlah yang diamati dari suatu sistem. Selain itu untuk menunjukkan bagaimana teori perhitungan kuantum dari sifat atom, partikel dasar, inti dan padatan. Secara umum dalam mata kuliah ini akan dibahas lebih lanjut tentang Revisi fungsi gelombang, kepadatan probabilitas dan persamaan Schrödinger dalam 1 dimensi. Atom Hidrogen: momentum sudut orbital, bilangan kuantum, distribusi probabilitas. Spektrum atom dan efek Zeeman. Elektron berputar: Stern-Gerlach, kuantum spin angka, spin-orbit kopling, prinsip pengecualian dan tabel periodik. X-ray spektrum.	|
 |APS335		|	APS234			|**LAB. FISIKA INSTRUMENTASI (*INSTRUMENTATION PHYSICS LABORATORY*)** Pada kuliah ini materi dipelajari dengan menerapkannya pada robot agar proses pembelajaran menarik dan langsung diterapkan. Isi kuliah meliputi sensor, pengkondisian sinyal, ADC, DAC, Pengolahan data, Fourier, Sistem tertutup. Tujuan mata kuliah ini untuk membekali mahasiswa dengan pengalaman antarmuka dalam instrumentasi. |
 |APS341		|	APS208, APS106		|**PENGANTAR FISIKA NUKLIR (*INTRODUCTION TO NUCLEAR PHYSICS*)** Dasar penyusun materi diklasifikasikan menjadi tiga generasi Quarks dan Leptons (elektron dan neutrino), yang saling berinteraksi melalui gaya elektromagnetik, gaya lemah dan gaya kuat. Pada mata kuliah ini dipelajari cara mengklasifikasikan partikel-partikel dasar dan interaksinya serta deskripsi beberapa alat eksperimen yang digunakan untuk memahami sifat-sifat partikel tersebut. Modul pada mata kuliah ini diawali dengan mendiskusikan hubungan antara gaya konservatif dengan sifat simetris dari partikel-partikel dasar. Pemahaman akan hubungan ini menjadi kunci pengetahuan mengenai perilaku partikel-partikel dasar. Selain itu juga dibahas mengenai partikel-partikel yang dipelajari secara eksperimen dan mendeskripsikan pengoperasian beberapa peralatan meliputi tabung sinar katoda, spectrometer massa dan akselerator partikel. Di akhir kuliah akan dipelajari interaksi partikel dengan materi.	|
@@ -859,12 +869,12 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
-|AIF101	|Pemrograman Berorientasi Objek	|	|6	|
+|AIF101	|Pemrograman Berorientasi Objek	| P	|6	|
 |AIF103	|Matematika Diskret		|	|3	|
 |AIF105	|Pengantar Informatika		|	|3	|
 |MKU001	|Pendidikan Pancasila		|	|2	|
 |MKU008	|Etika				|	|2	|
-|MKU010	|Bahasa Inggris			|	|2	|  
+|MKU010	|Bahasa Inggris			|	|2	|
 
 TOTAL SKS = 18
 
@@ -872,12 +882,12 @@ TOTAL SKS = 18
 
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
-|AIF102	|Algoritma dan Struktur Data	|	|4	|
+|AIF102	|Algoritma dan Struktur Data	|P	|4	|
 |AIF104	|Logika Informatika		|	|3	|
 |AIF106	|Sistem Dijital			|	|3	|
-|AMS100	|Matematika Informatika		|	|4	|		
+|AMS100	|Matematika Informatika		|R	|4      |
 |MKU009	|Bahasa Indonesia		|	|2	|
-|MKU011	|Estetika			|	|2	|  
+|MKU011	|Estetika			|	|2	| 
 
 TOTAL SKS = 18
 
@@ -885,12 +895,12 @@ TOTAL SKS = 18
 
 |KODE	|NAMA					|APR	|SKS	|
 |-------|---------------------------------------|-------|-------|
-|AIF201	|Analisis dan Desain Berorientasi Objek	|	|4	|
+|AIF201	|Analisis dan Desain Berorientasi Objek	|P,R	|4	|
 |AIF203	|Struktur Diskret			|	|4	|
 |AIF205	|Arsitektur dan Organisasi Komputer	|	|3	|
 |AMS200	|Probabilitas dan Statistika		|	|3	|
 |MKU003/MKU004|Agama Katolik/Fenomenologi Agama	|	|2	|
-|MKU012	|Logika					|	|2	|  
+|MKU012	|Logika					|	|2	| 
 
 TOTAL SKS = 18
 
@@ -898,11 +908,11 @@ TOTAL SKS = 18
 
 |KODE	|NAMA					|APR	|SKS	|
 |-------|---------------------------------------|-------|-------|
-|AIF202	|Desain dan Analisis Algoritma		|	|2	|
-|AIF204	|Manajemen Informasi dan Basisdata	|R	|4	|
-|AIF206	|Sistem Operasi				|R	|3	|
-|AIF208	|Rekayasa Perangkat Lunak		|R	|4	|
-|AIF210	|Interaksi Manusia Komputer		|P	|3	|  
+|AIF202	|Desain dan Analisis Algoritma		|P,R	|4	|
+|AIF204	|Manajemen Informasi dan Basisdata	|P	|4	|
+|AIF206	|Sistem Operasi				|	|4	|
+|AIF208	|Rekayasa Perangkat Lunak		|	|4	|
+|AIF210	|Interaksi Manusia Komputer		|P	|2	| 
 
 TOTAL SKS = 18
 
@@ -913,12 +923,12 @@ TOTAL SKS = 18
 |AIF301	|Pengantar Sistem Cerdas	|	|3	|
 |AIF303	|Pengantar Sistem Informasi	|	|3	|
 |AIF305	|Jaringan Komputer		|	|2	|
-|AIF311	|Pemrograman Fungsional [1]	|R	|2	|
-|AIF313	|Grafika Komputer [1]		|R	|2	|
-|AIF315	|Pemrograman Berbasis Web [1]	|R	|2	|
-|AIF317	|Desain Antarmuka Grafis [1]	|R	|2	|
+|AIF311	|Pemrograman Fungsional [1]	|P	|2	|
+|AIF313	|Grafika Komputer [1]		|P	|2	|
+|AIF315	|Pemrograman Berbasis Web [1]	|P	|2	|
+|AIF317	|Desain Antarmuka Grafis [1]	|P	|2	|
 |AIFXXX	|MK Pilihan			|	|2	|
-|MKU002	|Kewarganegaraan		|	|2	|  
+|MKU002	|Kewarganegaraan		|	|2	| 
 
 TOTAL SKS = 18
 
@@ -927,13 +937,13 @@ TOTAL SKS = 18
 |KODE	|NAMA				|APR	|SKS	|
 |-------|-------------------------------|-------|-------|
 |AIF302	|Penulisan Ilmiah		|	|2	|
-|AIF304	|Proyek Sistem Informasi 1 [2]	|	|3	|
+|AIF304	|Proyek Sistem Informasi 1 [2]	|R	|3	|
 |AIF306	|Proyek Informatika [2]		|	|6	|
-|AIF312	|Keamanan Informasi[1]		|R	|2	|
-|AIF314	|Pemrograman Basisdata [1]	|R	|2	|
-|AIF316	|Komputasi Paralel [1]		|R	|2	|
-|AIF318	|Pemrograman Aplikasi Bergerak [1] |R	|2	|
-|AIFXXX	|MK Pilihan			|	|6	|  
+|AIF312	|Keamanan Informasi[1]		|P	|2	|
+|AIF314	|Pemrograman Basisdata [1]	|P	|2	|
+|AIF316	|Komputasi Paralel [1]		|P	|2	|
+|AIF318	|Pemrograman Aplikasi Bergerak [1] |P	|2	|
+|AIFXXX	|MK Pilihan			|	|6	| 
 
 TOTAL SKS = 18
 
@@ -944,7 +954,7 @@ TOTAL SKS = 18
 |AIF401	|Skripsi 1			|	|4	|
 |AIF403	|Komputer dan Masyarakat	|	|3	|
 |AIF405	|Proyek Sistem Informasi 2 [2]	|	|2	|
-|AIFXXX	|MK Pilihan			|	|12	|  
+|AIFXXX	|MK Pilihan			|	|12	| 
 
 TOTAL SKS = 18
 
@@ -954,7 +964,7 @@ TOTAL SKS = 18
 |-------|-------------------------------|-------|-------|
 |AIF402	|Skripsi 2			|	|6	|
 |AIFXXX	|MK Pilihan			|	|10	|
-|APS402	|Etika Profesi			|	|2	|  
+|APS402	|Etika Profesi			|	|2	| 
 
 TOTAL SKS = 18
 
