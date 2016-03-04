@@ -59,7 +59,7 @@ Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari B
     
 Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester) dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.
 
-## 1.2 Visi, Misi, Tujuan, dan Sasaran FTIS  
+## 1.2 Visi, Misi, Tujuan, dan Sasaran FTIS
 
 Visi dan Misi FTIS - UNPAR mengacu pada visi dan misi UNPAR. Visi UNPAR adalah
 
@@ -73,7 +73,7 @@ Sebagai sebuah lembaga ilmiah, misi UNPAR adalah
  
 sesuai dengan sesanti Universitas, *Bakuning Hyang Mrih Guna Santyaya Bhakti*, yang bermakna berdasarkan Ketuhanan menuntut ilmu untuk dibaktikan kepada masyarakat.
 
-### 1.2.1 Visi FTIS  
+### 1.2.1 Visi FTIS
 
 Visi FTIS adalah sebagai berikut:
 
@@ -110,7 +110,7 @@ Tujuan FTIS adalah:
 
 ### 1.2.4 Sasaran FTIS
 
-Sasaran FTIS adalah sebagai berikut:  
+Sasaran FTIS adalah sebagai berikut:
 
 1. Menghasilkan lulusan yang unggul dan berdaya saing yang tinggi.
 2. Menghasilkan karya penelitian yang dapat dimanfaatkan dalam proses pembelajaran dan pengabdian kepada masyarakat.
@@ -124,7 +124,7 @@ Saat ini FTIS dikelola oleh 42 dosen, 14 di antaranya telah bergelar Doktor atau
 
 Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh organisasi ACM (*Association of Computing Machinery*), kompetisi jaringan komputer Cisco NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah, dan sebagainya. 
 
-## 1.4 Pengelolah Fakultas  
+## 1.4 Pengelolah Fakultas
 
 1. Senat FTIS
     - Ketua: Agus Sukmana, S.Si., M.Sc.
@@ -154,7 +154,7 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
     - Staf Akademik: Rikie Setiawan, S.AB.
     - Staf Keuangan &amp; Kepegawaian: Filifo Zebua, Dwina Irlistriarti, Dra.
 
-## 1.5 Daftar Dosen FTIS  
+## 1.5 Daftar Dosen FTIS
 
 Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan *website*.  
 
@@ -298,10 +298,9 @@ Di samping mata kuliah-mata kuliah yang ditujukan untuk program studinya sendiri
 	
 Selain tatap muka di kelas, suatu mata kuliah dapat mengandung kegiatan lain untuk mendukung perkuliahan, yaitu asistensi, responsi, atau praktikum yang biasa disingkat dengan **APR**.
 
-## 2.1 Mata Kuliah Pilihan
+## 2.1 Mata kuliah Pilihan
 
-Mahasiswa harus menempuh sejumlah SKS tertentu mata kuliah pilihan, dengan sejumlah SKS di antaranya 
-mata kuliah yang diselenggarakan prodinya. Jumlah SKS mata kuliah ini berbeda-beda untuk setiap prodi: 
+Mahasiswa harus menempuh sejumlah SKS tertentu mata kuliah pilihan, dengan sejumlah SKS di antaranya mata kuliah yang diselenggarakan prodinya. Jumlah SKS mata kuliah ini berbeda-beda untuk setiap prodi: 
 
 1. Untuk Matematika, 48 SKS dengan minimal lulus 15 SKS berasal dari salah satu bidang kajian (Rekayasa Keuangan atau Matematika Industri).
 2. Untuk Fisika, 24 SKS yang dapat diambil dari seluruh prodi di UNPAR.
@@ -310,61 +309,61 @@ mata kuliah yang diselenggarakan prodinya. Jumlah SKS mata kuliah ini berbeda-be
 Untuk mata kuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
 
 1. Bila mata kuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak perlu memenuhi prasyarat tersebut.
-2. Mata kuliah pilihan dan mata kuliah di prodi lain yang ekuivalen dengannya, hanya dapat diperhitungkan salah       satunya.
+2. Mata kuliah pilihan dan mata kuliah di prodi lain yang ekuivalen dengannya, hanya dapat diperhitungkan salah satunya.
 
-## 2.2 Mata Kuliah Prasyarat
+## 2.2 Mata kuliah Prasyarat
 
-Mata kuliah prasyarat adalah mata kuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu mata kuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:  
+Mata kuliah prasyarat adalah mata kuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu mata kuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:
 
-1. Prasyarat tempuh, artinya mata kuliah tersebut telah terdaftar dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D,atau E, walaupun tentunya kelulusan akan sangat menunjang penempuhan mata kuliah berikutnya.
-2. Prasyarat lulus, artinya mahasiswa harus lulus mata kuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D, meskipun ada juga yang lebih tinggi. Silahkan melihat silabus mata kuliah ybs. untuk keterangan lebih lanjut.
+1. **Prasyarat tempuh**, artinya mata kuliah tersebut telah terdaftar dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D,atau E, walaupun tentunya kelulusan akan sangat menunjang penempuhan mata kuliah berikutnya.
+2. **Prasyarat lulus**, artinya mahasiswa harus lulus mata kuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D, meskipun ada juga yang lebih tinggi. Silahkan melihat silabus mata kuliah ybs. untuk keterangan lebih lanjut.
 3. Mahasiswa di luar prodi penyelenggara mata kuliah tidak wajib memenuhi prasyarat ini.
 
-## 2.3 Mata Kuliah Layanan
+## 2.3 Mata kuliah Layanan
 
 Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS untuk memenuhi kebutuhan mata kuliah pada prodi lain di lingkungan UNPAR. 
 
 ### 2.3.1 Kuliah Layanan Program Studi Matematika
 
-| KODE   | MATA KULIAH                 | SKS |  PRODI YANG DILAYANI |
-|--------|-----------------------------|-----|----------------------|
-| AMS100 | Matematika Informatika      | 4   | Teknik Informatika   |
-| AMS200 | Probabilitas dan Statistika | 3   | Teknik Informatika   |
-| AMS107 | Fisika Matematika 1         | 4   | Fisika               |
-| AMS108 | Fisika Matematika 2         | 4   | Fisika               |
-| AMS103 | Kalkulus I                  | 2   | Teknik Industri      |
-| AMS104 | Kalkulus II                 | 2   | Teknik Industri      |
-| AMS203 | Matriks dan Ruang Vektor    | 3   | Teknik Industri      |
-| AMS204 | Kalkulus Peubah Banyak      | 2   | Teknik Industri      |
-| AMS105 | Kalkulus I                  | 3   | Teknik Kimia         |
-| AMS106 | Kalkulus II                 | 3   | Teknik Kimia         |
-| AMS101 | Matematika 1                | 3   | Teknik Sipil         |
-| AMS102 | Matematika 2                | 3   | Teknik Sipil         |
-| AMS201 | Matematika 3                | 3   | Teknik Sipil         |
-| AMS202 | Matematika 4                | 3   | Teknik Sipil         |
-| ESE 103| Matematika Untuk Ekonomi    | 6   | Ekonomi              |
-| ESE 104| Statistika Untuk Ekonomi    | 6   | Ekonomi              |
-| ESM 102| Matematika Bisnis           | 3   | Manajemen            |
-| ESM 103| Statistika Bisnis           | 3   | Manajemen            |
-| ESA 103| Statistika                  | 2   | Akuntansi            |
-| ESA 205| Matematika Keuangan         | 2   | Akuntansi            |
+| KODE   | MATA KULIAH                 | SKS | PRODI YANG DILAYANI |
+|--------|-----------------------------|-----|---------------------|
+| AMS100 | Matematika Informatika      | 4   | Teknik Informatika  |
+| AMS200 | Probabilitas dan Statistika | 3   | Teknik Informatika  |
+| AMS107 | Fisika Matematika 1         | 4   | Fisika              |
+| AMS108 | Fisika Matematika 2         | 4   | Fisika              |
+| AMS103 | Kalkulus I                  | 2   | Teknik Industri     |
+| AMS104 | Kalkulus II                 | 2   | Teknik Industri     |
+| AMS203 | Matriks dan Ruang Vektor    | 3   | Teknik Industri     |
+| AMS204 | Kalkulus Peubah Banyak      | 2   | Teknik Industri     |
+| AMS105 | Kalkulus I                  | 3   | Teknik Kimia        |
+| AMS106 | Kalkulus II                 | 3   | Teknik Kimia        |
+| AMS101 | Matematika 1                | 3   | Teknik Sipil        |
+| AMS102 | Matematika 2                | 3   | Teknik Sipil        |
+| AMS201 | Matematika 3                | 3   | Teknik Sipil        |
+| AMS202 | Matematika 4                | 3   | Teknik Sipil        |
+| ESE103 | Matematika Untuk Ekonomi    | 6   | Ekonomi             |
+| ESE104 | Statistika Untuk Ekonomi    | 6   | Ekonomi             |
+| ESM102 | Matematika Bisnis           | 3   | Manajemen           |
+| ESM103 | Statistika Bisnis           | 3   | Manajemen           |
+| ESA103 | Statistika                  | 2   | Akuntansi           |
+| ESA205 | Matematika Keuangan         | 2   | Akuntansi           |
 
 ### 2.3.2 Kuliah Layanan Program Studi Fisika
 
-| KODE    | MATA KULIAH            | SKS | PRODI YANG DILAYANI |
-|---------|------------------------|-----|---------------------|
-| APS 181 | Fisika Dasar           | 4   | Matematika          |
-| APS 182 | Fisika Dasar           | 3   | Teknik Sipil        |
-| APS 183 | Fisika Dasar 1         | 2   | Teknik Industri     |
-| APS 184 | Fisika Dasar 2         | 2   | Teknik Industri     |
-| APS 185 | Fisika Dasar 1         | 2   | Teknik Kimia        |
-| APS 186 | Fisika Dasar 2         | 2   | Teknik Kimia        |
-| APS 178 | Praktikum Fisika Dasar | 1   | Teknik Sipil        |
-| APS 189 | Praktikum Fisika Dasar | 1   | Teknik Industri     |
-| APS 191 | Fisika Dasar 1         | 3   | Teknik Elektro      |
-| APS 192 | Fisika Dasar 2         | 3   | Teknik Elektro      |
-| APS 193 | Praktikum Fisika Dasar | 1   | Teknik Elektro      |
-| FFT 113 | Kosmologi              | 2   | Filsafat            |
+| KODE   | MATA KULIAH            | SKS | PRODI YANG DILAYANI |
+|--------|------------------------|-----|---------------------|
+| APS181 | Fisika Dasar           | 4   | Matematika          |
+| APS182 | Fisika Dasar           | 3   | Teknik Sipil        |
+| APS183 | Fisika Dasar 1         | 2   | Teknik Industri     |
+| APS184 | Fisika Dasar 2         | 2   | Teknik Industri     |
+| APS185 | Fisika Dasar 1         | 2   | Teknik Kimia        |
+| APS186 | Fisika Dasar 2         | 2   | Teknik Kimia        |
+| APS178 | Praktikum Fisika Dasar | 1   | Teknik Sipil        |
+| APS189 | Praktikum Fisika Dasar | 1   | Teknik Industri     |
+| APS191 | Fisika Dasar 1         | 3   | Teknik Elektro      |
+| APS192 | Fisika Dasar 2         | 3   | Teknik Elektro      |
+| APS193 | Praktikum Fisika Dasar | 1   | Teknik Elektro      |
+| FFT113 | Kosmologi              | 2   | Filsafat            |
 
 ### 2.3.3 Kuliah Layanan Program Studi Teknik Informatika
 
@@ -372,11 +371,11 @@ Mata kuliah layanan adalah mata kuliah yang dibina oleh prodi yang ada di FTIS u
 |--------|----------------------|-----|---------------------|
 | AKS144 | Pemrograman Komputer | 3   | Matematika          |
 
-## 2.4 Mata Kuliah Umum
+## 2.4 Mata kuliah Umum
 
-Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
+Mata kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
 
-### 2.4.1 Susunan Mata Kuliah Umum
+### 2.4.1 Susunan Mata kuliah Umum
 
 | KODE   | MATA KULIAH                | SKS |
 |--------|----------------------------|-----|
@@ -390,196 +389,201 @@ Mata Kuliah Umum (MKU) adalah mata kuliah kepribadian yang diselenggarakan oleh 
 | MKU011 | Estetika                   | 2   |
 | MKU012 | Logika                     | 2   |
 
-### 2.4.2 Uraian Singkat Mata Kuliah Umum  
+### 2.4.2 Uraian Singkat Mata kuliah Umum
 
-| KODE MK   	|PRASYARAT	|NAMA &amp; DESKRIPSI MATA KULIAH                	|
-|---------------|---------------|-----------------------------------------------|
-|MKU001 	|	-	|**PENDIDIKAN PANCASILA (*PANCASILA EDUCATION*)** Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (*character building*) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila.		| 
-| MKU002	 |	-	|**PENDIDIKAN KEWARGANEGARAAN (*CIVIC*)** Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.	        | 	
-| MKU003	 |	-	|**AGAMA KATOLIK (*CATHOLIC RELIGION*)** Mata kuliah ini membentuk karakteristik mahasiswa sebagai manusia yang memiliki religiusitas melalui pendalaman akan makna agama dan beragama, mendeteksi dinamika Wahyu Tuhan dan iman mereka, memahami relasi dengan Tuhan dan sesama, mengenal makna keselamatan dalam konteks Kerajaan Allah, dan mampu menyatakan ajaran Gereja dalam pelayanan terhadap orang miskin dan terlantar. 		| 	
-| MKU004	 |	-	|**FENOMENOLOGI AGAMA (*PHENOMENOLOGY OF RELIGION*)** Fenomenologi Agama merupakan bagian yang tak terpisahkan dari kajian filosofis, kritis, rasional, dan obyektif mengenai substansi ajaran agama. Fenomenologi merupakan sebuah disiplin ilmu yang secara kritis-rasional mengkaji fenomena dan dinamika kehidupan manusia beragama, dari upaya menjadikan Tuhan sebagai tujuan sesembahan sampai menempatkan Tuhan sebagai instrumen legitimasi untuk melakukan tindakan yang justru bertolak belakang dengan kehendak Tuhan yang disembah. Sehubungan dengan itu, kritik konstruktif terhadap perilaku manusia beragama menjadi salah satu poin utama dalam mata kuliah ini. Kesediaan untuk melakukan otoritik terhadap agama sendiri erat terkait dengan upaya menemukan kembali nilai sejati agama atau otentisitas hidup beragama.    | 	
-| MKU008 	 |	-	|**ETIKA (*ETHIC*)** Mendalami perilaku sehari-hari yang baik dalam bermasyarakat.|	
-| MKU009	 |	-	|**BAHASA INDONESIA (*INDONESIAN*)** Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya dipelajari penyusunan kalimat yang baku serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain itu, dalam mata kuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.      | 	
-| MKU010	 |	-	|**BAHASA INGGRIS (*ENGLISH*)** Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan kosakata Bahasa Inggris (*vocabularies*). Hampir keseluruhan waktu perkuliahan didedikasikan untuk menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan hasil pemahamannya akan isi bahan bacaan. |
-|MKU011		 |	-	|**ESTETIKA (*ESTHETICS*)** Mata kuliah estetika memberi pemahaman konseptual filosofis &ldquo;seni&rdquo; dalam khasanah keilmuan, pembentukan kesadaran ekologis juga dalam proses pembudayaan dan peradaban. Mata kuliah ini akan menjadi fondasi bagi mahasiswa untuk memahami dan mempraktekkan seni dari sudut pandang filsafat, sejarah, kultural, dan global. Melalui mata kuliah ini, mahasiswa mempelajari mengenai dunia manusia (manusia dan pikirannya), pluralitas dan relativitas seni, serta aliran-aliran seni rupa Barat.|
-|MKU012		|	-	|**LOGIKA (*LOGICS*)** Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan (*fallacies*) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik.|
+| KODE MK | PRASYARAT | NAMA &amp; DESKRIPSI MATA KULIAH                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|---------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| MKU001  |     -     | **PENDIDIKAN PANCASILA (*PANCASILA EDUCATION*)** Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (*character building*) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila. |
+| MKU002  |     -     | **PENDIDIKAN KEWARGANEGARAAN (*CIVIC*)** Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| MKU003  |     -     | **AGAMA KATOLIK (*CATHOLIC RELIGION*)** Mata kuliah ini membentuk karakteristik mahasiswa sebagai manusia yang memiliki religiusitas melalui pendalaman akan makna agama dan beragama, mendeteksi dinamika Wahyu Tuhan dan iman mereka, memahami relasi dengan Tuhan dan sesama, mengenal makna keselamatan dalam konteks Kerajaan Allah, dan mampu menyatakan ajaran Gereja dalam pelayanan terhadap orang miskin dan terlantar.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| MKU004  |     -     | **FENOMENOLOGI AGAMA (*PHENOMENOLOGY OF RELIGION*)** Fenomenologi Agama merupakan bagian yang tak terpisahkan dari kajian filosofis, kritis, rasional, dan obyektif mengenai substansi ajaran agama. Fenomenologi merupakan sebuah disiplin ilmu yang secara kritis-rasional mengkaji fenomena dan dinamika kehidupan manusia beragama, dari upaya menjadikan Tuhan sebagai tujuan sesembahan sampai menempatkan Tuhan sebagai instrumen legitimasi untuk melakukan tindakan yang justru bertolak belakang dengan kehendak Tuhan yang disembah. Sehubungan dengan itu, kritik konstruktif terhadap perilaku manusia beragama menjadi salah satu poin utama dalam mata kuliah ini. Kesediaan untuk melakukan otoritik terhadap agama sendiri erat terkait dengan upaya menemukan kembali nilai sejati agama atau otentisitas hidup beragama.                                                                            |
+| MKU008  |     -     | **ETIKA (*ETHIC*)** Mendalami perilaku sehari-hari yang baik dalam bermasyarakat.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |	
+| MKU009  |     -     | **BAHASA INDONESIA (*INDONESIAN*)** Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya dipelajari penyusunan kalimat yang baku serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain itu, dalam mata kuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.                                                                                                                                                                                              |
+| MKU010  |     -     | **BAHASA INGGRIS (*ENGLISH*)** Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan kosakata Bahasa Inggris (*vocabularies*). Hampir keseluruhan waktu perkuliahan didedikasikan untuk menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan hasil pemahamannya akan isi bahan bacaan.                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| MKU011  |     -     | **ESTETIKA (*ESTHETICS*)** Mata kuliah estetika memberi pemahaman konseptual filosofis &ldquo;seni&rdquo; dalam khasanah keilmuan, pembentukan kesadaran ekologis juga dalam proses pembudayaan dan peradaban. Mata kuliah ini akan menjadi fondasi bagi mahasiswa untuk memahami dan mempraktekkan seni dari sudut pandang filsafat, sejarah, kultural, dan global. Melalui mata kuliah ini, mahasiswa mempelajari mengenai dunia manusia (manusia dan pikirannya), pluralitas dan relativitas seni, serta aliran-aliran seni rupa Barat.                                                                                                                                                                                                                                                                                                                                                                             |
+| MKU012  |     -     | **LOGIKA (*LOGICS*)** Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan (*fallacies*) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik.                                                                                                                                                                                                                                                                                                                                                |
 
-**Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama**
+Mata kuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 
 ## 2.5 Kurikulum Program Studi Matematika
 
-### 2.5.1 Susunan Mata Kuliah  
+### 2.5.1 Susunan Mata Kuliah 
 
 **Semester 1**
 
-| KODE   | NAMA                         | APR   | SKS |
-|--------|------------------------------|-------|-----|
-| AMS121 | Kalkulus 1                   | R     | 4   |
-| AMS123 | Pemecahan Masalah Matematika |       | 3   |
-| AMS151 | Statistika Elementer         |       | 4   |
-| APS181 | Fisika Dasar                 | R,P   | 4   |
-| MKU012 | Logika                       | R     | 2   |
-| MKU010 | Bahasa Inggris               |       | 2   |
+| KODE   | NAMA                         | APR | SKS |
+|--------|------------------------------|-----|-----|
+| AMS121 | Kalkulus 1                   | R   | 4   |
+| AMS123 | Pemecahan Masalah Matematika |     | 3   |
+| AMS151 | Statistika Elementer         |     | 4   |
+| APS181 | Fisika Dasar                 | R,P | 4   |
+| MKU012 | Logika                       | R   | 2   |
+| MKU010 | Bahasa Inggris               |     | 2   |
 
 TOTAL SKS = 19
 
 **Semester 2**
 
-| KODE   | NAMA                 | APR   | SKS |
-|--------|----------------------|-------|-----|
-| AMS122 | Kalkulus 2           |       | 4   |
-| AMS124 | Matematika Diskret   |       | 4   |
-| AMS126 | Aljabar Matriks      |       | 4   |
-| AIF112 | Pemrograman Komputer |       | 3   |
-| MKU011 | Estetika             |       | 2   |
-| MKU003 | Agama Katolik +      |       | 2   |
-| MKU004 | Fenomologi Agama +   |       | 2   |
+| KODE   | NAMA                 | APR | SKS |
+|--------|----------------------|-----|-----|
+| AMS122 | Kalkulus 2           |     | 4   |
+| AMS124 | Matematika Diskret   |     | 4   |
+| AMS126 | Aljabar Matriks      |     | 4   |
+| AIF112 | Pemrograman Komputer |     | 3   |
+| MKU011 | Estetika             |     | 2   |
+| MKU003 | Agama Katolik +      |     | 2   |
+| MKU004 | Fenomologi Agama +   |     | 2   |
 
-TOTAL SKS = 19 
+TOTAL SKS = 19
 
 **Semester 3**
 
-| KODE   | NAMA                 | APR   | SKS |
-|--------|----------------------|-------|-----|
-| AMS221 | Kalkulus Vektor      | R     | 4   |
-| AMS231 | Teori Suku Bunga     |       | 3   |
-| AMS251 | Teori Peluang        |       | 4   |
-| AMS253 | Komputasi Statistika |       | 2   |
-| AMS271 | Metoda Matematika    |       | 3   |
-| MKU008 | Etika                | R     | 2   |
+| KODE   | NAMA                 | APR | SKS |
+|--------|----------------------|-----|-----|
+| AMS221 | Kalkulus Vektor      | R   | 4   |
+| AMS231 | Teori Suku Bunga     |     | 3   |
+| AMS251 | Teori Peluang        |     | 4   |
+| AMS253 | Komputasi Statistika |     | 2   |
+| AMS271 | Metoda Matematika    |     | 3   |
+| MKU008 | Etika                | R   | 2   |
 
-TOTAL SKS = 18  
+TOTAL SKS = 18
 
 **Semester 4**
 
-| KODE    | NAMA                        | APR   | SKS |
-|---------|-----------------------------|-------|-----|
-| AMS 222 | Aljabar Linear              | R     | 4   |
-| AMS 252 | Statistika Matematika       |       | 4   |
-| AMS 261 | Optimasi                    |       | 4   |
-| AMS 272 | Persamaan Diferensial Biasa |       | 4   |
-| AMS 273 | Komputasi Matematika        |       | 2   |
+| KODE   | NAMA                        | APR | SKS |
+|--------|-----------------------------|-----|-----|
+| AMS222 | Aljabar Linear              | R   | 4   |
+| AMS252 | Statistika Matematika       |     | 4   |
+| AMS261 | Optimasi                    |     | 4   |
+| AMS272 | Persamaan Diferensial Biasa |     | 4   |
+| AMS273 | Komputasi Matematika        |     | 2   |
 
-TOTAL SKS = 18 
+TOTAL SKS = 18
 
 **Semester 5**
 
-| KODE   | NAMA                       | APR   | SKS |
-|--------|----------------------------|-------|-----|
-| AMS321 | Fungsi Kompleks            |       | 4   |
-| AMS351 | Proses Stokastik           |       | 4   |
-| AMS373 | Metoda Numerik             |       | 3   |
-| MKU002 | Pendidikan Kewarganegaraan |       | 2   |
-| ABCXYZ | Pilihan                    |       | 6   |
+| KODE   | NAMA                       | APR | SKS |
+|--------|----------------------------|-----|-----|
+| AMS321 | Fungsi Kompleks            |     | 4   |
+| AMS351 | Proses Stokastik           |     | 4   |
+| AMS373 | Metoda Numerik             |     | 3   |
+| MKU002 | Pendidikan Kewarganegaraan |     | 2   |
+| ABCXYZ | Pilihan                    |     | 6   |
 
-TOTAL SKS = 18 
+TOTAL SKS = 18
 
 **Semester 6**
 
-| KODE   | NAMA             | APR   | SKS |
-|--------|------------------|-------|-----|
-| AMS322 | Analisis Real    | R     | 4   |
-| MKU009 | Bahasa Indonesia |       | 2   |
-| ABCXYZ | Pilihan          |       | 12  |
+| KODE   | NAMA             | APR | SKS |
+|--------|------------------|-----|-----|
+| AMS322 | Analisis Real    | R   | 4   |
+| MKU009 | Bahasa Indonesia |     | 2   |
+| ABCXYZ | Pilihan          |     | 12  |
 
-TOTAL SKS = 18  
+TOTAL SKS = 18
 
 **Semester 7**
 
-| KODE   | NAMA                 | APR   | SKS |
-|--------|----------------------|-------|-----|
-| AMS490 | Seminar              |       | 3   |
-| AMS491 | Pemodelan Matematika |       | 4   |
-| MKU001 | Pancasila            |       | 2   |
-| ABCXYZ | Pilihan              |       | 9   |
+| KODE   | NAMA                 | APR | SKS |
+|--------|----------------------|-----|-----|
+| AMS490 | Seminar              |     | 3   |
+| AMS491 | Pemodelan Matematika |     | 4   |
+| MKU001 | Pancasila            |     | 2   |
+| ABCXYZ | Pilihan              |     | 9   |
 
-TOTAL SKS = 18  
+TOTAL SKS = 18
 
 **Semester 8**
 
-| KODE   | NAMA    | APR   | SKS |
-|--------|---------|-------|-----|
-| AMS499 | Skripsi |       | 6   |
-| ABCXYZ | Pilihan |       | 9   |
+| KODE   | NAMA    | APR | SKS |
+|--------|---------|-----|-----|
+| AMS499 | Skripsi |     | 6   |
+| ABCXYZ | Pilihan |     | 9   |
 
 TOTAL SKS = 15
 
 
 ### 2.5.2 Mata Kuliah Pilihan Program Studi Matematika
 
-Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliah Pilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.  
+Mata kuliah pilihan dibagi ke dalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliah Pilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
 
 1. Kelompok Bidang Kajian: Rekayasa Keuangan
     - Matematika Asuransi
-        
-        |KODE	|NAMA					|SKS	|
-        |-------|---------------------------------------|-------|
-        |AMS330	|Pengantar  Matematika Asuransi		|3	|
-        |AMS331	|Matematika Asuransi			|3	|
-        |AMS431	|Metoda Statistika Asuransi		|3	|
-        |AMS432	|Teori Risiko				|3	|
-        |AMS430	|Kapita Selekta Matematika Asuransi	|3	|
+ 
+        | KODE   | NAMA                               | SKS  |
+        |--------|------------------------------------|------|
+        | AMS330 | Pengantar  Matematika Asuransi     | 3    |
+        | AMS331 | Matematika Asuransi                | 3    |
+        | AMS431 | Metoda Statistika Asuransi         | 3    |
+        | AMS432 | Teori Risiko                       | 3    |
+        | AMS430 | Kapita Selekta Matematika Asuransi | 3    |
+
     - Matematika Keuangan
 
-        |KODE	|NAMA					|SKS	|
-        |-------|---------------------------------------|-------|
-        |AMS341	|Komputasi Keuangan			|3	|
-        |AMS342	|Matematika Keuangan			|3	|
-        |AMS343	|Analisis Deret Waktu			|3	|
-        |AMS441	|Teori Manajemen Investasi		|3	|
-        |AMS442	|Ekonometrika Keuangan			|3	|
-        |AMS440	|Kapita Selekta Matematika Keuangan	|3	|
+        | KODE   | NAMA                               | SKS |
+        |--------|------------------------------------|-----|
+        | AMS341 | Komputasi Keuangan                 | 3   |
+        | AMS342 | Matematika Keuangan                | 3   |
+        | AMS343 | Analisis Deret Waktu               | 3   |
+        | AMS441 | Teori Manajemen Investasi          | 3   |
+        | AMS442 | Ekonometrika Keuangan              | 3   |
+        | AMS440 | Kapita Selekta Matematika Keuangan | 3   |
+
 2. Kelompok Bidang Kajian: Rekayasa Keuangan
     - Optimasi dan Teori Kontrol
 
-        |KODE	|NAMA					|SKS	|
-        |-------|---------------------------------------|-------|
-        |AMS361	|Pemrograman NonLinear			|3	|
-        |AMS461	|Kontrol Optimum			|3	|
-        |AMS462	|Kontrol Linear				|3	|
+        | KODE	 | NAMA                  | SKS  |
+        |--------|-----------------------|------|
+        | AMS361 | Pemrograman NonLinear | 3    |
+        | AMS461 | Kontrol Optimum       | 3    |
+        | AMS462 | Kontrol Linear        | 3    |
+
     - Statistika &amp; Penelitian Operasional
-        
-        |KODE	|NAMA					|SKS	|
-        |-------|---------------------------------------|-------|
-        |AMS352	|Pemrograman Stokastik			|3	|
-        |AMS353	|Pengendalian Mutu			|3	|
-        |AMS354	|Model  Statistika			|3	|
-        |AMS451	|Teori Permainan			|3	|
-        |AMS452	|Proyek Pemodelan			|3	|
-        |AMS453	|Statistika Multivariat			|3	|
-        |AMS454	|Statistika Non Parameter		|3	|
-        |AMS455	|Perancangan Percobaan			|3	|
-        |AMS456	|Teori Antrian				|3	|
-        |AMS457	|Keandalan				|3	|
-        |AMS350	|Kapita Selekta Statistika		|3	|
-        |AMS450	|Kapita Selekta Penelitian Operasional	|3	|
-    - Matematika Terapan
- 
-        |KODE	|NAMA					|SKS	|
-        |-------|---------------------------------------|-------|
-        |AMS471	|Sistem Dinamik				|3	|
-        |AMS472	|Matematika Biologi			|3	|
-        |AMS371	|Persamaan Diferensial Parsial		|3	|
-        |AMS372	|Metoda Matematika Lanjut		|3	|
-        |AMS374	|Analisis Numerik			|3	|
-        |AMS470	|Kapita Selekta Matematika Terapan	|3	|
+
+        | KODE	 | NAMA                                  | SKS |
+        |--------|---------------------------------------|-----|
+        | AMS352 | Pemrograman Stokastik                 | 3   |
+        | AMS353 | Pengendalian Mutu                     | 3   |
+        | AMS354 | Model  Statistika                     | 3   |
+        | AMS451 | Teori Permainan                       | 3   |
+        | AMS452 | Proyek Pemodelan                      | 3   |
+        | AMS453 | Statistika Multivariat                | 3   |
+        | AMS454 | Statistika Non Parameter              | 3   |
+        | AMS455 | Perancangan Percobaan                 | 3   |
+        | AMS456 | Teori Antrian                         | 3   |
+        | AMS457 | Keandalan                             | 3   |
+        | AMS350 | Kapita Selekta Statistika             | 3   |
+        | AMS450 | Kapita Selekta Penelitian Operasional | 3   |
+
+    - Matematika Terapan 
+
+        | KODE   | NAMA                              | SKS |
+        |--------|-----------------------------------|-----|
+        | AMS471 | Sistem Dinamik                    | 3   |
+        | AMS472 | Matematika Biologi                | 3   |
+        | AMS371 | Persamaan Diferensial Parsial     | 3   |
+        | AMS372 | Metoda Matematika Lanjut          | 3   |
+        | AMS374 | Analisis Numerik                  | 3   |
+        | AMS470 | Kapita Selekta Matematika Terapan | 3   |
+
 3. Lain-lain
 
-    |KODE	|NAMA					|SKS	|
-    |-------|---------------------------------------|-------|
-    |AMS323	|Geometri				|3	|
-    |AMS324	|Teori Bilangan				|3	|
-    |AMS344	|Komputasi Saintifik			|3	|
-    |AMS421	|Struktur Aljabar			|3	|
-    |AMS422	|Kriptografi				|3	|
-    |AMS423	|Teori Graf				|3	|
-    |AMS424	|Struktur Aljabar Lanjut		|3	|
-    |AMS425	|Analisis Lanjut			|3	|
-    |AMS480	|Kapita Selekta Pembelajaran Matematika	|3	|
-    |AMS381	|Inovasi Pembelajaran Matematika	|3	|
-    |AMS382	|Pembelajaran Matematika Sekolah	|3	|
-    |AMS481	|Kerja Praktek				|3	|
-    |AMS482     |Pendidikan Pengabdian Pada Masyarakat  |3      |
+    | KODE   | NAMA                                   | SKS |
+    |--------|----------------------------------------|-----|
+    | AMS323 | Geometri                               | 3   |
+    | AMS324 | Teori Bilangan                         | 3   |
+    | AMS344 | Komputasi Saintifik                    | 3   |
+    | AMS421 | Struktur Aljabar                       | 3   |
+    | AMS422 | Kriptografi                            | 3   |
+    | AMS423 | Teori Graf                             | 3   |
+    | AMS424 | Struktur Aljabar Lanjut                | 3   |
+    | AMS425 | Analisis Lanjut                        | 3   |
+    | AMS480 | Kapita Selekta Pembelajaran Matematika | 3   |
+    | AMS381 | Inovasi Pembelajaran Matematika        | 3   |
+    | AMS382 | Pembelajaran Matematika Sekolah        | 3   |
+    | AMS481 | Kerja Praktek                          | 3   |
+    | AMS482 | Pendidikan Pengabdian Pada Masyarakat  | 3   |
 
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh mata kuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara mata kuliah tersebut. Adapun persyaratan Mata Kuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh mata kuliah pilihan Bidang Kajian minimal 15 sks.
 
@@ -590,33 +594,34 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 
 ### 2.5.4 Deskripsi Singkat Mata Kuliah Prodi Matematika
 
-|KODE MK	|PRASYARAT		|NAMA &amp; DESKRIPSI MATA KULIAH	|
-|---------------|-----------------------|-------------------------------|
-|AMS121		|	-		|**KALKULUS 1 (*CALCULUS 1*)** Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.|
-|AMS123		|	-		|**PEMECAHAN  MASALAH  MATEMATIKA (*MATHEMATICAL PROBLEM SOLVING*)** Menebak dan mengumpulkan data dalam *problem solving*, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.|
-|AMS151		|	-		|**STATISTIKA ELEMENTER (*ELEMENTARY STATISTICS*)** Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi,  SPSS, Minitab.|
-|AMS122		|	AMS121		|**KALKULUS 2 (*CALCULUS 2*)** Fungsi transenden, teknik pengintegralan dan penggunaannya, persamaan diferensial dan deret tak hingga.	|
-|AMS124		|	AMS123		|**MATEMATIKA DISKRET (*DISCRETE MATHEMATICS*)** Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (*counting*), dan teori graf.|
-|AMS126		|	-		|**ALJABAR MATRIKS (*MATRIX ALGEBRA*)** Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.|
-|AMS221		|	AMS122		|**KALKULUS  VEKTOR (*VECTOR CALCULUS*)** Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.	|
-|AMS231		|	AMS122		|**TEORI  SUKU  BUNGA (*THEORY OF INTEREST*)** Bunga tunggal dan bunga majemuk, diskonto, anuitas elementer dan lanjut, amortisasi dan pengakumulasian dana.	|
-|AMS251		|	AMS122		|**TEORI  PELUANG (*PROBABILITY THEORY*)** Analisis kombinatorial, aksioma-aksioma peluang, peluang bersyarat, variabel acak, distribusi variabel acak diskret, distribusi variabel acak kontinu, distribus variabel acak gabungan, ekspektasi dan sifat-sifatnya, teorema-teorema limit termasuk teorema limit pusat.|
-|AMS253		|	APS181, AMS151		|**KOMPUTASI STATISTIKA (*STATISTICAL COMPUTATION*)** Pengenalan dan dasar-dasar pemrograman dalam R, Statistika Deskriptif dengan R, Deskripsi Populasi, Selang Kepercayaan dan Uji Hipotesis, Distribusi dan Estimasi Distribusi, Integrasi Monte Carlo dan Metoda Monte Carlo untuk Inferensi.|
-|AMS271		|	AMS122		|**METODA MATEMATIKA (*MATHEMATICAL METHODS*)** Persamaan Bessel dan Legendre, aproksimasi fungsi, analisis Fourier, transformasi Laplace, pengantar sistem diskrit, dan *Discrete Fourier Transform*.	|
-|AMS222		|	AMS126		|**ALJABAR LINEAR (*LINEAR ALGEBRA*)** Persamaan linear dan matriks, ruang vektor, determinan, transformasi linear dan nilai eigen, norm dan hasil kali dalam.|
-|AMS252		|	AMS251		|**STATISTIKA  MATEMATIKA (*MATHEMATICAL STATISTICS*)** Sampel dan statistik; statistik terurut, distribusi statisti terurut; penaksiran parameter:  metoda maksimum likelihood, uji maksimum likelihood, mengukur kualitas penaksir, statistik cukup. Pengujian hipotesis yang optimal: most powerful tests, uniformly most powerful test, uji rasio likelihood.  Inferensi mengenai beberapa model normal meliputi: analisis variansi dan regresi.	|
-|AMS261		|	AMS126, AMS221		|**OPTIMASI (*OPTIMIZATION*)** Pengantar pemrograman linear, algoritma simpleks, analisis sensitivitas, dualitas, topik lanjut dalam masalah optimasi.	|
-|AMS272		|	AMS122, AMS126		|**PERSAMAAN  DIFERENSIAL  BIASA (*ORDINARY DIFFERENTIAL EQUATIONS*)** Persamaan diferensial orde satu, persamaan diferensial orde dua, persamaan diferensial orde-n, sistem persamaan diferensial linear orde satu, pengantar persamaan diferensial nonlinear, pengantar persamaan diferensial parsial, masalah nilai batas.|
-|AMS273		|	AMS126, AMS151, AMS221		|**KOMPUTASI MATEMATIKA (*COMPUTATIONAL MATHEMATICS*)** Pengenalan perintah dasar di Maple, Penggunaan Maple dalam Aljabar Linear, Persamaan Diferensial Biasa, Peluang dan Statistika, Pengenalan perintah dasar di Matlab, Penggunaan Matlab dalam Aljabar Linear dan Statistika, menggambar grafik, serta pemograman di Matlab.|
-|AMS321		|	APS221		|**FUNGSI KOMPLEKS (*FUNCTIONS OF A COMPLEX VARIABLE*)** Aksioma bilangan kompleks, fungsi kompleks dan pemetaan fungsi kompleks, limit dan turunan fungsi kompleks, integral fungsi kompleks, deret pangkat, residu dan perhitungan integral fungsi real melalui teknik residu, masalah aplikasi menggunakan teknik fungsi kompleks.|
-|AMS351		|	AMS251		|**PROSES  STOKASTIK (*STOCHASTIC PROCESSES*)**	Distribusi eksponensial dan proses Poisson, proses renewal, rantai Markov, modelantrian.|
-|AMS373		|	AMS273			|**METODE NUMERIK (*NUMERICAL METHODS*)** Konsep numerik, akar persamaan nonlinear dan polinomial, menyelesaikan sistem persamaan linear dengan hitungan langsung (eliminasi) dan dengan hitungan tak langsung (iterasi), interpolasi dan hampiran fungsi, pengintegralan numerik, hampiran turunan, persamaan diferensial biasa.|
-|AMS322		|	AMS321			|**ANALISIS REAL (*REAL ANALYSIS*)** Alj. himpunan, fungsi, bil. real, barisan dan deret, limit, fungsi kontinu, dan turunan.	|
-|AMS491		|	AMS126, AMS221, AMS253, AMS272, AMS273		|**PEMODELAN  MATEMATIKA (*MATHEMATICAL MODELLING*)** Mengumpulkan data, mencari proporsionalitas, menggunakan metoda beda hingga, menginterpretasikan hasil, memperbaiki model, model pencocokan kurva, model eksperimental, model simulasi, model probabilistik diskrit, analisis dimensi dan keserupaan.|
-|AMS490		|	lulus minimal 110 sks		|**SEMINAR (*SEMINAR*)** Studi pustaka, penulisan dan presentasi karya ilmiah.	|
-|AMS499		|	AMS490 minimal C		|**SKRIPSI (*FINAL PROJECT*)** Studi pustaka, penulisan dan penyajian lisan skripsi.	|
+| KODE MK | PRASYARAT		                   | NAMA &amp; DESKRIPSI MATA KULIAH |
+|---------|----------------------------------------|-------------------------------|
+| AMS121  | -                                      | **KALKULUS 1 (*CALCULUS 1*)** Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.                                                                                                                                                                                                                                                                                                                     |
+| AMS123  | -                                      | **PEMECAHAN MASALAH  MATEMATIKA (*MATHEMATICAL PROBLEM SOLVING*)** Menebak dan mengumpulkan data dalam *problem solving*, pola, analogi, abstraksi, perumusan, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.                                                                                                                                                                             |
+| AMS151  | -                                      | **STATISTIKA ELEMENTER (*ELEMENTARY STATISTICS*)** Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi, SPSS, Minitab.                                                                                                                                                                                           |
+| AMS122  | AMS121                                 | **KALKULUS 2 (*CALCULUS 2*)** Fungsi transenden, teknik pengintegralan dan penggunaannya, persamaan diferensial dan deret tak hingga.                                                                                                                                                                                                                                                                                                              |
+| AMS124  | AMS123                                 | **MATEMATIKA DISKRET (*DISCRETE MATHEMATICS*)** Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (*counting*), dan teori graf.                                                                                                                                                                                                                                                                                       |
+| AMS126  | -                                      | **ALJABAR MATRIKS (*MATRIX ALGEBRA*)** Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.                                                                                                                                                                                                                                           |
+| AMS221  | AMS122                                 | **KALKULUS VEKTOR (*VECTOR CALCULUS*)** Vektor, kurva, dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.                                                                                                                                                                                                                                                                                          |
+| AMS231  | AMS122                                 | **TEORI SUKU BUNGA (*THEORY OF INTEREST*)** Bunga tunggal dan bunga majemuk, diskonto, anuitas elementer dan lanjut, amortisasi dan pengakumulasian dana.                                                                                                                                                                                                                                                                                          |
+| AMS251  | AMS122                                 | **TEORI PELUANG (*PROBABILITY THEORY*)** Analisis kombinatorial, aksioma-aksioma peluang, peluang bersyarat, variabel acak, distribusi variabel acak diskret, distribusi variabel acak kontinu, distribus variabel acak gabungan, ekspektasi dan sifat-sifatnya, teorema-teorema limit termasuk teorema limit pusat.                                                                                                                               |
+| AMS253  | APS181, AMS151                         | **KOMPUTASI STATISTIKA (*STATISTICAL COMPUTATION*)** Pengenalan dan dasar-dasar pemrograman dalam R, Statistika Deskriptif dengan R, Deskripsi Populasi, Selang Kepercayaan dan Uji Hipotesis, Distribusi dan Estimasi Distribusi, Integrasi Monte Carlo dan Metoda Monte Carlo untuk Inferensi.                                                                                                                                                   |
+| AMS271  | AMS122                                 | **METODA MATEMATIKA (*MATHEMATICAL METHODS*)** Persamaan Bessel dan Legendre, aproksimasi fungsi, analisis Fourier, transformasi Laplace, pengantar sistem diskrit, dan *Discrete Fourier Transform*.                                                                                                                                                                                                                                              |
+| AMS222  | AMS126                                 | **ALJABAR LINEAR (*LINEAR ALGEBRA*)** Persamaan linear dan matriks, ruang vektor, determinan, transformasi linear dan nilai eigen, norm dan hasil kali dalam.                                                                                                                                                                                                                                                                                      |
+| AMS252  | AMS251                                 | **STATISTIKA  MATEMATIKA (*MATHEMATICAL STATISTICS*)** Sampel dan statistik; statistik terurut, distribusi statistik terurut; penaksiran parameter: metoda maksimum likelihood, uji maksimum likelihood, mengukur kualitas penaksir, statistik cukup. Pengujian hipotesis yang optimal: most powerful tests, uniformly most powerful test, uji rasio likelihood. Inferensi mengenai beberapa model normal meliputi: analisis variansi dan regresi. |
+| AMS261  | AMS126, AMS221                         | **OPTIMASI (*OPTIMIZATION*)** Pengantar pemrograman linear, algoritma simpleks, analisis sensitivitas, dualitas, topik lanjut dalam masalah optimasi.                                                                                                                                                                                                                                                                                              |
+| AMS272  | AMS122, AMS126                         | **PERSAMAAN  DIFERENSIAL  BIASA (*ORDINARY DIFFERENTIAL EQUATIONS*)** Persamaan diferensial orde satu, persamaan diferensial orde dua, persamaan diferensial orde-n, sistem persamaan diferensial linear orde satu, pengantar persamaan diferensial nonlinear, pengantar persamaan diferensial parsial, masalah nilai batas.                                                                                                                       |
+| AMS273  | AMS126, AMS151, AMS221                 | **KOMPUTASI MATEMATIKA (*COMPUTATIONAL MATHEMATICS*)** Pengenalan perintah dasar di Maple, Penggunaan Maple dalam Aljabar Linear, Persamaan Diferensial Biasa, Peluang dan Statistika, Pengenalan perintah dasar di Matlab, Penggunaan Matlab dalam Aljabar Linear dan Statistika, menggambar grafik, serta pemograman di Matlab.                                                                                                                  |
+| AMS321  | APS221                                 | **FUNGSI KOMPLEKS (*FUNCTIONS OF A COMPLEX VARIABLE*)** Aksioma bilangan kompleks, fungsi kompleks dan pemetaan fungsi kompleks, limit dan turunan fungsi kompleks, integral fungsi kompleks, deret pangkat, residu dan perhitungan integral fungsi real melalui teknik residu, masalah aplikasi menggunakan teknik fungsi kompleks.                                                                                                               |
+| AMS351  | AMS251                                 | **PROSES STOKASTIK (*STOCHASTIC PROCESSES*)** Distribusi eksponensial dan proses Poisson, proses renewal, rantai Markov, model antrian.                                                                                                                                                                                                                                                                                                            |
+| AMS373  | AMS273                                 | **METODA NUMERIK (*NUMERICAL METHODS*)** Konsep numerik, akar persamaan nonlinear dan polinomial, menyelesaikan sistem persamaan linear dengan hitungan langsung (eliminasi) dan dengan hitungan tak langsung (iterasi), interpolasi dan hampiran fungsi, pengintegralan numerik, hampiran turunan, persamaan diferensial biasa.                                                                                                                   |
+| AMS322  | AMS321                                 | **ANALISIS REAL (*REAL ANALYSIS*)** Alj. himpunan, fungsi, bil. real, barisan dan deret, limit, fungsi kontinu, dan turunan.                                                                                                                                                                                                                                                                                                                       |
+| AMS491  | AMS126, AMS221, AMS253, AMS272, AMS273 | **PEMODELAN MATEMATIKA (*MATHEMATICAL MODELLING*)** Mengumpulkan data, mencari proporsionalitas, menggunakan metoda beda hingga, menginterpretasikan hasil, memperbaiki model, model pencocokan kurva, model eksperimental, model simulasi, model probabilistik diskrit, analisis dimensi dan keserupaan.                                                                                                                                          |
+| AMS490  | lulus minimal 110 sks                  | **SEMINAR (*SEMINAR*)** Studi pustaka, penulisan dan presentasi karya ilmiah.                                                                                                                                                                                                                                                                                                                                                                      |
+| AMS499  | AMS490 minimal C                       | **SKRIPSI (*FINAL PROJECT*)** Studi pustaka, penulisan dan penyajian lisan skripsi.                                                                                                                                                                                                                                                                                                                                                                |
 
 ## 2.6 Kurikulum Program Studi Fisika
+
 ### 2.6.1 Susunan Mata Kuliah  
 
 **Semester 1**
