@@ -156,7 +156,7 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 
 ## 1.5 Daftar Dosen FTIS
 
-Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan *website*.  
+Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan *website*.
 
 1. Guru Besar
     * Prof. B. Suprapto Brotosiswojo, drs. (ITB), Dr. (Purdue University, USA):
@@ -815,7 +815,7 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 **Kelompok Astrofisika**
 
 | KODE   | NAMA                       | SKS |
-|------- |----------------------------|-----|
+|--------|----------------------------|-----|
 | APS371 | Tata Surya                 | 3   |
 | APS372 | Bintang                    | 3   |
 | APS373 | Kosmologi                  | 3   |
@@ -878,108 +878,108 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 
 ## 2.7 Kurikulum Program Studi Teknik Informatika
 
-### 2.7.1 Sususan Mata Kuliah  
+### 2.7.1 Sususan Mata Kuliah
 
 **Semester 1**
 
-|KODE	|NAMA				|APR	|SKS	|
-|-------|-------------------------------|-------|-------|
-|AIF101	|Pemrograman Berorientasi Objek	| P	|6	|
-|AIF103	|Matematika Diskret		|	|3	|
-|AIF105	|Pengantar Informatika		|	|3	|
-|MKU001	|Pendidikan Pancasila		|	|2	|
-|MKU008	|Etika				|	|2	|
-|MKU010	|Bahasa Inggris			|	|2	|
+| KODE   | NAMA                           | APR | SKS |
+|--------|--------------------------------|-----|-----|
+| AIF101 | Pemrograman Berorientasi Objek | P   | 6   |
+| AIF103 | Matematika Diskret             |     | 3   |
+| AIF105 | Pengantar Informatika          |     | 3   |
+| MKU001 | Pendidikan Pancasila           |     | 2   |
+| MKU008 | Etika                          |     | 2   |
+| MKU010 | Bahasa Inggris                 |     | 2   |
 
 TOTAL SKS = 18
 
 **Semester 2**
 
-|KODE	|NAMA				|APR	|SKS	|
-|-------|-------------------------------|-------|-------|
-|AIF102	|Algoritma dan Struktur Data	|P	|4	|
-|AIF104	|Logika Informatika		|	|3	|
-|AIF106	|Sistem Dijital			|	|3	|
-|AMS100	|Matematika Informatika		|R	|4      |
-|MKU009	|Bahasa Indonesia		|	|2	|
-|MKU011	|Estetika			|	|2	| 
+| KODE   | NAMA                        | APR | SKS |
+|--------|-----------------------------|-----|-----|
+| AIF102 | Algoritma dan Struktur Data | P   | 4   |
+| AIF104 | Logika Informatika          |     | 3   |
+| AIF106 | Sistem Dijital              |     | 3   |
+| AMS100 | Matematika Informatika      | R   | 4   |
+| MKU009 | Bahasa Indonesia            |     | 2   |
+| MKU011 | Estetika                    |     | 2   |
 
 TOTAL SKS = 18
 
 **Semester 3**
 
-|KODE	|NAMA					|APR	|SKS	|
-|-------|---------------------------------------|-------|-------|
-|AIF201	|Analisis dan Desain Berorientasi Objek	|P,R	|4	|
-|AIF203	|Struktur Diskret			|	|4	|
-|AIF205	|Arsitektur dan Organisasi Komputer	|	|3	|
-|AMS200	|Probabilitas dan Statistika		|	|3	|
-|MKU003/MKU004|Agama Katolik/Fenomenologi Agama	|	|2	|
-|MKU012	|Logika					|	|2	| 
+| KODE          | NAMA                                   | APR | SKS |
+|---------------|----------------------------------------|-----|-----|
+| AIF201        | Analisis dan Desain Berorientasi Objek | P,R | 4   |
+| AIF203        | Struktur Diskret                       |     | 4   |
+| AIF205        | Arsitektur dan Organisasi Komputer     |     | 3   |
+| AMS200        | Probabilitas dan Statistika            |     | 3   |
+| MKU003/MKU004 | Agama Katolik/Fenomenologi Agama       |     | 2   |
+| MKU012        | Logika                                 |     | 2   |
 
 TOTAL SKS = 18
 
 **Semester 4**
 
-|KODE	|NAMA					|APR	|SKS	|
-|-------|---------------------------------------|-------|-------|
-|AIF202	|Desain dan Analisis Algoritma		|P,R	|4	|
-|AIF204	|Manajemen Informasi dan Basisdata	|P	|4	|
-|AIF206	|Sistem Operasi				|	|4	|
-|AIF208	|Rekayasa Perangkat Lunak		|	|4	|
-|AIF210	|Interaksi Manusia Komputer		|P	|2	| 
+| KODE   | NAMA                              | APR | SKS |
+|--------|-----------------------------------|-----|-----|
+| AIF202 | Desain dan Analisis Algoritma     | P,R | 4   |
+| AIF204 | Manajemen Informasi dan Basisdata | P   | 4   |
+| AIF206 | Sistem Operasi                    |     | 4   |
+| AIF208 | Rekayasa Perangkat Lunak          |     | 4   |
+| AIF210 | Interaksi Manusia Komputer        | P   | 2   |
 
 TOTAL SKS = 18
 
 **Semester 5**
 
-|KODE	|NAMA				|APR	|SKS	|
-|-------|-------------------------------|-------|-------|
-|AIF301	|Pengantar Sistem Cerdas	|	|3	|
-|AIF303	|Pengantar Sistem Informasi	|	|3	|
-|AIF305	|Jaringan Komputer		|	|2	|
-|AIF311	|Pemrograman Fungsional [1]	|P	|2	|
-|AIF313	|Grafika Komputer [1]		|P	|2	|
-|AIF315	|Pemrograman Berbasis Web [1]	|P	|2	|
-|AIF317	|Desain Antarmuka Grafis [1]	|P	|2	|
-|AIFXXX	|MK Pilihan			|	|2	|
-|MKU002	|Kewarganegaraan		|	|2	| 
+| KODE   | NAMA                         | APR | SKS |
+|--------|------------------------------|-----|-----|
+| AIF301 | Pengantar Sistem Cerdas      |     | 3   |
+| AIF303 | Pengantar Sistem Informasi   |     | 3   |
+| AIF305 | Jaringan Komputer            |     | 2   |
+| AIF311 | Pemrograman Fungsional [1]   | P   | 2   |
+| AIF313 | Grafika Komputer [1]         | P   | 2   |
+| AIF315 | Pemrograman Berbasis Web [1] | P   | 2   |
+| AIF317 | Desain Antarmuka Grafis [1]  | P   | 2   |
+| AIFXXX | MK Pilihan                   |     | 2   |
+| MKU002 | Kewarganegaraan              |     | 2   |
 
 TOTAL SKS = 18
 
 **Semester 6**
 
-|KODE	|NAMA				|APR	|SKS	|
-|-------|-------------------------------|-------|-------|
-|AIF302	|Penulisan Ilmiah		|	|2	|
-|AIF304	|Proyek Sistem Informasi 1 [2]	|R	|3	|
-|AIF306	|Proyek Informatika [2]		|	|6	|
-|AIF312	|Keamanan Informasi[1]		|P	|2	|
-|AIF314	|Pemrograman Basisdata [1]	|P	|2	|
-|AIF316	|Komputasi Paralel [1]		|P	|2	|
-|AIF318	|Pemrograman Aplikasi Bergerak [1] |P	|2	|
-|AIFXXX	|MK Pilihan			|	|6	| 
+| KODE   | NAMA				     | APR | SKS |
+|--------|-----------------------------------|-----|-----|
+| AIF302 | Penulisan Ilmiah                  |     | 2   |
+| AIF304 | Proyek Sistem Informasi 1 [2]     | R   | 3   |
+| AIF306 | Proyek Informatika [2]            |     | 6   |
+| AIF312 | Keamanan Informasi[1]             | P   | 2   |
+| AIF314 | Pemrograman Basisdata [1]         | P   | 2   |
+| AIF316 | Komputasi Paralel [1]             | P   | 2   |
+| AIF318 | Pemrograman Aplikasi Bergerak [1] | P   | 2   |
+| AIFXXX | MK Pilihan                        |     | 6   |
 
 TOTAL SKS = 18
 
 **Semester 7**
 
-|KODE	|NAMA				|APR	|SKS	|
-|-------|-------------------------------|-------|-------|
-|AIF401	|Skripsi 1			|	|4	|
-|AIF403	|Komputer dan Masyarakat	|	|3	|
-|AIF405	|Proyek Sistem Informasi 2 [2]	|	|2	|
-|AIFXXX	|MK Pilihan			|	|12	| 
+| KODE   | NAMA                          | APR | SKS |
+|--------|-------------------------------|-----|-----|
+| AIF401 | Skripsi 1                     |     | 4   |
+| AIF403 | Komputer dan Masyarakat       |     | 3   |
+| AIF405 | Proyek Sistem Informasi 2 [2] |     | 2   |
+| AIFXXX | MK Pilihan                    |     | 12  |
 
 TOTAL SKS = 18
 
 **Semester 8**
 
-|KODE	|NAMA				|APR	|SKS	|
-|-------|-------------------------------|-------|-------|
-|AIF402	|Skripsi 2			|	|6	|
-|AIFXXX	|MK Pilihan			|	|10	|
-|APS402	|Etika Profesi			|	|2	| 
+| KODE   | NAMA          | APR | SKS |
+|--------|---------------|-----|-----|
+| AIF402 | Skripsi 2     |     | 6   |
+| AIFXXX | MK Pilihan    |     | 10  |
+| APS402 | Etika Profesi |     | 2   |
 
 TOTAL SKS = 18
 
@@ -990,14 +990,14 @@ Keterangan:
 2. Mata kuliah projek.
   Mahasiswa harus lulus salah satu dari
     - Projek Informatika, atau
-    - Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
+    - Projek Sistem Informasi 1 dan Projek Sistem Informasi 2
 
-Aturan tambahan:  
+Aturan tambahan:
 
 - Mata kuliah pilihan dari luar jurusan
 
     Banyaknya mata kuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) mata kuliah.
-    Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan
+    Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai mata kuliah pilihan dari dalam jurusan.
 
 - Skor *Coding*
 
@@ -1009,78 +1009,78 @@ Aturan tambahan:
     - Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
     - Desain &amp; Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
     - Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
-    - Desain &amp; Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek  
+    - Desain &amp; Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
     
     maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
-### 2.7.2 Mata Kuliah Pilihan Program Studi Teknik Informatika  
+### 2.7.2 Mata Kuliah Pilihan Program Studi Teknik Informatika
 
-|KODE	|NAMA									|APR	|SKS	|
-|-------|-----------------------------------------------------------------------|-------|-------|
-|AIF330	|Kerja Praktek 1							|	|2	|
-|AIF331	|Topik Khusus Informatika 1						|	|2	|
-|AIF332	|Topik Khusus Informatika 2						|	|3	|
-|AIF333	|Topik Khusus Sistem Informasi 1					|	|2	|
-|AIF335	|Pembelajaran Mesin							|	|3	|
-|AIF336	|Algoritma Kriptografi							|	|3	|
-|AIF337	|Matematika Teknik							|	|3	|
-|AIF338	|Bioinformatika								|	|3	|
-|AIF339	|Pemodelan Formal							|	|3	|
-|AIF340	|Komputasi Geometri							|	|3	|
-|AIF341	|Adm. Jaringan Komputer 1						|	|3	|
-|AIF342	|Adm. Jaringan Komputer 2						|	|3	|
-|AIF343	|Pemrograman Kompetitif							|	|3	|
-|AIF344	|Pemodelan &amp; Simulasi						|	|3	|
-|AIF345	|Pengujian Perangkat Lunak						|	|2	|
-|AIF346	|Perancangan Permainan Komputer						|	|3	|
-|AIF347	|e-Commerce								|	|2	|
-|AIF348	|Verifikasi Formal							|	|3	|
-|AIF350	|Algoritma Genetika							|	|2	|
-|AIF352	|Jaringan Syaraf Tiruan							|	|2	|
-|AIF354	|Teori Bahasa &amp; Kompilasi						|	|2	|
-|AIF356	|Analisis Proses Bisnis							|	|2	|
-|AIF358	|Jaringan Komputer Lanjut						|	|3	|
-|AIF360	|Pemrograman Berbasis Web Lanjut					|	|3	|
-|AIF362	|Sistem &amp; Aplikasi Telematika					|	|3	|
-|AIF431	|Topik Khusus Informatika 3						|	|3	|
-|AIF432	|Topik Khusus Informatika 4						|	|2	|
-|AIF433	|Topik Khusus Sistem Informasi 3					|	|3	|
-|AIF434	|Topik Khusus Sistem Informasi 4					|	|2	|
-|AIF435	|Grafika Komputer Lanjut						|	|3	|
-|AIF436	|Bio-Inspired Computing							|	|3	|
-|AIF437	|Kecerdasan Buatan Untuk Permainan Komputer				|	|3	|
-|AIF438	|Penambangan Data							|	|3	|
-|AIF439	|Kerja Praktek 2							|	|3	|
-|AIF440	|Kerja Praktek 3							|	|4	|
-|AIF441	|Administrasi Jaringan Komputer 3					|	|3	|
-|AIF442	|Administrasi Jaringan Komputer 4					|	|3	|
-|AIF443	|Matematika Kombinatorial						|	|3	|
-|AIF444	|Pemrograman Permainan Komputer						|	|3	|
-|AIF445	|Metode Numerik								|	|3	|
-|AIF446	|Kompresi Data								|	|3	|
-|AIF447	|Metode Optimisasi							|	|3	|
-|AIF448	|Pemrosesan Data Geografis						|	|3	|
-|AIF449	|Teknologi Mesin Pencari						|	|3	|
-|AIF450	|Pengolahan Citra							|	|3	|
-|AIF451	|Audit Sistem Informasi							|	|3	|
-|AIF452	|Pemrograman Lojik							|	|2	|
-|AIF453	|Kecerdasan Bisnis							|	|3	|
-|AIF454	|Sistem Multi Agen							|	|2	|
-|AIF455	|Sistem Pendukung Keputusan						|	|	|
-|AIF456	|Strategi Sistem Informasi & Arsitektur Perusahaan Berskala Besar	|	|	|
-|AIF457	|Kewirausahaan Berbasis Teknologi					|	|	|
-|AIF458	|Kontrol &amp; Audit Teknologi Informasi				|	|	|
-|AIF459	|Administrasi Basis Data						|	|	|
-|AIF460	|Manajemen Pengetahuan							|	|	|
-|AIF461	|Pencarian &amp; Temu Kembali Informasi					|	|	|
-|AIF462	|Manajemen Proses Bisnis						|	|	|
-|AIF463	|Jaringan Nirkabel							|	|	|
-|AIF464	|Sistem Perusahaan Berskala Besar					|	|	|
-|AIF465	|Teknologi Middleware							|	|	|
-|AIF466	|Sistem Terdistribusi							|	|	|
-|AIF468	|Teknologi Multimedia							|	|	|
-|AIF469	|Layanan Berbasis Web							|	|	|
-|AIF470	|Pemrograman Jaringan							|	|	|
+| KODE   | NAMA                                                             | APR | SKS |
+|--------|------------------------------------------------------------------|-----|-----|
+| AIF330 | Kerja Praktek 1                                                  |     | 2   |
+| AIF331 | Topik Khusus Informatika 1                                       |     | 2   |
+| AIF332 | Topik Khusus Informatika 2                                       |     | 3   |
+| AIF333 | Topik Khusus Sistem Informasi 1                                  |     | 2   |
+| AIF335 | Pembelajaran Mesin                                               |     | 3   |
+| AIF336 | Algoritma Kriptografi                                            |     | 3   |
+| AIF337 | Matematika Teknik                                                |     | 3   |
+| AIF338 | Bioinformatika                                                   |     | 3   |
+| AIF339 | Pemodelan Formal                                                 |     | 3   |
+| AIF340 | Komputasi Geometri                                               |     | 3   |
+| AIF341 | Adm. Jaringan Komputer 1                                         |     | 3   |
+| AIF342 | Adm. Jaringan Komputer 2                                         |     | 3   |
+| AIF343 | Pemrograman Kompetitif                                           |     | 3   |
+| AIF344 | Pemodelan &amp; Simulasi                                         |     | 3   |
+| AIF345 | Pengujian Perangkat Lunak                                        |     | 2   |
+| AIF346 | Perancangan Permainan Komputer                                   |     | 3   |
+| AIF347 | e-Commerce                                                       |     | 2   |
+| AIF348 | Verifikasi Formal                                                |     | 3   |
+| AIF350 | Algoritma Genetika                                               |     | 2   |
+| AIF352 | Jaringan Syaraf Tiruan                                           |     | 2   |
+| AIF354 | Teori Bahasa &amp; Kompilasi                                     |     | 2   |
+| AIF356 | Analisis Proses Bisnis                                           |     | 2   |
+| AIF358 | Jaringan Komputer Lanjut                                         |     | 3   |
+| AIF360 | Pemrograman Berbasis Web Lanjut                                  |     | 3   |
+| AIF362 | Sistem &amp; Aplikasi Telematika                                 |     | 3   |
+| AIF431 | Topik Khusus Informatika 3                                       |     | 3   |
+| AIF432 | Topik Khusus Informatika 4                                       |     | 2   |
+| AIF433 | Topik Khusus Sistem Informasi 3                                  |     | 3   |
+| AIF434 | Topik Khusus Sistem Informasi 4                                  |     | 2   |
+| AIF435 | Grafika Komputer Lanjut                                          |     | 3   |
+| AIF436 | Bio-Inspired Computing                                           |     | 3   |
+| AIF437 | Kecerdasan Buatan Untuk Permainan Komputer                       |     | 3   |
+| AIF438 | Penambangan Data                                                 |     | 3   |
+| AIF439 | Kerja Praktek 2                                                  |     | 3   |
+| AIF440 | Kerja Praktek 3                                                  |     | 4   |
+| AIF441 | Administrasi Jaringan Komputer 3                                 |     | 3   |
+| AIF442 | Administrasi Jaringan Komputer 4                                 |     | 3   |
+| AIF443 | Matematika Kombinatorial                                         |     | 3   |
+| AIF444 | Pemrograman Permainan Komputer                                   |     | 3   |
+| AIF445 | Metode Numerik                                                   |     | 3   |
+| AIF446 | Kompresi Data                                                    |     | 3   |
+| AIF447 | Metode Optimisasi                                                |     | 3   |
+| AIF448 | Pemrosesan Data Geografis                                        |     | 3   |
+| AIF449 | Teknologi Mesin Pencari                                          |     | 3   |
+| AIF450 | Pengolahan Citra                                                 |     | 3   |
+| AIF451 | Audit Sistem Informasi                                           |     | 3   |
+| AIF452 | Pemrograman Lojik                                                |     | 2   |
+| AIF453 | Kecerdasan Bisnis                                                |     | 3   |
+| AIF454 | Sistem Multi Agen                                                |     | 2   |
+| AIF455 | Sistem Pendukung Keputusan                                       |     |     |
+| AIF456 | Strategi Sistem Informasi & Arsitektur Perusahaan Berskala Besar |     |     |
+| AIF457 | Kewirausahaan Berbasis Teknologi                                 |     |     |
+| AIF458 | Kontrol &amp; Audit Teknologi Informasi                          |     |     |
+| AIF459 | Administrasi Basis Data                                          |     |     |
+| AIF460 | Manajemen Pengetahuan                                            |     |     |
+| AIF461 | Pencarian &amp; Temu Kembali Informasi                           |     |     |
+| AIF462 | Manajemen Proses Bisnis                                          |     |     |
+| AIF463 | Jaringan Nirkabel                                                |     |     |
+| AIF464 | Sistem Perusahaan Berskala Besar                                 |     |     |
+| AIF465 | Teknologi Middleware                                             |     |     |
+| AIF466 | Sistem Terdistribusi                                             |     |     |
+| AIF468 | Teknologi Multimedia                                             |     |     |
+| AIF469 | Layanan Berbasis Web                                             |     |     |
+| AIF470 | Pemrograman Jaringan                                             |     |     |
 
 ### 2.7.3 Peta dan Prasyarat Mata Kuliah
 
@@ -1090,34 +1090,34 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 
 ### 2.7.4 Deskripsi Mata Kuliah
 
-|KODE MK	|PRASYARAT		|NAMA &amp; DESKRIPSI MATA KULIAH	|
-|---------------|-----------------------|-------------------------------|
-|AIF101		|	-		|**PEMROGRAMAN BERORIENTASI OBJEK (*OBJECT-ORIENTED PROGRAMMING*)** Memperkenalkan konsep-konsep dasar pemrograman dari perspektif berorientasi objek dan membangun dasar-dasar ketrampilan membuat program dengan menggunakan bahasa pemrograman berorientasi objek.	|
-|AIF102		|	-		|**ALGORITMA &amp; STRUKTUR DATA (*ALGORITHMS &amp; DATA STRUCTURES*)** Memperkenalkan konsep–konsep dasar algoritma, analisis algoritma, beberapa algoritma tingkat dasar (searching dan sorting) dan konsep penting mengenai struktur data (list) serta algoritma untuk memprosesnya.|
-|AIF103		|	-		|**MATEMATIKA DISKRIT (*DISCRETE MATHEMATICS*)** Memberikan dasar pengetahuan tentang matematika diskret yang banyak digunakan pada bidang informatika, misalnya himpunan, fungsi dan relasi, dan matematika kombinatorial. Memberikan dasar pengetahuan bagaimana menggunakan matematika diskret untuk memodelkan dan menyelesaikan permasalahan.|
-|AIF104		|	-		|**LOGIKA INFORMATIKA (*LOGICS FOR INFORMATICS*)** Memberikan pengetahuan dasar kalkulus kepada mahasiswa, yang nanti digunakan di bidang informatika, misalnya tentang sistem bilangan real, limit, turunan, dan integral. Memberi pengetahuan dasar aljabar matriks yang berkaitan dengan jenis-jenis matriks, operasi matriks, dan sistem persamaan linier. Memberikan pengetahuan kepada mahasiswa bagaimana menyelesaikan masalah dengan menggunakan metode yang telah dijelaskan.	|
-|AIF105		|	-		|**PENGANTAR INFORMATIKA (*INTRODUCTION TO INFORMATICS*)** Mengenal terminologi umum dalam informatika, mampu menggunakan kakas umum dalam informatika seperti MS Excel, mengenal cakupan ilmu informatika.	|
-|AIF106		|	-		|**SISTEM DIJITAL (*DIGITAL SYSTEMS*)** Memberi pengetahuan dasar kepada mahasiswa tentang struktur komputer dan fungsi masing-masing pembentuknya, memberi pengetahuan kepada mahasiswa tentang representasi data di dalam computer serta operasi-operasi aritmatika yang terkait, memberi pengetahuan kepada mahasiswa tentang arsitektur perancangan beberapa bagian penting di dalam komputer. |
-|AIF201		|	-		|**ANALISIS &amp; DESAIN BERORIENTASI OBJEK (*OBJECT-ORIENTED ANALYSIS &amp; DESIGN*)** Mempelajari dasar-dasar serta beberapa prinsip dalam perancangan program berorientasi objek. Mempelajari diagram UML (Unified Modeling Language) untuk mengkomunikasikan desain secara visual. Mempelajari beberapa design pattern dari Gang of Four untuk membantu mempercepat menyelesaikan masalah desain.|
-|AIF202		|	-		|**DESAIN &amp; ANALISIS ALGORITMA (*DESIGN &amp; ANALYSIS OF ALGORITHMS*)** Menggunakan dan merancang algoritma dan struktur data sederhana untuk menyelesaikan masalah-masalah komputasi tertentu  dan mengimplementasikannya menggunakan bahasa pemrograman berorientasi obyek.|
-|AIF203		|	-		|**STRUKTUR DISKRIT (*DISCRETE STRUCTURES*)** Memberikan dasar pengetahuan tentang struktur diskret yang banyak digunakan pada bidang informatika, khususnya graph, pohon dan finite state machine. Memberikan dasar pengetahuan bagaimana menggunakan struktur diskret untuk memodelkan dan menyelesaikan permasalahan.	|
-|AIF205		|	-		|**ARSITEKTUR &amp; ORGANISASI KOMPUTER (*COMPUTER ARCHITECTURES &amp; ORGANISATION*)** Mempelajari cara kerja antar bagian komputer dan arsitektur komputer, cara kerja dari komponen-komponen komputer, dan perkembangan arsitektur komputer modern.|
-|AIF206		|	-		|**SISTEM OPERASI (*OPERATING SYSTEMS*)** Mempelajari pengertian sistem operasi, peran dan fungsinya dalam sebuah sistem perangkat keras, khususnya komputer. Mempelajari prinsip-prinsip, teknik dan algoritma yang digunakan di dalam sebuah sistem operasi, penjadwalan, dan aspek keamanan dalam sistem operasi. Memperkenalkan dan menggunakan lebih dalam beberapa sistem operasi yang umum.	|
-|AIF208		|	-		|**REKAYASA PERANGKAT LUNAK (*SOFTWARE ENGINEERING*)** Mempelajari terminologi, definisi, Software Process Model, review paradigma berorientasi objek, kebutuhan perangkat lunak, *use case modeling, class modelling, dynamic modelling: state transition diagram, sequence diagram, activity diagram, reusability dan design pattern, data flow diagram, testing, software process management*.	|
-|AIF210		|	-		|**INTERAKSI MANUSIA KOMPUTER (*HUMAN-COMPUTER INTERACTION*)** Mempelajari konsep-konsep interaksi manusia dan komputer serta mengimplementasikan dalam bentuk pemrograman di lingkungan GUI dan event driven).|
-|AIF294		|	-		|**MANAJEMEN INFORMASI &amp; BASIS DATA (*INFORMATION MANAGEMENT &amp; DATABASES*)** Mengajarkan konsep dan macam-macam Sistem Manajemen Basis Data (DBMS), pengenalan basis data sederhana mulai dari spreadsheet, merancang dan memodelkan basis data menggunakan ER-D, implementasi tabel, penyimpanan data multimedia, serta cara penggunaan sintaks-sintaks SQL pada DBMS.|
-|AIF301		|	-		|**PENGANTAR SISTEM CERDAS (*INTRODUCTION TO INTELLIGENT SYSTEMS*)** Mempelajari definisi, karakteristikagen cerdas, *blind search, informed search, local search, adversarial search*, representasi pengetahuan dengan *Propositional Logic* dan *First Order Logic*, agen cerdas berbasis logika, *planning*, penanganan ketidakpastian, pembelajaran mesin.|
-|AIF302		|	-		|**PENULISAN ILMIAH (*SCIENTIFIC WRITING*)** Mempersiapkan mahasiswa untuk mulai melakukan penelitian. Memberikan penjelasan tentang penelitian dan jenis-jenisnya.	|
-|AIF303		|	-		|**PENGANTAR SISTEM INFORMASI (*INTRODUCTION TO INFORMATION SYSTEMS*)** Mempelajaritrend Teknologi Informasi, konsep Sistem Informasi Terkomputerisasi (SIT) dan komponen SI, pemanfaatan SI bagi organisasi, pengantar pembangunan SIT, perumusan prosedur-prosedur bisnis, keamanan informasi, pengantar e-bisnis/*e-commerce*, pengantar *Business Intelligence*, pengantar EIS, DSS, *cloud computing* dan *mobile applications*.|
-|AIF304		|	-		|**PROYEK SISTEM INFORMASI 1 (*INFORMATION SYSTEM PROJECT 1*)** Mempelajari pendalaman manajemen projek (penyusunan *Project Implementation Plan*), perumusan lingkup projek untuk organisasi studi kasus, analisis kebutuhan dengan pembuatan *prototype* penyusunan dokumen spesifikasi sistem (SRS).|
-|AIF305		|	-		|**JARINGAN KOMPUTER (*COMPUTER NETWORKS*)** Memperkenalkan organisasi yang berkaitan dengan internet; topologi jaringan;*layering*; komponen-komponen jaringan; aplikasi jaringan; Membangun aplikasi jaringan; lapisan transport – TCP; *Reliable data delivery*; Lapisan jaringan; *Local Area Network*; *Resource Allocation*; *Mobility*; *Multimedia Networking*; Memperkenalkan keamanan jaringan; *Social Networking*; Membangun dan administrasi jaringan LAN.|
-|AIF306		|	-		|**PROYEK INFORMATIKA (*INFORMATICS PROJECT*)** Mempelajari dan mempraktekkan tahap-tahap rekayasa perangkat lunak termasuk manajemen projek pada sebuah projek perangkat lunak nyata pada skala menengah.	|
-|AIF401		|	-		|**SKRIPSI 1 (*UNDERGRADUATE THESIS 1*)** Skripsi 1 merupakan bagian pertama skripsi dengan titik berat pada studi pustaka, pemahaman, pelaporan hasil kerja secara tertulis dan lisan. Topik ditentukan bersama dosen pembimbing.	|
-|AIF402		|	-		|**SKRIPSI 2 (*UNDERGRADUATE THESIS 2*)** Skripsi 2 merupakan bagian kedua skripsi, pendalaman topik dan hasil kerja lengkap bentuk tulisan yang baik dan standar, juga secara lisan. Topik ditentukan bersama dosen pembimbing.	|
-|AIF403		|	Lulus 72 SKS		|**KOMPUTER &amp; MASYARAKAT (*COMPUTER &amp; SOCIETY*)** Menganalisis dan mengkritisi peran, kedudukan dan peluang dalam bidang TIK. Memberi pemahaman mengenai pentingnya peran TIK sebagai &ldquo;process enabler&rdquo; dan &ldquo;process improvement driver&rdquo;, serta memperkenalkan isu-isu teknologi &amp; non-teknologi yang penting dalam bidang TIK. Prasyarat: sudah lulus 72 SKS.|
-|AIF405		|	-		|**PROYEK SISTEM INFORMASI 2 (*INFORMATION SYSTEM PROJECT 2*)** Mempelajari perancangan sistem informasi untuk organisasi studi kasus, implementasi sistem secara gadual, pengujian modul, integrasi dan penerimaan *user* (UAT).|
-|AMS100		|	-		|**MATEMATIKA INFORMATIKA (*MATHEMATICS FOR INFORMATICS*)** Mempelajari pengetahuan dasar matematika yang diperlukan dalama menyelesaikan masalah informatika yang terdiri dari: Sistem Bilangan Real dan Nilai Mutlak, Fungsi dan Limit,  Turunan, Integral, Sistem Persamaan Linear dan Matriks, Determinan, Vektor 2 dan 3 Dimensi.	|
-|AMS200		|	-		|**PROBABILITAS &amp; STATISTIKA (*PROBABILITY &amp; STATISTICS*)** Mempelajari konsep-konsep dasar dalam teori peluang dan statistika.|
+| KODE MK | PRASYARAT    | NAMA &amp; DESKRIPSI MATA KULIAH	|
+|---------|--------------|-------------------------------|
+| AIF101  | -            | **PEMROGRAMAN BERORIENTASI OBJEK (*OBJECT-ORIENTED PROGRAMMING*)** Memperkenalkan konsep-konsep dasar pemrograman dari perspektif berorientasi objek dan membangun dasar-dasar ketrampilan membuat program dengan menggunakan bahasa pemrograman berorientasi objek.                                                                                                                                                                                                                   |
+| AIF102  | -            | **ALGORITMA &amp; STRUKTUR DATA (*ALGORITHMS &amp; DATA STRUCTURES*)** Memperkenalkan konsep–konsep dasar algoritma, analisis algoritma, beberapa algoritma tingkat dasar (searching dan sorting) dan konsep penting mengenai struktur data (list) serta algoritma untuk memprosesnya.                                                                                                                                                                                                 |
+| AIF103  | -            | **MATEMATIKA DISKRIT (*DISCRETE MATHEMATICS*)** Memberikan dasar pengetahuan tentang matematika diskret yang banyak digunakan pada bidang informatika, misalnya himpunan, fungsi dan relasi, dan matematika kombinatorial. Memberikan dasar pengetahuan bagaimana menggunakan matematika diskret untuk memodelkan dan menyelesaikan permasalahan.                                                                                                                                      |
+| AIF104  | -            | **LOGIKA INFORMATIKA (*LOGICS FOR INFORMATICS*)** Memberikan pengetahuan dasar kalkulus kepada mahasiswa, yang nanti digunakan di bidang informatika, misalnya tentang sistem bilangan real, limit, turunan, dan integral. Memberi pengetahuan dasar aljabar matriks yang berkaitan dengan jenis-jenis matriks, operasi matriks, dan sistem persamaan linier. Memberikan pengetahuan kepada mahasiswa bagaimana menyelesaikan masalah dengan menggunakan metode yang telah dijelaskan. |
+| AIF105  | -            | **PENGANTAR INFORMATIKA (*INTRODUCTION TO INFORMATICS*)** Mengenal terminologi umum dalam informatika, mampu menggunakan kakas umum dalam informatika seperti MS Excel, mengenal cakupan ilmu informatika.                                                                                                                                                                                                                                                                             |
+| AIF106  | -            | **SISTEM DIJITAL (*DIGITAL SYSTEMS*)** Memberi pengetahuan dasar kepada mahasiswa tentang struktur komputer dan fungsi masing-masing pembentuknya, memberi pengetahuan kepada mahasiswa tentang representasi data di dalam komputer serta operasi-operasi aritmatika yang terkait, memberi pengetahuan kepada mahasiswa tentang arsitektur perancangan beberapa bagian penting di dalam komputer.                                                                                      |
+| AIF201  | -            | **ANALISIS &amp; DESAIN BERORIENTASI OBJEK (*OBJECT-ORIENTED ANALYSIS &amp; DESIGN*)** Mempelajari dasar-dasar serta beberapa prinsip dalam perancangan program berorientasi objek. Mempelajari diagram UML (Unified Modeling Language) untuk mengkomunikasikan desain secara visual. Mempelajari beberapa design pattern dari Gang of Four untuk membantu mempercepat menyelesaikan masalah desain.                                                                                   |
+| AIF202  | -            | **DESAIN &amp; ANALISIS ALGORITMA (*DESIGN &amp; ANALYSIS OF ALGORITHMS*)** Menggunakan dan merancang algoritma dan struktur data sederhana untuk menyelesaikan masalah-masalah komputasi tertentu  dan mengimplementasikannya menggunakan bahasa pemrograman berorientasi objek.                                                                                                                                                                                                      |
+| AIF203  | -            | **STRUKTUR DISKRIT (*DISCRETE STRUCTURES*)** Memberikan dasar pengetahuan tentang struktur diskret yang banyak digunakan pada bidang informatika, khususnya graph, pohon dan finite state machine. Memberikan dasar pengetahuan bagaimana menggunakan struktur diskret untuk memodelkan dan menyelesaikan permasalahan.                                                                                                                                                                |
+| AIF204  | -            | **MANAJEMEN INFORMASI &amp; BASIS DATA (*INFORMATION MANAGEMENT &amp; DATABASES*)** Mengajarkan konsep dan macam-macam Sistem Manajemen Basis Data (DBMS), pengenalan basis data sederhana mulai dari spreadsheet, merancang dan memodelkan basis data menggunakan ERD, implementasi tabel, penyimpanan data multimedia, serta cara penggunaan sintaks-sintaks SQL pada DBMS.                                                                                                          |
+| AIF205  | -            | **ARSITEKTUR &amp; ORGANISASI KOMPUTER (*COMPUTER ARCHITECTURES &amp; ORGANISATION*)** Mempelajari cara kerja antar bagian komputer dan arsitektur komputer, cara kerja dari komponen-komponen komputer, dan perkembangan arsitektur komputer modern.                                                                                                                                                                                                                                  |
+| AIF206  | -            | **SISTEM OPERASI (*OPERATING SYSTEMS*)** Mempelajari pengertian sistem operasi, peran dan fungsinya dalam sebuah sistem perangkat keras, khususnya komputer. Mempelajari prinsip-prinsip, teknik dan algoritma yang digunakan di dalam sebuah sistem operasi, penjadwalan, dan aspek keamanan dalam sistem operasi. Memperkenalkan dan menggunakan lebih dalam beberapa sistem operasi yang umum.                                                                                      |
+| AIF208  | -            | **REKAYASA PERANGKAT LUNAK (*SOFTWARE ENGINEERING*)** Mempelajari terminologi, definisi, Software Process Model, review paradigma berorientasi objek, kebutuhan perangkat lunak, *use case modeling, class modelling, dynamic modelling: state transition diagram, sequence diagram, activity diagram, reusability dan design pattern, data flow diagram, testing, software process management*.                                                                                       |
+| AIF210  | -            | **INTERAKSI MANUSIA KOMPUTER (*HUMAN-COMPUTER INTERACTION*)** Mempelajari konsep-konsep interaksi manusia dan komputer serta mengimplementasikan dalam bentuk pemrograman di lingkungan GUI dan event driven).                                                                                                                                                                                                                                                                         |
+| AIF301  | -            | **PENGANTAR SISTEM CERDAS (*INTRODUCTION TO INTELLIGENT SYSTEMS*)** Mempelajari definisi, karakteristik agen cerdas, *blind search, informed search, local search, adversarial search*, representasi pengetahuan dengan *propositional logic* dan *first order logic*, agen cerdas berbasis logika, *planning*, penanganan ketidakpastian, pembelajaran mesin.                                                                                                                         |
+| AIF302  | -            | **PENULISAN ILMIAH (*SCIENTIFIC WRITING*)** Mempersiapkan mahasiswa untuk mulai melakukan penelitian. Memberikan penjelasan tentang penelitian dan jenis-jenisnya.                                                                                                                                                                                                                                                                                                                     |
+| AIF303  | -            | **PENGANTAR SISTEM INFORMASI (*INTRODUCTION TO INFORMATION SYSTEMS*)** Mempelajari trend Teknologi Informasi, konsep Sistem Informasi Terkomputerisasi (SIT) dan komponen SI, pemanfaatan SI bagi organisasi, pengantar pembangunan SIT, perumusan prosedur-prosedur bisnis, keamanan informasi, pengantar e-bisnis/*e-commerce*, pengantar *business intelligence*, pengantar EIS, DSS, *cloud computing* dan *mobile applications*.                                                  |
+| AIF304  | -            | **PROYEK SISTEM INFORMASI 1 (*INFORMATION SYSTEM PROJECT 1*)** Mempelajari pendalaman manajemen projek (penyusunan *project implementation plan*), perumusan lingkup projek untuk organisasi studi kasus, analisis kebutuhan dengan pembuatan *prototype* penyusunan dokumen spesifikasi sistem (SRS).                                                                                                                                                                                 |
+| AIF305  | -            | **JARINGAN KOMPUTER (*COMPUTER NETWORKS*)** Memperkenalkan organisasi yang berkaitan dengan internet; topologi jaringan; *layering*; komponen-komponen jaringan; aplikasi jaringan; membangun aplikasi jaringan; lapisan transport – TCP; *Reliable data delivery*; Lapisan jaringan; *local area network*; *resource allocation*; *mobility*; *multimedia networking*; Memperkenalkan keamanan jaringan; *social networking*; Membangun dan administrasi jaringan LAN.                |
+| AIF306  | -            | **PROYEK INFORMATIKA (*INFORMATICS PROJECT*)** Mempelajari dan mempraktekkan tahap-tahap rekayasa perangkat lunak termasuk manajemen projek pada sebuah projek perangkat lunak nyata pada skala menengah.                                                                                                                                                                                                                                                                              |
+| AIF401  | -            | **SKRIPSI 1 (*UNDERGRADUATE THESIS 1*)** Skripsi 1 merupakan bagian pertama skripsi dengan titik berat pada studi pustaka, pemahaman, pelaporan hasil kerja secara tertulis dan lisan. Topik ditentukan bersama dosen pembimbing.                                                                                                                                                                                                                                                      |
+| AIF402  | -            | **SKRIPSI 2 (*UNDERGRADUATE THESIS 2*)** Skripsi 2 merupakan bagian kedua skripsi, pendalaman topik dan hasil kerja lengkap bentuk tulisan yang baik dan standar, juga secara lisan. Topik ditentukan bersama dosen pembimbing.                                                                                                                                                                                                                                                        |
+| AIF403  | Lulus 72 SKS | **KOMPUTER &amp; MASYARAKAT (*COMPUTER &amp; SOCIETY*)** Menganalisis dan mengkritisi peran, kedudukan dan peluang dalam bidang TIK. Memberi pemahaman mengenai pentingnya peran TIK sebagai &ldquo;process enabler&rdquo; dan &ldquo;process improvement driver&rdquo;, serta memperkenalkan isu-isu teknologi &amp; non-teknologi yang penting dalam bidang TIK. Prasyarat: sudah lulus 72 SKS.                                                                                      |
+| AIF405  | -            | **PROYEK SISTEM INFORMASI 2 (*INFORMATION SYSTEM PROJECT 2*)** Mempelajari perancangan sistem informasi untuk organisasi studi kasus, implementasi sistem secara gradual, pengujian modul, integrasi dan penerimaan *user* (UAT).                                                                                                                                                                                                                                                      |
+| AMS100  | -            | **MATEMATIKA INFORMATIKA (*MATHEMATICS FOR INFORMATICS*)** Mempelajari pengetahuan dasar matematika yang diperlukan dalama menyelesaikan masalah informatika yang terdiri dari: sistem bilangan real dan nilai mutlak, fungsi dan limit, turunan, integral, sistem persamaan linear dan matriks, determinan, vektor 2 dan 3 dimensi.                                                                                                                                                   |
+| AMS200  | -            | **PROBABILITAS &amp; STATISTIKA (*PROBABILITY &amp; STATISTICS*)** Mempelajari konsep-konsep dasar dalam teori peluang dan statistika.                                                                                                                                                                                                                                                                                                                                                 |
 
 # BAB 3 KEGIATAN AKADEMIK
 
