@@ -101,10 +101,10 @@ sesuai dengan sesanti Universitas, *Bakuning Hyang Mrih Guna Santyaya Bhakti*, y
 Tujuan FTIS adalah:
 
 1. Menghasilkan lulusan yang memiliki kompetensi sebagai berikut:
-    a. Berbudi pekerti luhur, disiplin, jujur, cinta pada sesama dan lingkungan serta berjiwa religius dalam rangka mengamalkan Pancasila dan Undang-Undang Dasar 1945;
-    b. Memiliki pengetahuan dasar ilmu-ilmu formal/sains yang kokoh dan berkemampuan bernalar yang baik, logis, matematiks, dan/atau fisis;
-    c. Memiliki kemampuan memodelkan, menganalisis, dan mengambil keputusan bagi penyelesaian permasalahan di berbagai bidang baik secara mono, inter, dan/atau multi disipliner;
-    d. Memiliki wawasan yang luas tentang perkembangan ilmu-ilmu formal/sains dan penerapannya, serta mampu bersaing di tataran lokal maupun global.
+   1. Berbudi pekerti luhur, disiplin, jujur, cinta pada sesama dan lingkungan serta berjiwa religius dalam rangka mengamalkan Pancasila dan Undang-Undang Dasar 1945;
+   2. Memiliki pengetahuan dasar ilmu-ilmu formal/sains yang kokoh dan berkemampuan bernalar yang baik, logis, matematiks, dan/atau fisis;
+   3. Memiliki kemampuan memodelkan, menganalisis, dan mengambil keputusan bagi penyelesaian permasalahan di berbagai bidang baik secara mono, inter, dan/atau multi disipliner;
+   4. Memiliki wawasan yang luas tentang perkembangan ilmu-ilmu formal/sains dan penerapannya, serta mampu bersaing di tataran lokal maupun global.
 2. Menghasilkan karya penelitian yang memberikan kontribusi bagi perkembangan ilmu-ilmu formal dan sains hingga ke tataran global.
 3. Melakukan pengabdian kepada masyarakat dengan memanfaatkan karya penelitian di bidang ilmu-ilmu formal dan sains bagi pemenuhan martabat manusia dan keutuhan alam ciptaan.
 
@@ -1145,16 +1145,16 @@ c. Memprioritaskan mata kuliah menjadi **prasyarat** (baik prasyarat *tempuh* at
 d. Memperhatikan **jadwal kuliah dan ujian** yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan mata kuliah-mata kuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
 e. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No.III/PRT/2011-11/211 sebagai berikut:
 
-    | IPS         | HAK TEMPUH PADA SEMESTER BERIKUTNYA |
-    |-------------|-------------------------------------|
-    | &gt;= 3,00  | Maksimum 24 SKS                     |
-    | 2,50 - 2,99 | Maksimum 21 SKS                     |
-    | &lt;= 2,49  | Maksimum 18 SKS                     |
+| IPS         | HAK TEMPUH PADA SEMESTER BERIKUTNYA |
+|-------------|-------------------------------------|
+| &gt;= 3,00  | Maksimum 24 SKS                     |
+| 2,50 - 2,99 | Maksimum 21 SKS                     |
+| &lt;= 2,49  | Maksimum 18 SKS                     |
     
-    Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian:
-    * 1 jam kuliah
-    * 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
-    * 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
+Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian:
+* 1 jam kuliah
+* 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
+* 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
 
 Untuk menentukan mata kuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
 
@@ -1255,11 +1255,11 @@ Syarat untuk mengikuti UTS dan UAS:
 7. Peserta ujian menyerahkan lembar jawab kepada pengawas setelah menyelesaikan ujian atau tepat setelah waktu ujian  berakhir. **Kertas buram** terisi atau tidak harus **dikumpulkan kembali** bersama dengan lembar jawab.
 8. Peserta ujian yang telah menyelesaikan ujian diperkenankan untuk meninggalkan ruang ujian paling cepat **30 menit** setelah ujian dimulai.
 9. Dilarang keras **melakukan kecurangan** dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:
-    a. **Melihat** berkas ujian milik peserta ujian lain;
-    b. **Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain;
-    c. **Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun;
-    d. **Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
-    e. **Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
+   1. **Melihat** berkas ujian milik peserta ujian lain;
+   2. **Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain;
+   3. **Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun;
+   4. **Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
+   5. **Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
 10. Peserta ujian yang **melakukan kecurangan** pada saat ujian akan dikenakan **sanksi akademik** yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.
 11. Selama ujian berlangsung, peserta ujian **tidak diperkenankan meninggalkan ruangan ujian dengan alasan apapun** (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
 
