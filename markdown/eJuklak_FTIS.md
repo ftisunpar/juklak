@@ -1461,64 +1461,64 @@ Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08
 
 Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal tersebut harus telah dicapai oleh mahasiswa yang bersangkutan selambat-lambatnyapada saat Evaluasi Studi Tahap II. Jika pada batas waktu tersebut seorang mahasiswa belum dapat memenuhi skor minimal yang disyaratkan, maka mahasiswa tersebut dapat mengajukan permohonan dispensasi kepada Rektor asalkan memenuhi persyaratan tertentu. Tentang dispensasi ini lebih lanjut diatur pada pasal 5 dari SK Rektor (lihat lampiran).
 
-# LAMPIRAN 1  
+# LAMPIRAN 1
 
-**JADWAL AKADEMIK TAHUN AKADEMIK 2014/2015**
+**JADWAL AKADEMIK TAHUN AKADEMIK 2015/2016**
 
-| Perwalian dan FRS      | Senin-Kamis, 21-24 Juli 2014 | Selasa-Jumat, 13-16 Jan. 2015   |
-|------------------------|------------------------------|---------------------------------|
-| Awal perkuliahan       | Senin, 18 Agt. 2014          | Senin, 26 Jan. 2015             |
-| PRS                    | Senin-Selasa, 1-2 Sep. 2014  | Senin-Selasa, 9-10 Feb. 2015    |
-| UTS                    | Senin-Jumat, 6-18 Okt. 2014  | Senin-Jumat, 16-28 Mar. 2015    |
-| Akhir perkuliahan      | Sabtu, 6 Des. 2014           | Sabtu, 23 Mei 2015              |
-| UAS                    | Senin-Jumat, 8-20 Des.2014   | Senin-Jumat, 25 Mei-6 Juni 2015 |
-| Pengumuman Nilai Akhir | Jumat, 9 Jan. 2015           | Senin, 24 Juni 2015             |  
+| Perwalian dan FRS      | Rabu-Rabu, 1-8 Juli 2015     | Senin-Jumat, 11-15 Jan. 2016 |
+|------------------------|------------------------------|------------------------------|
+| Awal perkuliahan       | Senin, 18 Agt. 2015          | Senin, 25 Jan. 2016          |
+| PRS                    | Selasa-Rabu, 1-2 Sep. 2015   | Selasa-Rabu, 9-10 Feb. 2016  |
+| UTS                    | Senin-Selasa, 5-20 Okt. 2015 | Senin-Rabu, 14-30 Mar. 2016  |
+| Akhir perkuliahan      | Sabtu, 5 Des. 2015           | Sabtu, 14 Mei 2015           |
+| UAS                    | Senin-Sabtu, 7-19 Des. 2015  | Senin-Sabtu, 16-28 Mei 2015  |
+| Pengumuman Nilai Akhir | Jumat, 8 Jan. 2016           | Jumat, 17 Juni 2015          |
 
-# LAMPIRAN 2  
+# LAMPIRAN 2
 
-**JADWAL PEMBAYARAN BIAYA STUDI TAHUN AKADEMIK 2014/2015**
+**JADWAL PEMBAYARAN BIAYA STUDI TAHUN AKADEMIK 2015/2016**
 
-| Tahap                           | Semester Ganjil      | Semester Genap      |
-|---------------------------------|----------------------|---------------------|
-| Tahap 1 (BRP dan 10 SKS)        | Kamis, 14 Juli 2014  | Jumat, 9 Jan 2015   |
-| Tahap 2(Pelunasan SKS dan SAPR) | Senin, 29 Sept. 2014 | Senin, 9 Maret 2015 |  
+| Tahap                           | Semester Ganjil       | Semester Genap       |
+|---------------------------------|-----------------------|----------------------|
+| Tahap 1 (BRP dan 10 SKS)        | Rabu, 1 Juli 2015     | Jumat, 8 Jan 2016    |
+| Tahap 2(Pelunasan SKS dan SAPR) | Selasa, 29 Sept. 2015 | Selasa, 8 Maret 2016 |
 
-# LAMPIRAN 3  
+# LAMPIRAN 3
 
-**SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015**  
+**SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2015/2016**
 
-| Kegiatan                               | Periode LIX          | Periode LX          | Periode LXI         |
-|----------------------------------------|----------------------|---------------------|---------------------|
-| Batas akhir pendaftaran Sidang Sarjana | Jumat, 26 Sept. 2014 | Jumat, 16 Jan. 2015 | Jumat, 12 Jun. 2015 |
-| Sidang Sarjana                         | Jumat, 3 Okt. 2014   | Jumat, 23 Jan. 2015 | Jumat, 19 Jun. 2015 |
-| Batas akhir pendaftaran wisuda         | Senin, 6 Okt. 2014   | Senin, 2 Feb. 2015  | Kamis, 25 Jun. 2015 |
-| Wisuda                                 | Sabtu, 1 Nov. 2014   | Sabtu, 28 Feb. 2015 | Sabtu, 8 Agt. 2015  |  
+| Kegiatan                               | Periode LXII       | Periode LXIII       | Periode LXIV         |
+|----------------------------------------|--------------------|---------------------|----------------------|
+| Batas akhir pendaftaran Sidang Sarjana | -                  | -                   | -                    |
+| Sidang Sarjana                         | -                  | -                   | -                    |
+| Batas akhir pendaftaran wisuda         | -                  | Senin, 1 Feb. 2016  | Kamis, 18 Aug. 2016  |
+| Wisuda                                 | Sabtu, 8 Aug. 2015 | Sabtu, 12 Mar. 2016 | Sabtu, 15 Sept. 2016 |
 
-# LAMPIRAN 4  
+# LAMPIRAN 4
 
-![Lampiran 4](images/Lampiran4_BAB4_1.png)  
-![Lampiran 4](images/Lampiran4_BAB4_2.png)  
-![Lampiran 4](images/Lampiran4_BAB4_3.png)  
-![Lampiran 4](images/Lampiran4_BAB4_4.png)  
-![Lampiran 4](images/Lampiran4_BAB4_5.png)  
-![Lampiran 4](images/Lampiran4_BAB4_6.png)  
+![Lampiran 4](images/Lampiran4_BAB4_1.png)
+![Lampiran 4](images/Lampiran4_BAB4_2.png)
+![Lampiran 4](images/Lampiran4_BAB4_3.png)
+![Lampiran 4](images/Lampiran4_BAB4_4.png)
+![Lampiran 4](images/Lampiran4_BAB4_5.png)
+![Lampiran 4](images/Lampiran4_BAB4_6.png)
 
-# LAMPIRAN 5  
+# LAMPIRAN 5
 
-![Lampiran 5](images/Lampiran5_BAB4_1.png)  
-![Lampiran 5](images/Lampiran5_BAB4_2.png)  
-![Lampiran 5](images/Lampiran5_BAB4_3.png)  
+![Lampiran 5](images/Lampiran5_BAB4_1.png)
+![Lampiran 5](images/Lampiran5_BAB4_2.png)
+![Lampiran 5](images/Lampiran5_BAB4_3.png)
 
-# LAMPIRAN 6 
+# LAMPIRAN 6
 
-![Lampiran 6](images/Lampiran6_BAB4_1.png)  
-![Lampiran 6](images/Lampiran6_BAB4_2.png)  
+![Lampiran 6](images/Lampiran6_BAB4_1.png)
+![Lampiran 6](images/Lampiran6_BAB4_2.png)
 
 # LAMPIRAN 7
 
-![Lampiran 7](images/Lampiran7_BAB4_1.png)  
-![Lampiran 7](images/Lampiran7_BAB4_2.png)  
-![Lampiran 7](images/Lampiran7_BAB4_3.png)  
-![Lampiran 7](images/Lampiran7_BAB4_4.png)  
-![Lampiran 7](images/Lampiran7_BAB4_5.png)  
+![Lampiran 7](images/Lampiran7_BAB4_1.png)
+![Lampiran 7](images/Lampiran7_BAB4_2.png)
+![Lampiran 7](images/Lampiran7_BAB4_3.png)
+![Lampiran 7](images/Lampiran7_BAB4_4.png)
+![Lampiran 7](images/Lampiran7_BAB4_5.png)
 ![Lampiran 7](images/Lampiran7_BAB4_6.png)
