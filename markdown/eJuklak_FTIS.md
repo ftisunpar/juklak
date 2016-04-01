@@ -127,13 +127,13 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 ## 1.4 Pengelolah Fakultas
 
 1. Senat FTIS
-    - Ketua: Agus Sukmana, S.Si., M.Sc.
-    - Sekretaris: Philips Nicolas Gunawidjaja, B.Sc. (Hons), Ph.D.
+    - Ketua: Dr. Thomas Anung Basuki, S.T., M.Kom.
+    - Sekretaris: Iwan Sugiarto, S.Si., M.Si.
 2. Dekanat
     - Dekan: Dr. drs. Ferry Jaya Permana, M.Si., ASAI
-    - WD I (Akademik): Thomas Anung Basuki, Ph.D.
+    - WD I (Akademik): Dr. rer. Nat. Cecilia E. Nugraheni, S.T., M.T.
     - WD II (Keuangan dan Sumberdaya): Maria Anestasia, S.Si., M.Si.
-    - WD III (Kemahasiswaan dan Alumni): Dr.rer.nat. Cecilia E. Nugraheni, S.T., M.T.
+    - WD III (Kemahasiswaan dan Alumni): Flaviana Chaterine, S.Si, M.T.
 3. Program Studi Matematika
     - Ketua: Dr. drs. Ferry Jaya Permana, M.Si., ASAI
     - Sekretaris: Livia Owen, S.Si., M.Si.
@@ -142,7 +142,7 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
     - KaLab. Fisika Dasar: Risti Suryantari, S.Si., M.Si.
     - KaLab. Elektronika &amp; Fisika Lanjut: Janto V. Sulungbudi, Drs.
 5. Program Studi Teknik Informatika
-    - Ketua: Mariskha Tri Adithia, P.D.Eng
+    - Ketua: Mariskha Tri Adithia, S.Si., M.Sc., P.D.Eng
     - Sekretaris: Husnul Hakim, S.Kom, M.T.
     - KaLab. Komputasi: Chandra Wijaya, S.T., M.T.
 6. Tata Usaha
@@ -252,7 +252,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
     * Elok Fidiani, S.Si. (UGM), M.Sc. (TU Dresden):
     Fisika Dasar, Fisika Statistik, Pengantar Fisika Material, Nanoteknologi dan Lingkungan.
     Email: elokfidiani@unpar.ac.id
-    * Flaviana Catherine, S.Si. (UNPAR), M.Si. (ITB):
+    * Flaviana Catherine, S.Si. (UNPAR), M.T. (ITB):
     Fisika Dasar, Pengantar Fisika Nuklir, Fisika Kedokteran, Fisika Instrumentasi Medis.
     Email: flaviana@unpar.ac.id
     * Haryanto Mangaratua Siahaan, S.Si. (ITB), M.Si. (ITB), Ph.D. (University of Saskatchewan - Kanada):
